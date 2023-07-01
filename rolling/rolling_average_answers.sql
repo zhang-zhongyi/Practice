@@ -2,7 +2,7 @@
 WITH 
 daily AS (
   SELECT 
-    DATE(transaction_time) AS transaction_date,
+      DATE(transaction_time) AS transaction_date,
       SUM(transaction_amount) AS daily_amount
   FROM transactions
   WHERE DATE(transaction_time) BETWEEN '2021-01-01' AND '2021-01-31'
