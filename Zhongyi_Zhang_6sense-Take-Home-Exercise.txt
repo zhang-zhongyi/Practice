@@ -1,0 +1,190 @@
+Take Home Exercise from 6sense
+Name: Zhongyi Zhang 
+Time: 2022-02-18 12:30 PM PST - 2022-02-18 02:00 PM PST (1.5 hours)
+
+Questions:
+I.
+A. What percentage of companies with a 6sense score (ss_score) of at least 85
+and were added to the database (created) in January 2018 have been won
+(became a 6sense customer)?
+
+My answer:
+-- Below query is in MySQL format:
+
+SELECT SUM(CASE WHEN won = True THEN 1 ELSE 0 END) / COUNT(DISTINCT id) AS Percentage
+FROM Company 
+WHERE ss_score >= 85 AND DATE_FORMAT(create_dt, '%Y-%m-01') = '2018-01-01'
+
+
+
+B. At the company level, what is the average number of contacts that were
+interacted with before a successful (won) sale?
+
+My answer:
+-- Both MySQL and PostgreSQL should work for below query:
+
+SELECT SUM(cnt) / COUNT(company_name) AS Average_contact_before_sale
+FROM (
+SELECT com.company_name, count(i.contact_id) AS cnt
+FROM Interaction i
+LEFT JOIN Contact con ON i.contact_id = con.id
+LEFT JOIN Company com ON con.company_id = com.id 
+WHERE i.interaction_dt < com.won_dt AND won = True
+GROUP BY 1
+) t
+
+
+
+C. What is the interaction channel and the name of BOTH the Sales rep and
+Customer Service rep who last interacted with the following companies:
+XYZ inc., ABC co., 123 ltd.
+
+Note: Sales reps interact with a company through the date of a sale,
+while CS reps interact with a company after the date of sale.
+
+Bonus (time permitting): See if you return the number of times those reps
+have interacted with this company in the same query output.
+
+My answer:
+-- Since I will use window functions like row_number(), below query is in PostgreSQL 
+-- (I did the bonus. The query is a little long but should work):
+
+SELECT td.company_name,
+td.interaction_channel,
+td.sales_rep,
+-- Bonus:
+te.cnt AS Last_Sales_Rep_Contact_Times,
+td.customer_service_rep,
+-- Bonus: 
+tf.cnt AS Last_Customer_Service_Rep_Contact_Times
+FROM (
+SELECT tb.company_name, tb.interaction_channel, 
+tb.Sales_rep,
+tc.Customer_Service_Rep
+FROM 
+-- Below sub-query selected the pre-sale last contacted sales representative of each company
+(
+SELECT ta.* 
+FROM 
+(
+SELECT i2.contact_id, 
+i2.rep_name AS Sales_rep,
+i2.interaction_channel,
+i2.interaction_dt,
+com.id AS company_id,
+com.company_name AS company_name,
+ROW_NUMBER() OVER (PARTITION BY i2.contact_id ORDER BY i2.interaction_dt DESC) AS rn
+FROM Interaction i2
+LEFT JOIN Contact con ON i2.contact_id = con.id
+LEFT JOIN Company com ON con.company_id = com.id 
+WHERE i2.interaction_dt < com.won_dt
+) ta
+WHERE ta.rn = 1
+) tb
+LEFT JOIN 
+-- Below sub-query selected the post-sale last contacted customer service representative of each company
+(
+SELECT com.id AS company_id, 
+com.company_name AS company_name, 
+i.interaction_channel, 
+i.rep_name AS Customer_Service_Rep
+FROM (
+SELECT i1.* 
+FROM 
+(
+SELECT contact_id, rep_name, 
+interaction_channel,
+interaction_dt,
+ROW_NUMBER() OVER (PARTITION BY contact_id ORDER BY interaction_dt DESC) AS rn
+FROM Interaction
+) i1
+WHERE i1.rn = 1
+) i 
+LEFT JOIN Contact con ON i.contact_id = con.id 
+LEFT JOIN Company com ON con.company_id = com.id 
+) tc
+ON tb.company_id = tc.company_id 
+WHERE tb.company_name LIKE '%XYZ inc.%' 
+OR tb.company_name LIKE '%ABC co.%' 
+OR tb.company_name LIKE '%123 ltd.%' 
+) td
+-- Calculate the number of times that sales representative contacted
+LEFT JOIN (
+SELECT com.company_name, rep_name, COUNT(ii.rep_name) AS cnt
+FROM Interaction ii 
+LEFT JOIN Contact con ON ii.contact_id = con.id 
+LEFT JOIN Company com ON con.company_id = com.id 
+GROUP BY 1,2
+) te ON td.company_name = te.company_name 
+AND td.Sales_rep = te.rep_name
+-- Calculate the number of times that customer service representative contacted
+LEFT JOIN (
+SELECT com.company_name, rep_name, COUNT(ii.rep_name) AS cnt
+FROM Interaction ii 
+LEFT JOIN Contact con ON ii.contact_id = con.id 
+LEFT JOIN Company com ON con.company_id = com.id 
+GROUP BY 1,2
+) tf ON td.company_name = tf.company_name 
+AND td.customer_service_rep = tf.rep_name
+
+
+
+
+
+QUESTION I end here.
+
+
+
+
+
+II. The 6sense Marketing team is planning on running a campaign in which they
+mail a promotional item to all prospects (individuals) that they met at a recent
+event, with the goal that this mailer will lead to a sales call with the prospect.
+
+The 6sense Data Science team has created a “Qualifying Model” that scores all
+prospects (those met at previous events, those interacted with through other
+channels, and those that have never been contacted) and assigns them a score
+(1-100 scale) predicting the likelihood that a prospect, after receiving a
+promotional item in the mail, will take a sales call. The Data Science team
+suggests that Marketing should target any prospect with a score greater than 70.
+
+How can the team test if targeting with the “Qualifying Model” score impacts
+the success of the campaign? Explain how you would perform this test.
+
+My answer:
+This is a problem that can be solved by a case-control study. We can Separate our potential clients into two groups:
+
+Group A: for clients who scored higher than 70, we send them promotional items.
+Group B: the same number of clients as above scored lower than 70, and we also send them promotional items.
+
+The result is a straightforward binary classification outcome for each group:
+1. either the client answered the sales call 
+2. or not answering the sales call.
+
+Now we make a hypothesis:
+H0 (Null hypothesis): p1 <= 0.05, the score is not statistically significant to the sales call.
+H1 (or Ha Alternative hypothesis): p1 > 0.05, the score is statistically significant to the sales call.
+
+Then we will collect data from our experiment like the sample average (Xbar) = (number of clients who took the sales call)/(sample size)
+Sample standard deviation Var(Xbar) = p * (1-p)/(n-1). (p is the sample average and n is the sample size)
+According to our hypothesis, the score should affect the outcome if the clients answered the sales call.
+
+Then we can calculate the Z score: Z = Xbar - Miu / (standard deviation)  (Miu is the expected result we expected to clients scoring higher than 70 will answering our call)
+Then we can calculate the corresponding P-value according to the standard normal distribution: Pr(observation|H0) = Pr(Z>=2.54) (98% probability)
+
+If p-value < 0.05, that means our confidence interval is 95%. It means there is little probability observing clients answered sales call not related to the score.
+Here, we reject the null hypothesis and we can accept the alternative hypothesis that the score is statistically significant to the sales call.
+
+The next step is we do the above hypothesis and experiment for the clients who scored lower than 70 to see if they answered the sales call.
+Now we have an experiment group and a control group. We calculate their p-value and variance = p*(1-p)/(n-1) 
+Then we can calculate its Z score (p1 - p0)/sd = (p1 - p0) / (var(p1) + var(p0))
+
+Finally, we can calculate its p-value through Z-score. if the p-value is greater than 0.05 then it means a 95% confidence interval.
+We will accept the alternative hypothesis and reject the null hypothesis, which means the score is statistically significant to the sales call.
+
+
+
+
+
+Please feel free to contact if you have any doubts or would like to discuss with me regarding above answers. I can provide more details. Thank you.
+End

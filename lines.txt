@@ -1,0 +1,9 @@
+8
+Leonardo DiCaprio,The Revenant
+Christian Bale,Vice
+Morgan Freeman,Shawshank Redemption
+Leonardo DiCaprio,The Great Gatsby
+Christian Bale,American Psycho
+Morgan Freeman,The Dark Knight
+Christian Bale,The Dark Knight
+Samuel L. Jackson,Pulp Fiction

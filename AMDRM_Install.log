@@ -1,0 +1,33 @@
+2023/4/1 11:40:10 :: Occurance of 'PRO' NOT found.Proceed with installation.
+2023/4/1 11:40:10 :: Installation can CONTINUE. Processor : Intel(R) Core(TM) i9-10900K CPU @ 3.70GHz Manufacturer : Micro-Star International Co., Ltd.
+4/1/2023 11:40:16 AM :: Function RemoveAMDRMService Started.
+4/1/2023 11:40:16 AM :: Function ReadRegistryKey started.
+4/1/2023 11:40:16 AM :: Function ReadRegistryKey KeyValue is 
+4/1/2023 11:40:16 AM :: Function ReadRegistryKey Ended.
+4/1/2023 11:40:16 AM :: SDK install path as per environment variable : C:\Program Files\AMD\RyzenMasterSDK\
+4/1/2023 11:40:16 AM :: Path from which service runs as per registry : 
+4/1/2023 11:40:16 AM :: Not uninstalling driver service as it does not belong to current installer being removed.
+4/1/2023 11:40:16 AM :: Function RemoveAMDRMService. Minor Upgrade property is : 
+4/1/2023 11:40:16 AM :: Function RemoveAMDRMService Ended.
+2023/4/15 12:31:07 :: Occurance of 'PRO' NOT found.Proceed with installation.
+2023/4/15 12:31:07 :: Installation can CONTINUE. Processor : Intel(R) Core(TM) i9-10900K CPU @ 3.70GHz Manufacturer : Micro-Star International Co., Ltd.
+4/15/2023 12:31:13 PM :: Function RemoveAMDRMService Started.
+4/15/2023 12:31:13 PM :: Function ReadRegistryKey started.
+4/15/2023 12:31:13 PM :: Function ReadRegistryKey KeyValue is 
+4/15/2023 12:31:13 PM :: Function ReadRegistryKey Ended.
+4/15/2023 12:31:13 PM :: SDK install path as per environment variable : C:\Program Files\AMD\RyzenMasterSDK\
+4/15/2023 12:31:13 PM :: Path from which service runs as per registry : 
+4/15/2023 12:31:13 PM :: Not uninstalling driver service as it does not belong to current installer being removed.
+4/15/2023 12:31:13 PM :: Function RemoveAMDRMService. Minor Upgrade property is : 
+4/15/2023 12:31:13 PM :: Function RemoveAMDRMService Ended.
+2023/6/1 4:11:36 :: Occurance of 'PRO' NOT found.Proceed with installation.
+2023/6/1 4:11:36 :: Installation can CONTINUE. Processor : Intel(R) Core(TM) i9-10900K CPU @ 3.70GHz Manufacturer : Micro-Star International Co., Ltd.
+6/1/2023 4:11:42 AM :: Function RemoveAMDRMService Started.
+6/1/2023 4:11:42 AM :: Function ReadRegistryKey started.
+6/1/2023 4:11:42 AM :: Function ReadRegistryKey KeyValue is 
+6/1/2023 4:11:42 AM :: Function ReadRegistryKey Ended.
+6/1/2023 4:11:42 AM :: SDK install path as per environment variable : C:\Program Files\AMD\RyzenMasterSDK\
+6/1/2023 4:11:42 AM :: Path from which service runs as per registry : 
+6/1/2023 4:11:42 AM :: Not uninstalling driver service as it does not belong to current installer being removed.
+6/1/2023 4:11:42 AM :: Function RemoveAMDRMService. Minor Upgrade property is : 
+6/1/2023 4:11:42 AM :: Function RemoveAMDRMService Ended.

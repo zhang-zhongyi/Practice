@@ -1,0 +1,7 @@
+6
+Pac-man,80,400
+Mortal Kombat,10,30
+Super Tetris,25,100
+Pump it Up,10,40
+Street Fighter II,90,450
+Speed Racer,10,40
