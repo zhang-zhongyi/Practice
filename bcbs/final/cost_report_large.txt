@@ -1,0 +1,805 @@
+September 2020:
+* Billy: $142.38
+* Mary: $574.80
+* Brandon: $679.31
+* Tammy: $2,427.62
+* Larry: $1,104.64
+* Patricia: $1,848.52
+* Kristen: $158.66
+* Rodney: $1,229.88
+* Joshua: $2,404.53
+* Laurie: $2,093.20
+* Sarah: $1,026.42
+* Thomas: $1,797.77
+* Kevin: $1,438.13
+* Colleen: $1,113.88
+* Bradley: $849.48
+* Tanya: $405.23
+* Steven: $1,044.33
+* Cindy: $1,152.39
+* Rhonda: $1,225.23
+* Jennifer: $965.05
+* Jeffrey: $1,068.35
+* James: $1,638.61
+* Russell: $1,131.40
+* Shawn: $1,403.28
+* Stephanie: $127.16
+* Corey: $1,453.31
+* Dorothy: $759.24
+* Melanie: $1,345.40
+* Ronald: $929.16
+* Clayton: $845.67
+* Robert: $535.89
+* Hans P Peterson Memorial Hospital - Cah: $1,305.31
+* Ferguson-Davis Medical Group: $3,642.52
+* Adena Pike Medical Center: $570.10
+* White-Decker Health System: $3,494.82
+* Clay County Memorial Hospital: $888.30
+* Irwin Clinic: $1,984.47
+* Lansdale Hospital: $1,723.64
+* Curtis, Martinez and Vasquez Clinic: $1,131.40
+* St Vincent Jennings Hospital Inc: $1,189.72
+* O.a.s.i.s. Hospital: $576.47
+* Green-Hall Medical Group: $1,075.51
+* Kaiser Foundation Hospital - Woodland Hills: $448.89
+* Baylor Scott And White Medical Center Mckinney: $1,271.68
+* Schultz-Schmidt Medical Group: $2,521.66
+* Patrick-Price Medical Group: $3,561.04
+* Integris Health Edmond: $2,654.27
+* Northeastern Health System: $1,345.40
+* Thomas Medical Group: $127.16
+* Moreno, Bean and Reeves Clinic: $1,359.77
+* Murphy Health Care: $965.05
+* Hoffman-Williams Health System: $3,081.74
+October 2020:
+* Billy: $624.08
+* Emily: $1,816.62
+* Theresa: $367.96
+* Christina: $3,197.21
+* Tammy: $460.03
+* Patricia: $1,362.09
+* Christopher: $1,696.38
+* Rodney: $1,290.72
+* Joshua: $474.38
+* Timothy: $1,068.65
+* Whitney: $608.81
+* Mikayla: $800.98
+* Laurie: $203.39
+* Thomas: $1,178.58
+* Colleen: $1,307.79
+* Travis: $921.58
+* Bradley: $1,387.00
+* Rhonda: $955.59
+* Jennifer: $1,327.09
+* Jeffrey: $995.43
+* Frank: $1,319.32
+* Erica: $1,286.12
+* Kathleen: $1,056.54
+* Shawn: $581.61
+* Stephanie: $1,196.57
+* Gregory: $612.45
+* Jordan: $823.27
+* Corey: $1,168.21
+* Melanie: $389.59
+* Lee: $778.83
+* Susan: $1,096.29
+* Carolyn: $1,945.30
+* Nicole: $890.30
+* Hans P Peterson Memorial Hospital - Cah: $1,178.58
+* Ferguson-Davis Medical Group: $2,075.65
+* Adena Pike Medical Center: $1,919.56
+* White-Decker Health System: $1,842.73
+* Baptist Medical Center - Attala: $1,945.30
+* Clay County Memorial Hospital: $3,188.17
+* Irwin Clinic: $1,383.72
+* Lansdale Hospital: $1,858.34
+* Curtis, Martinez and Vasquez Clinic: $1,970.58
+* Avera Gregory Hospital: $608.81
+* O.a.s.i.s. Hospital: $3,782.74
+* Green-Hall Medical Group: $1,575.88
+* Kline: $1,326.13
+* Schultz-Schmidt Medical Group: $288.81
+* Patrick-Price Medical Group: $778.61
+* Integris Health Edmond: $1,037.05
+* Holland Clinic: $778.83
+* Moreno, Bean and Reeves Clinic: $2,396.91
+* Murphy Health Care: $2,664.67
+* Hoffman-Williams Health System: $2,587.69
+November 2020:
+* Billy: $548.67
+* Emily: $1,900.98
+* Mary: $3,256.45
+* Brandon: $2,895.74
+* Tammy: $468.21
+* Larry: $1,168.69
+* Christopher: $1,492.46
+* Kristen: $776.26
+* Rodney: $762.87
+* Timothy: $139.60
+* Melissa: $555.79
+* Laurie: $1,836.87
+* Sarah: $686.69
+* Thomas: $1,628.39
+* Kevin: $1,108.56
+* Colleen: $317.31
+* Bradley: $102.63
+* Cindy: $1,138.87
+* Rhonda: $1,355.77
+* Eric: $739.74
+* Jeffrey: $1,019.13
+* Frank: $2,199.07
+* Erica: $3,825.81
+* James: $1,353.55
+* Jordan: $596.23
+* Corey: $808.50
+* Melanie: $1,218.91
+* Susan: $1,150.03
+* Carolyn: $1,299.00
+* Hans P Peterson Memorial Hospital - Cah: $759.86
+* Ferguson-Davis Medical Group: $882.31
+* Adena Pike Medical Center: $834.76
+* White-Decker Health System: $587.30
+* Baptist Medical Center - Attala: $1,259.34
+* Clay County Memorial Hospital: $1,150.03
+* Irwin Clinic: $405.22
+* Lansdale Hospital: $2,793.62
+* St Vincent Jennings Hospital Inc: $3,130.62
+* Avera Gregory Hospital: $2,819.14
+* O.a.s.i.s. Hospital: $1,112.34
+* Green-Hall Medical Group: $1,344.49
+* Kaiser Foundation Hospital - Woodland Hills: $2,664.88
+* Baylor Scott And White Medical Center Mckinney: $1,513.47
+* Kline: $432.23
+* Schultz-Schmidt Medical Group: $1,318.30
+* Patrick-Price Medical Group: $2,140.78
+* Integris Health Edmond: $2,436.35
+* Northeastern Health System: $2,459.19
+* Thomas Medical Group: $415.73
+* Holland Clinic: $2,117.43
+* Moreno, Bean and Reeves Clinic: $1,278.47
+* Murphy Health Care: $1,936.19
+* Hoffman-Williams Health System: $558.73
+December 2020:
+* Billy: $890.21
+* Emily: $1,424.74
+* Mary: $915.64
+* Brandon: $2,293.35
+* Christina: $1,945.21
+* Tammy: $2,352.29
+* Larry: $1,396.08
+* Patricia: $1,910.08
+* Christopher: $2,367.11
+* Savannah: $482.32
+* Brian: $2,175.94
+* Rodney: $1,384.30
+* Joshua: $2,551.55
+* Timothy: $1,508.41
+* Melissa: $1,259.95
+* Laurie: $1,264.55
+* Thomas: $1,187.81
+* Colleen: $658.65
+* Travis: $735.52
+* Bradley: $397.82
+* Tanya: $993.65
+* Eric: $1,387.17
+* Jennifer: $1,248.46
+* Jeffrey: $1,722.79
+* Frank: $487.78
+* Daniel: $1,897.98
+* Erica: $1,352.82
+* Kathleen: $712.06
+* James: $469.40
+* Russell: $841.64
+* Shawn: $1,269.04
+* Corey: $1,692.04
+* Lee: $1,551.18
+* Carolyn: $917.76
+* Patrick: $886.23
+* Hans P Peterson Memorial Hospital - Cah: $880.74
+* Ferguson-Davis Medical Group: $1,053.34
+* Adena Pike Medical Center: $2,940.14
+* White-Decker Health System: $1,712.56
+* Baptist Medical Center - Attala: $3,198.03
+* Clay County Memorial Hospital: $2,147.42
+* Irwin Clinic: $366.55
+* Lansdale Hospital: $460.67
+* Curtis, Martinez and Vasquez Clinic: $2,020.35
+* St Vincent Jennings Hospital Inc: $1,082.86
+* Avera Gregory Hospital: $1,961.36
+* O.a.s.i.s. Hospital: $4,276.72
+* Green-Hall Medical Group: $1,353.37
+* Kaiser Foundation Hospital - Woodland Hills: $991.03
+* Baylor Scott And White Medical Center Mckinney: $826.34
+* Kline: $2,198.45
+* Schultz-Schmidt Medical Group: $1,986.42
+* Patrick-Price Medical Group: $2,232.02
+* Integris Health Edmond: $515.34
+* Northeastern Health System: $4,134.39
+* Thomas Medical Group: $6,541.71
+* Holland Clinic: $1,373.99
+* Murphy Health Care: $1,096.89
+* Hoffman-Williams Health System: $1,180.84
+January 2021:
+* Billy: $707.04
+* Emily: $2,325.08
+* Mary: $449.97
+* Christina: $806.01
+* Larry: $307.75
+* Patricia: $743.03
+* Kristen: $952.38
+* Brian: $1,834.97
+* Rodney: $1,173.78
+* Joshua: $2,653.83
+* Timothy: $1,722.76
+* Whitney: $588.68
+* Mikayla: $567.20
+* Melissa: $170.91
+* Laurie: $787.13
+* Sarah: $1,553.16
+* Natalie: $1,042.09
+* Travis: $281.38
+* Bradley: $2,521.59
+* Cindy: $1,148.85
+* Eric: $843.99
+* Jennifer: $235.19
+* Jeffrey: $293.83
+* Daniel: $1,409.07
+* Erica: $1,733.97
+* James: $822.47
+* Russell: $1,013.53
+* Gregory: $1,298.55
+* Dorothy: $1,193.49
+* Melanie: $1,291.45
+* Lee: $2,367.90
+* Susan: $1,180.05
+* Carolyn: $3,588.52
+* Patrick: $349.39
+* Kelly: $446.73
+* Robert: $337.01
+* Hans P Peterson Memorial Hospital - Cah: $1,683.89
+* Ferguson-Davis Medical Group: $1,295.94
+* Adena Pike Medical Center: $1,766.18
+* White-Decker Health System: $235.19
+* Baptist Medical Center - Attala: $2,335.17
+* Clay County Memorial Hospital: $3,391.32
+* Irwin Clinic: $446.73
+* Lansdale Hospital: $2,891.71
+* Curtis, Martinez and Vasquez Clinic: $1,667.64
+* St Vincent Jennings Hospital Inc: $806.01
+* Avera Gregory Hospital: $3,603.70
+* Green-Hall Medical Group: $1,007.68
+* Baylor Scott And White Medical Center Mckinney: $875.13
+* Kline: $4,003.14
+* Schultz-Schmidt Medical Group: $950.44
+* Patrick-Price Medical Group: $170.91
+* Integris Health Edmond: $3,748.05
+* Northeastern Health System: $2,697.54
+* Thomas Medical Group: $1,810.89
+* Holland Clinic: $1,465.44
+* Moreno, Bean and Reeves Clinic: $519.37
+* Murphy Health Care: $2,474.19
+* Hoffman-Williams Health System: $896.47
+February 2021:
+* Billy: $815.00
+* Emily: $2,394.71
+* Brandon: $2,377.80
+* Theresa: $1,773.71
+* Christina: $2,056.29
+* Larry: $886.95
+* Patricia: $2,063.96
+* Christopher: $724.57
+* Kristen: $643.26
+* Brian: $672.94
+* Rodney: $1,219.68
+* Joshua: $1,380.38
+* Sarah: $628.12
+* Kevin: $287.67
+* Colleen: $1,090.43
+* Travis: $1,455.52
+* Bradley: $1,661.80
+* Steven: $1,078.49
+* Cindy: $1,372.19
+* Eric: $869.10
+* Jennifer: $1,272.22
+* Frank: $551.85
+* Daniel: $614.83
+* Erica: $464.31
+* Stephanie: $577.08
+* Gregory: $1,313.17
+* Dorothy: $2,615.36
+* Lee: $1,720.57
+* Carolyn: $507.06
+* Patrick: $457.05
+* Kelly: $1,641.50
+* Hans P Peterson Memorial Hospital - Cah: $1,107.40
+* Ferguson-Davis Medical Group: $3,925.67
+* Adena Pike Medical Center: $1,802.18
+* White-Decker Health System: $1,612.54
+* Baptist Medical Center - Attala: $1,897.52
+* Irwin Clinic: $2,407.41
+* Lansdale Hospital: $253.70
+* Curtis, Martinez and Vasquez Clinic: $344.41
+* St Vincent Jennings Hospital Inc: $2,722.29
+* Avera Gregory Hospital: $751.98
+* O.a.s.i.s. Hospital: $1,719.55
+* Kaiser Foundation Hospital - Woodland Hills: $1,616.89
+* Baylor Scott And White Medical Center Mckinney: $2,629.18
+* Kline: $3,490.91
+* Schultz-Schmidt Medical Group: $1,943.34
+* Patrick-Price Medical Group: $706.65
+* Integris Health Edmond: $1,451.68
+* Northeastern Health System: $2,208.52
+* Thomas Medical Group: $459.59
+* Holland Clinic: $1,627.94
+* Hoffman-Williams Health System: $2,508.22
+March 2021:
+* Billy: $601.07
+* Emily: $314.80
+* Mary: $1,690.39
+* Brandon: $1,856.29
+* Theresa: $657.30
+* Tammy: $1,345.67
+* Larry: $2,303.49
+* Patricia: $1,377.32
+* Christopher: $3,072.35
+* Kristen: $162.07
+* Brian: $112.21
+* Rodney: $691.87
+* Joshua: $3,001.71
+* Timothy: $2,026.41
+* Mikayla: $147.70
+* Melissa: $669.19
+* Laurie: $1,480.26
+* Sarah: $1,391.08
+* Thomas: $3,134.18
+* Colleen: $1,244.53
+* Bradley: $1,362.86
+* Eric: $135.08
+* Jennifer: $1,008.55
+* Daniel: $2,158.70
+* Kathleen: $1,689.13
+* James: $677.23
+* Russell: $463.79
+* Shawn: $1,246.04
+* Jordan: $253.44
+* Corey: $1,298.22
+* Dorothy: $709.55
+* Amanda: $1,230.69
+* Carolyn: $903.20
+* Nicole: $1,082.53
+* Kelly: $472.21
+* Hans P Peterson Memorial Hospital - Cah: $926.22
+* Ferguson-Davis Medical Group: $1,127.32
+* Adena Pike Medical Center: $2,082.35
+* White-Decker Health System: $1,071.08
+* Baptist Medical Center - Attala: $1,510.90
+* Clay County Memorial Hospital: $2,306.77
+* Irwin Clinic: $1,520.96
+* Lansdale Hospital: $3,567.24
+* Curtis, Martinez and Vasquez Clinic: $3,963.44
+* St Vincent Jennings Hospital Inc: $1,380.09
+* Avera Gregory Hospital: $1,491.71
+* O.a.s.i.s. Hospital: $1,566.05
+* Green-Hall Medical Group: $657.30
+* Kaiser Foundation Hospital - Woodland Hills: $3,728.15
+* Baylor Scott And White Medical Center Mckinney: $2,311.63
+* Kline: $601.07
+* Patrick-Price Medical Group: $2,117.56
+* Integris Health Edmond: $1,796.77
+* Northeastern Health System: $1,835.79
+* Thomas Medical Group: $253.44
+* Holland Clinic: $419.28
+* Moreno, Bean and Reeves Clinic: $1,533.01
+* Murphy Health Care: $2,727.91
+* Hoffman-Williams Health System: $1,475.07
+April 2021:
+* Billy: $2,927.65
+* Mary: $1,000.85
+* Brandon: $584.41
+* Tammy: $1,209.04
+* Larry: $1,043.34
+* Patricia: $1,793.25
+* Christopher: $3,202.56
+* Savannah: $1,121.92
+* Brian: $284.11
+* Rodney: $395.16
+* Joshua: $794.29
+* Timothy: $2,671.82
+* Melissa: $1,919.94
+* Laurie: $1,763.07
+* Sarah: $434.32
+* Kevin: $1,054.68
+* Colleen: $1,066.16
+* Natalie: $1,393.79
+* Bradley: $1,339.48
+* Cindy: $652.25
+* Eric: $472.84
+* Jeffrey: $1,012.77
+* Frank: $535.53
+* Daniel: $889.30
+* Kathleen: $850.37
+* James: $2,064.52
+* Stephanie: $1,262.01
+* Dorothy: $1,789.37
+* Melanie: $1,926.57
+* Lee: $1,371.14
+* Susan: $107.10
+* Amanda: $345.72
+* Carolyn: $272.27
+* Nicole: $1,120.84
+* Kelly: $405.14
+* Hans P Peterson Memorial Hospital - Cah: $584.41
+* Ferguson-Davis Medical Group: $2,011.75
+* Adena Pike Medical Center: $4,128.78
+* White-Decker Health System: $1,520.43
+* Baptist Medical Center - Attala: $1,163.37
+* Clay County Memorial Hospital: $2,480.48
+* Irwin Clinic: $3,029.12
+* Lansdale Hospital: $889.30
+* Curtis, Martinez and Vasquez Clinic: $1,824.81
+* St Vincent Jennings Hospital Inc: $1,121.92
+* Avera Gregory Hospital: $2,028.56
+* O.a.s.i.s. Hospital: $1,655.75
+* Green-Hall Medical Group: $530.16
+* Kaiser Foundation Hospital - Woodland Hills: $3,619.34
+* Baylor Scott And White Medical Center Mckinney: $831.97
+* Schultz-Schmidt Medical Group: $835.85
+* Patrick-Price Medical Group: $135.54
+* Integris Health Edmond: $1,827.59
+* Thomas Medical Group: $2,764.93
+* Holland Clinic: $1,254.42
+* Moreno, Bean and Reeves Clinic: $2,953.68
+* Murphy Health Care: $1,209.04
+* Hoffman-Williams Health System: $2,676.38
+May 2021:
+* Billy: $785.73
+* Emily: $399.65
+* Mary: $2,738.62
+* Brandon: $1,887.60
+* Theresa: $346.79
+* Tammy: $1,057.51
+* Patricia: $250.00
+* Christopher: $573.41
+* Kristen: $1,220.31
+* Timothy: $3,192.77
+* Melissa: $3,746.09
+* Laurie: $2,724.86
+* Sarah: $105.91
+* Thomas: $374.68
+* Colleen: $103.68
+* Natalie: $134.74
+* Travis: $658.49
+* Bradley: $518.65
+* Tanya: $1,103.55
+* Steven: $181.31
+* Eric: $636.95
+* Jeffrey: $954.63
+* Erica: $1,040.96
+* James: $932.25
+* Stephanie: $1,256.70
+* Jordan: $386.97
+* Corey: $1,759.84
+* Dorothy: $813.69
+* Melanie: $687.89
+* Lee: $2,047.39
+* Susan: $552.41
+* Nicole: $1,095.03
+* Ronald: $843.47
+* Hans P Peterson Memorial Hospital - Cah: $219.87
+* Ferguson-Davis Medical Group: $2,209.46
+* White-Decker Health System: $687.89
+* Baptist Medical Center - Attala: $1,387.10
+* Clay County Memorial Hospital: $813.20
+* Irwin Clinic: $1,460.96
+* Lansdale Hospital: $1,912.84
+* Curtis, Martinez and Vasquez Clinic: $1,994.23
+* St Vincent Jennings Hospital Inc: $165.08
+* Avera Gregory Hospital: $103.68
+* O.a.s.i.s. Hospital: $1,103.55
+* Green-Hall Medical Group: $3,835.11
+* Kaiser Foundation Hospital - Woodland Hills: $385.68
+* Baylor Scott And White Medical Center Mckinney: $2,735.17
+* Kline: $1,362.33
+* Schultz-Schmidt Medical Group: $3,693.90
+* Patrick-Price Medical Group: $2,427.37
+* Integris Health Edmond: $2,277.82
+* Thomas Medical Group: $805.87
+* Holland Clinic: $1,033.88
+* Murphy Health Care: $3,405.91
+* Hoffman-Williams Health System: $1,091.63
+June 2021:
+* Billy: $1,732.00
+* Emily: $2,394.95
+* Mary: $427.92
+* Brandon: $379.69
+* Christina: $3,570.26
+* Tammy: $207.66
+* Larry: $1,845.64
+* Patricia: $1,226.53
+* Kristen: $2,899.85
+* Rodney: $1,760.26
+* Joshua: $1,002.82
+* Whitney: $158.60
+* Mikayla: $2,535.82
+* Melissa: $912.63
+* Sarah: $1,069.83
+* Thomas: $2,165.61
+* Kevin: $1,192.88
+* Colleen: $1,262.94
+* Natalie: $1,692.35
+* Travis: $326.09
+* Bradley: $2,674.49
+* Tanya: $1,070.98
+* Cindy: $430.54
+* Rhonda: $2,645.93
+* Eric: $259.33
+* Jennifer: $954.57
+* Daniel: $670.71
+* Erica: $693.25
+* James: $447.95
+* Shawn: $686.69
+* Jordan: $407.85
+* Corey: $839.69
+* Dorothy: $1,881.61
+* Lee: $2,616.10
+* Susan: $673.05
+* Ronald: $1,246.25
+* Hans P Peterson Memorial Hospital - Cah: $207.66
+* Ferguson-Davis Medical Group: $4,564.52
+* Adena Pike Medical Center: $2,599.84
+* White-Decker Health System: $89.24
+* Baptist Medical Center - Attala: $2,256.24
+* Irwin Clinic: $1,088.72
+* Lansdale Hospital: $5,693.33
+* Curtis, Martinez and Vasquez Clinic: $1,575.62
+* St Vincent Jennings Hospital Inc: $1,157.34
+* Avera Gregory Hospital: $1,760.09
+* O.a.s.i.s. Hospital: $3,775.77
+* Green-Hall Medical Group: $1,449.52
+* Kaiser Foundation Hospital - Woodland Hills: $1,086.54
+* Baylor Scott And White Medical Center Mckinney: $255.96
+* Kline: $2,027.81
+* Schultz-Schmidt Medical Group: $2,301.68
+* Patrick-Price Medical Group: $407.85
+* Integris Health Edmond: $3,004.69
+* Northeastern Health System: $1,902.99
+* Thomas Medical Group: $3,263.71
+* Holland Clinic: $873.80
+* Moreno, Bean and Reeves Clinic: $3,019.89
+* Hoffman-Williams Health System: $2,600.51
+July 2021:
+* Billy: $1,105.36
+* Mary: $1,768.56
+* Brandon: $1,455.44
+* Christina: $3,148.24
+* Patricia: $1,778.95
+* Christopher: $913.99
+* Brian: $2,525.32
+* Rodney: $794.96
+* Joshua: $828.09
+* Timothy: $810.48
+* Whitney: $1,471.88
+* Melissa: $835.98
+* Laurie: $3,492.38
+* Sarah: $109.81
+* Thomas: $2,562.43
+* Kevin: $782.64
+* Colleen: $1,382.34
+* Travis: $158.75
+* Bradley: $566.40
+* Tanya: $2,349.77
+* Cindy: $3,118.38
+* Rhonda: $1,700.73
+* Eric: $3,205.05
+* Jennifer: $1,267.62
+* Jeffrey: $705.51
+* Russell: $363.84
+* Shawn: $684.03
+* Stephanie: $217.32
+* Gregory: $1,298.99
+* Jordan: $2,459.16
+* Corey: $931.86
+* Lee: $1,354.98
+* Carolyn: $212.47
+* Ronald: $896.34
+* Hans P Peterson Memorial Hospital - Cah: $224.31
+* Ferguson-Davis Medical Group: $2,849.91
+* Adena Pike Medical Center: $2,499.85
+* White-Decker Health System: $1,975.60
+* Baptist Medical Center - Attala: $965.13
+* Clay County Memorial Hospital: $4,446.85
+* Irwin Clinic: $882.07
+* Curtis, Martinez and Vasquez Clinic: $2,383.28
+* St Vincent Jennings Hospital Inc: $1,498.65
+* Avera Gregory Hospital: $688.87
+* O.a.s.i.s. Hospital: $5,316.31
+* Green-Hall Medical Group: $1,961.81
+* Baylor Scott And White Medical Center Mckinney: $2,983.93
+* Kline: $1,282.50
+* Schultz-Schmidt Medical Group: $966.68
+* Patrick-Price Medical Group: $1,039.51
+* Integris Health Edmond: $1,896.15
+* Northeastern Health System: $113.80
+* Thomas Medical Group: $2,305.41
+* Holland Clinic: $1,392.16
+* Moreno, Bean and Reeves Clinic: $1,892.24
+* Murphy Health Care: $3,919.49
+* Hoffman-Williams Health System: $3,773.54
+August 2021:
+* Billy: $634.68
+* Emily: $384.41
+* Mary: $4,248.76
+* Brandon: $1,130.23
+* Theresa: $1,315.48
+* Christina: $1,308.43
+* Tammy: $2,401.83
+* Larry: $1,095.56
+* Patricia: $1,003.58
+* Christopher: $841.68
+* Kristen: $206.40
+* Savannah: $695.63
+* Brian: $794.57
+* Joshua: $1,367.79
+* Timothy: $500.21
+* Mikayla: $1,152.55
+* Melissa: $2,136.61
+* Sarah: $1,349.72
+* Kevin: $1,659.08
+* Travis: $326.24
+* Bradley: $987.02
+* Cindy: $907.73
+* Eric: $1,354.38
+* Jeffrey: $3,432.27
+* Daniel: $1,579.75
+* Kathleen: $1,294.98
+* James: $974.09
+* Shawn: $334.31
+* Jordan: $1,812.78
+* Corey: $680.61
+* Susan: $244.85
+* Carolyn: $953.41
+* Nicole: $1,923.58
+* Ferguson-Davis Medical Group: $2,697.49
+* White-Decker Health System: $958.74
+* Baptist Medical Center - Attala: $2,358.37
+* Clay County Memorial Hospital: $823.48
+* Irwin Clinic: $1,516.61
+* Lansdale Hospital: $206.40
+* Curtis, Martinez and Vasquez Clinic: $2,427.92
+* St Vincent Jennings Hospital Inc: $5,176.61
+* Avera Gregory Hospital: $3,818.62
+* O.a.s.i.s. Hospital: $762.10
+* Green-Hall Medical Group: $634.68
+* Kaiser Foundation Hospital - Woodland Hills: $958.63
+* Baylor Scott And White Medical Center Mckinney: $1,212.76
+* Kline: $1,999.99
+* Schultz-Schmidt Medical Group: $172.84
+* Patrick-Price Medical Group: $5,038.48
+* Integris Health Edmond: $1,358.50
+* Northeastern Health System: $623.75
+* Thomas Medical Group: $3,517.48
+* Holland Clinic: $224.92
+* Moreno, Bean and Reeves Clinic: $1,313.93
+* Murphy Health Care: $1,911.73
+* Hoffman-Williams Health System: $1,319.17
+September 2021:
+* Billy: $523.73
+* Mary: $1,089.06
+* Brandon: $571.53
+* Theresa: $2,645.06
+* Tammy: $1,154.37
+* Larry: $2,656.65
+* Christopher: $1,157.54
+* Kristen: $2,849.85
+* Brian: $2,434.54
+* Rodney: $1,814.03
+* Joshua: $1,236.57
+* Timothy: $472.95
+* Whitney: $756.54
+* Melissa: $173.81
+* Laurie: $1,609.68
+* Thomas: $799.41
+* Kevin: $95.79
+* Colleen: $1,534.57
+* Natalie: $724.84
+* Travis: $1,015.74
+* Tanya: $517.51
+* Cindy: $942.26
+* Jennifer: $2,312.81
+* Jeffrey: $737.01
+* Daniel: $157.00
+* Erica: $775.22
+* Kathleen: $1,938.33
+* Russell: $1,902.08
+* Shawn: $459.24
+* Stephanie: $424.13
+* Jordan: $117.74
+* Corey: $730.13
+* Dorothy: $1,169.21
+* Melanie: $1,745.20
+* Lee: $1,769.80
+* Carolyn: $2,493.31
+* Patrick: $1,360.09
+* Nicole: $197.80
+* Ronald: $1,298.66
+* Kelly: $1,331.49
+* Hans P Peterson Memorial Hospital - Cah: $5,713.99
+* Ferguson-Davis Medical Group: $1,317.89
+* Adena Pike Medical Center: $1,858.08
+* White-Decker Health System: $459.24
+* Baptist Medical Center - Attala: $4,119.83
+* Clay County Memorial Hospital: $728.53
+* Lansdale Hospital: $353.90
+* Curtis, Martinez and Vasquez Clinic: $3,778.51
+* St Vincent Jennings Hospital Inc: $2,352.13
+* Avera Gregory Hospital: $2,547.56
+* O.a.s.i.s. Hospital: $2,178.93
+* Green-Hall Medical Group: $2,773.08
+* Kaiser Foundation Hospital - Woodland Hills: $957.91
+* Baylor Scott And White Medical Center Mckinney: $2,613.11
+* Kline: $1,192.50
+* Patrick-Price Medical Group: $1,605.52
+* Integris Health Edmond: $3,470.81
+* Northeastern Health System: $1,179.22
+* Thomas Medical Group: $4,405.99
+* Holland Clinic: $1,434.21
+* Murphy Health Care: $2,654.34
+October 2021:
+* Billy: $1,063.96
+* Mary: $395.86
+* Brandon: $598.88
+* Christina: $706.39
+* Tammy: $301.29
+* Larry: $1,396.27
+* Patricia: $607.27
+* Christopher: $401.04
+* Kristen: $482.37
+* Brian: $1,175.21
+* Rodney: $2,312.71
+* Joshua: $935.76
+* Timothy: $363.78
+* Mikayla: $3,715.92
+* Melissa: $1,326.48
+* Laurie: $810.11
+* Sarah: $1,599.27
+* Thomas: $2,082.13
+* Kevin: $580.16
+* Colleen: $199.10
+* Travis: $1,069.00
+* Bradley: $280.20
+* Steven: $493.56
+* Cindy: $1,221.21
+* Rhonda: $848.69
+* Jennifer: $1,286.32
+* Frank: $1,144.03
+* Erica: $1,282.96
+* Shawn: $3,941.42
+* Corey: $1,197.28
+* Dorothy: $1,111.53
+* Lee: $1,682.62
+* Susan: $277.47
+* Kelly: $396.44
+* Robert: $167.65
+* Hans P Peterson Memorial Hospital - Cah: $1,910.20
+* Ferguson-Davis Medical Group: $994.36
+* Adena Pike Medical Center: $2,561.39
+* Baptist Medical Center - Attala: $3,689.87
+* Clay County Memorial Hospital: $482.37
+* Irwin Clinic: $2,000.75
+* Lansdale Hospital: $1,022.33
+* Curtis, Martinez and Vasquez Clinic: $3,466.60
+* St Vincent Jennings Hospital Inc: $1,424.23
+* Avera Gregory Hospital: $3,504.83
+* O.a.s.i.s. Hospital: $912.29
+* Green-Hall Medical Group: $649.81
+* Kaiser Foundation Hospital - Woodland Hills: $409.86
+* Baylor Scott And White Medical Center Mckinney: $185.99
+* Kline: $915.98
+* Schultz-Schmidt Medical Group: $2,313.16
+* Patrick-Price Medical Group: $1,912.56
+* Integris Health Edmond: $1,481.84
+* Northeastern Health System: $167.65
+* Thomas Medical Group: $1,498.68
+* Holland Clinic: $1,979.37
+* Moreno, Bean and Reeves Clinic: $3,449.82
+* Murphy Health Care: $520.40

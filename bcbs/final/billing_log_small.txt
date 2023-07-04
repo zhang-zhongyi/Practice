@@ -1,0 +1,10 @@
+Member Edgar
+Member Frannie
+Provider EastShore Healthcare
+Provider Alliance Medical Group
+Bill Alliance Medical Group Frannie 2021-02-02 1050.00
+Member Michael
+Bill Alliance Medical Group Edgar 2021-01-24 299.25
+Bill EastShore Healthcare Michael 2021-01-01 6014.30
+Bill EastShore Healthcare Edgar 2021-04-12 3000.00
+Bill EastShore Healthcare Edgar 2021-01-07 499.25

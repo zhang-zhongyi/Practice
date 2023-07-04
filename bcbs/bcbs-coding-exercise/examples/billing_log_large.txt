@@ -1,0 +1,851 @@
+Member Billy
+Provider Hans P Peterson Memorial Hospital - Cah
+Bill Hans P Peterson Memorial Hospital - Cah Billy 2020-09-25 142.38
+Member Emily
+Provider Ferguson-Davis Medical Group
+Member Mary
+Provider Adena Pike Medical Center
+Member Brandon
+Bill Ferguson-Davis Medical Group Emily 2021-06-09 966.01
+Member Theresa
+Bill Adena Pike Medical Center Mary 2021-04-11 554.16
+Member Christina
+Provider White-Decker Health System
+Provider Baptist Medical Center - Attala
+Bill Baptist Medical Center - Attala Brandon 2021-03-08 1228.54
+Member Tammy
+Member Larry
+Provider Clay County Memorial Hospital
+Member Patricia
+Provider Irwin Clinic
+Bill Baptist Medical Center - Attala Patricia 2021-06-01 810.86
+Member Christopher
+Bill Adena Pike Medical Center Christina 2021-06-13 1239.00
+Bill Irwin Clinic Theresa 2021-02-18 1135.19
+Provider Lansdale Hospital
+Provider Curtis, Martinez and Vasquez Clinic
+Member Kristen
+Provider St Vincent Jennings Hospital Inc
+Bill White-Decker Health System Christopher 2020-12-23 1192.87
+Bill Baptist Medical Center - Attala Larry 2021-06-06 793.09
+Member Savannah
+Provider Avera Gregory Hospital
+Member Brian
+Member Rodney
+Member Joshua
+Provider O.a.s.i.s. Hospital
+Provider Green-Hall Medical Group
+Member Timothy
+Provider Kaiser Foundation Hospital - Woodland Hills
+Member Whitney
+Member Mikayla
+Bill Ferguson-Davis Medical Group Kristen 2020-09-02 158.66
+Provider Baylor Scott And White Medical Center Mckinney
+Member Melissa
+Provider Kline
+Bill Clay County Memorial Hospital Billy 2020-12-21 234.60
+Provider Schultz-Schmidt Medical Group
+Bill Hans P Peterson Memorial Hospital - Cah Tammy 2021-06-05 207.66
+Provider Patrick-Price Medical Group
+Member Laurie
+Bill Ferguson-Davis Medical Group Mikayla 2021-06-28 619.91
+Bill Kline Billy 2021-03-09 601.07
+Member Sarah
+Bill St Vincent Jennings Hospital Inc Savannah 2021-08-01 695.63
+Bill O.a.s.i.s. Hospital Melissa 2021-07-04 835.98
+Member Thomas
+Member Kevin
+Bill Green-Hall Medical Group Theresa 2021-09-26 657.90
+Provider Integris Health Edmond
+Member Colleen
+Bill Lansdale Hospital Kristen 2021-08-30 206.40
+Provider Northeastern Health System
+Bill Curtis, Martinez and Vasquez Clinic Mary 2021-01-04 449.97
+Provider Thomas Medical Group
+Bill Patrick-Price Medical Group Brandon 2021-08-16 1130.23
+Member Natalie
+Bill Baylor Scott And White Medical Center Mckinney Brian 2021-09-17 604.13
+Member Travis
+Bill Green-Hall Medical Group Timothy 2021-05-31 1156.58
+Member Bradley
+Bill Ferguson-Davis Medical Group Thomas 2021-09-10 799.41
+Bill Avera Gregory Hospital Rodney 2020-11-21 451.57
+Bill Irwin Clinic Patricia 2021-06-03 415.67
+Bill Curtis, Martinez and Vasquez Clinic Billy 2021-05-11 629.95
+Bill Curtis, Martinez and Vasquez Clinic Larry 2021-10-29 513.31
+Member Tanya
+Bill Kaiser Foundation Hospital - Woodland Hills Travis 2021-10-24 409.86
+Member Steven
+Member Cindy
+Member Rhonda
+Member Eric
+Bill Baptist Medical Center - Attala Timothy 2021-03-03 282.36
+Bill Avera Gregory Hospital Joshua 2021-04-29 684.66
+Member Jennifer
+Member Jeffrey
+Bill Hans P Peterson Memorial Hospital - Cah Whitney 2021-01-13 588.68
+Member Frank
+Member Daniel
+Bill Baptist Medical Center - Attala Emily 2020-11-04 832.03
+Provider Holland Clinic
+Bill Integris Health Edmond Emily 2021-02-17 564.73
+Member Erica
+Bill Northeastern Health System Sarah 2020-11-06 686.69
+Provider Moreno, Bean and Reeves Clinic
+Bill Thomas Medical Group Steven 2021-05-13 181.31
+Bill St Vincent Jennings Hospital Inc Jennifer 2021-06-10 954.57
+Member Kathleen
+Member James
+Bill Avera Gregory Hospital Kathleen 2021-09-22 1098.66
+Bill Thomas Medical Group Mary 2020-12-12 915.64
+Bill Schultz-Schmidt Medical Group Timothy 2021-07-26 311.06
+Bill Baylor Scott And White Medical Center Mckinney Christina 2021-10-03 185.99
+Bill Lansdale Hospital Billy 2021-05-18 155.78
+Bill Clay County Memorial Hospital Bradley 2021-01-16 1303.92
+Bill Irwin Clinic Laurie 2021-05-21 673.97
+Bill Schultz-Schmidt Medical Group Brandon 2021-02-04 1270.40
+Bill St Vincent Jennings Hospital Inc Brandon 2020-11-01 1084.61
+Bill Hans P Peterson Memorial Hospital - Cah Colleen 2020-09-20 445.84
+Bill White-Decker Health System Daniel 2021-02-06 614.83
+Member Russell
+Bill Clay County Memorial Hospital Brandon 2021-09-07 571.53
+Member Shawn
+Bill Schultz-Schmidt Medical Group Erica 2021-06-01 693.25
+Bill White-Decker Health System Shawn 2021-09-03 459.24
+Bill Holland Clinic Kevin 2021-06-18 443.26
+Bill Kaiser Foundation Hospital - Woodland Hills Bradley 2021-04-14 558.01
+Provider Murphy Health Care
+Member Stephanie
+Bill Kline Laurie 2021-01-25 787.13
+Bill Murphy Health Care Kristen 2021-01-28 218.66
+Bill St Vincent Jennings Hospital Inc Bradley 2021-10-21 280.20
+Member Gregory
+Bill Irwin Clinic Natalie 2021-05-14 134.74
+Member Jordan
+Bill St Vincent Jennings Hospital Inc Savannah 2021-04-17 1121.92
+Bill Thomas Medical Group Travis 2021-01-20 187.82
+Member Corey
+Member Dorothy
+Bill St Vincent Jennings Hospital Inc Russell 2021-09-06 484.45
+Bill Avera Gregory Hospital Brian 2021-01-24 998.94
+Bill Kline Melissa 2021-08-16 1204.42
+Bill Adena Pike Medical Center Laurie 2020-11-09 834.76
+Bill Northeastern Health System Cindy 2021-02-10 464.50
+Bill O.a.s.i.s. Hospital Joshua 2021-03-29 929.67
+Provider Hoffman-Williams Health System
+Bill Moreno, Bean and Reeves Clinic Melissa 2021-06-09 743.19
+Member Melanie
+Bill Schultz-Schmidt Medical Group Jeffrey 2020-09-22 1068.35
+Member Lee
+Bill Patrick-Price Medical Group Jeffrey 2021-05-15 954.63
+Bill Ferguson-Davis Medical Group Jordan 2020-11-12 273.35
+Bill Lansdale Hospital Brandon 2021-05-13 810.42
+Bill Integris Health Edmond Eric 2021-04-22 472.84
+Bill Kline Rhonda 2021-07-01 533.83
+Bill Avera Gregory Hospital Billy 2021-04-06 948.74
+Bill Hans P Peterson Memorial Hospital - Cah Jennifer 2021-09-16 1279.43
+Bill Baptist Medical Center - Attala Melanie 2021-04-14 1056.27
+Bill O.a.s.i.s. Hospital Jennifer 2020-10-17 1327.09
+Bill Ferguson-Davis Medical Group Stephanie 2020-10-28 323.25
+Bill Ferguson-Davis Medical Group Christopher 2021-04-04 209.50
+Bill Ferguson-Davis Medical Group Christina 2020-10-15 1278.02
+Bill Northeastern Health System Billy 2021-06-20 1380.48
+Bill Curtis, Martinez and Vasquez Clinic Tanya 2021-07-18 1341.21
+Member Susan
+Bill White-Decker Health System Thomas 2020-09-22 834.74
+Bill Integris Health Edmond Timothy 2021-01-24 1393.49
+Bill Murphy Health Care Russell 2021-03-09 463.79
+Bill Schultz-Schmidt Medical Group Kathleen 2020-12-08 712.06
+Bill Kline Melanie 2021-01-25 196.24
+Bill Thomas Medical Group Travis 2021-01-16 93.56
+Bill Green-Hall Medical Group Sarah 2021-06-17 1069.83
+Bill Thomas Medical Group Lee 2021-04-11 1371.14
+Bill Baptist Medical Center - Attala Frank 2021-02-04 551.85
+Bill Patrick-Price Medical Group Mikayla 2021-10-12 603.69
+Bill Thomas Medical Group Jennifer 2021-07-03 271.57
+Bill Adena Pike Medical Center Corey 2021-10-18 1197.28
+Bill Kline Patricia 2021-01-23 743.03
+Bill Murphy Health Care Erica 2020-10-02 1286.12
+Bill Curtis, Martinez and Vasquez Clinic Melissa 2021-08-16 564.19
+Bill O.a.s.i.s. Hospital Natalie 2021-06-27 1121.42
+Bill Integris Health Edmond Laurie 2020-09-12 977.98
+Bill White-Decker Health System Laurie 2021-03-08 1071.08
+Bill Curtis, Martinez and Vasquez Clinic Mikayla 2021-10-25 1361.28
+Bill Avera Gregory Hospital Cindy 2021-07-29 688.87
+Bill Integris Health Edmond Kristen 2021-09-17 1329.76
+Bill Kline Timothy 2021-05-16 565.05
+Bill St Vincent Jennings Hospital Inc Rhonda 2021-07-26 1166.90
+Bill Schultz-Schmidt Medical Group Brandon 2020-12-22 927.50
+Member Amanda
+Bill Adena Pike Medical Center Kristen 2021-06-12 724.15
+Bill Adena Pike Medical Center Melissa 2020-12-01 740.26
+Bill Baptist Medical Center - Attala Savannah 2020-12-19 482.32
+Bill Irwin Clinic Jennifer 2021-10-10 1286.32
+Bill Curtis, Martinez and Vasquez Clinic Erica 2021-10-13 1282.96
+Bill Thomas Medical Group Cindy 2021-09-24 942.26
+Bill Kaiser Foundation Hospital - Woodland Hills Frank 2020-11-07 804.33
+Member Carolyn
+Bill Hoffman-Williams Health System Frank 2020-12-02 487.78
+Bill Murphy Health Care Joshua 2021-03-06 339.62
+Bill Thomas Medical Group Christopher 2020-12-11 1066.06
+Bill Ferguson-Davis Medical Group Billy 2021-10-04 414.20
+Bill Baylor Scott And White Medical Center Mckinney Patricia 2021-08-24 371.08
+Member Patrick
+Bill Integris Health Edmond James 2021-04-09 93.46
+Bill Moreno, Bean and Reeves Clinic Travis 2021-10-26 659.14
+Bill Adena Pike Medical Center Laurie 2021-09-16 363.15
+Member Nicole
+Bill O.a.s.i.s. Hospital Emily 2020-12-23 720.93
+Bill Hans P Peterson Memorial Hospital - Cah Nicole 2021-09-19 197.80
+Bill Green-Hall Medical Group Stephanie 2020-10-31 873.32
+Member Ronald
+Bill Schultz-Schmidt Medical Group Lee 2021-10-01 1137.95
+Bill Clay County Memorial Hospital Shawn 2021-07-27 457.51
+Bill Lansdale Hospital Rodney 2021-03-12 691.87
+Bill Adena Pike Medical Center Patrick 2021-01-23 349.39
+Bill Kline Patricia 2021-10-20 607.27
+Bill Clay County Memorial Hospital Lee 2021-01-26 1010.90
+Bill Ferguson-Davis Medical Group Lee 2021-05-03 892.54
+Bill Green-Hall Medical Group Travis 2021-05-10 658.49
+Bill Hoffman-Williams Health System Christina 2021-07-14 1274.00
+Bill Patrick-Price Medical Group Thomas 2021-05-19 374.68
+Bill Thomas Medical Group Bradley 2021-05-09 518.65
+Bill O.a.s.i.s. Hospital Rodney 2021-07-27 794.96
+Bill Hoffman-Williams Health System Colleen 2020-10-03 1307.79
+Bill Hoffman-Williams Health System Jordan 2021-08-02 989.30
+Bill Avera Gregory Hospital Rhonda 2021-06-22 1312.14
+Bill O.a.s.i.s. Hospital Eric 2021-07-21 1008.71
+Bill Northeastern Health System Rodney 2021-02-11 1219.68
+Bill Irwin Clinic Susan 2021-06-16 673.05
+Bill Avera Gregory Hospital Kevin 2020-11-12 172.80
+Bill Avera Gregory Hospital Lee 2021-01-19 1357.00
+Bill Lansdale Hospital Melanie 2020-10-02 389.59
+Bill Adena Pike Medical Center Erica 2020-12-13 1164.09
+Bill Holland Clinic Theresa 2021-02-26 638.52
+Bill Green-Hall Medical Group Patricia 2021-07-04 740.58
+Member Kelly
+Bill Hans P Peterson Memorial Hospital - Cah Brandon 2021-02-21 1107.40
+Bill Hans P Peterson Memorial Hospital - Cah Patricia 2021-03-24 926.22
+Bill Holland Clinic Joshua 2021-01-08 621.45
+Bill Ferguson-Davis Medical Group Kevin 2021-10-25 580.16
+Bill Ferguson-Davis Medical Group Emily 2021-02-24 113.33
+Bill Irwin Clinic Amanda 2021-03-31 811.41
+Bill Baptist Medical Center - Attala Eric 2020-12-23 1387.17
+Bill Thomas Medical Group Corey 2020-12-29 480.05
+Bill Adena Pike Medical Center Russell 2021-01-22 799.53
+Bill Murphy Health Care Gregory 2021-07-25 1298.99
+Bill Patrick-Price Medical Group Joshua 2021-03-07 1275.47
+Bill Lansdale Hospital Frank 2020-11-14 979.01
+Bill O.a.s.i.s. Hospital Lee 2021-02-24 517.73
+Bill Integris Health Edmond Brandon 2021-10-29 598.88
+Bill Avera Gregory Hospital James 2020-11-13 657.97
+Bill Integris Health Edmond James 2021-08-05 974.09
+Bill St Vincent Jennings Hospital Inc Laurie 2020-11-22 1002.11
+Bill Avera Gregory Hospital Nicole 2021-08-30 1128.01
+Bill Ferguson-Davis Medical Group Erica 2021-09-12 518.48
+Bill Kline Thomas 2020-11-22 432.23
+Bill O.a.s.i.s. Hospital Eric 2021-07-20 1395.19
+Bill Clay County Memorial Hospital Susan 2020-11-12 978.64
+Bill Ferguson-Davis Medical Group Emily 2021-03-18 314.80
+Bill Ferguson-Davis Medical Group Patricia 2021-02-21 1066.25
+Bill Murphy Health Care Dorothy 2021-09-13 255.99
+Bill Moreno, Bean and Reeves Clinic Jeffrey 2021-08-21 963.19
+Bill Green-Hall Medical Group Laurie 2021-07-28 1221.23
+Bill Northeastern Health System Laurie 2020-12-26 1264.55
+Bill Patrick-Price Medical Group Melissa 2021-05-28 1098.06
+Bill Irwin Clinic Shawn 2021-10-23 273.02
+Bill Murphy Health Care Corey 2021-07-21 931.86
+Bill St Vincent Jennings Hospital Inc Frank 2021-10-16 1144.03
+Bill O.a.s.i.s. Hospital Tammy 2020-11-04 201.21
+Bill Avera Gregory Hospital Mary 2021-08-15 1236.99
+Bill Curtis, Martinez and Vasquez Clinic Tanya 2020-12-20 993.65
+Bill Curtis, Martinez and Vasquez Clinic Daniel 2021-08-16 956.00
+Bill Integris Health Edmond Larry 2021-02-01 886.95
+Bill O.a.s.i.s. Hospital Thomas 2021-07-17 682.17
+Bill Kline Lee 2021-02-06 1202.84
+Bill St Vincent Jennings Hospital Inc Christopher 2020-11-20 732.60
+Bill Baptist Medical Center - Attala Emily 2020-11-25 427.31
+Bill Kaiser Foundation Hospital - Woodland Hills Emily 2020-11-22 641.64
+Member Clayton
+Bill Hoffman-Williams Health System Nicole 2020-10-25 111.69
+Bill Kaiser Foundation Hospital - Woodland Hills Carolyn 2021-04-02 272.27
+Bill Avera Gregory Hospital Brian 2020-12-23 1075.13
+Bill Hans P Peterson Memorial Hospital - Cah Jeffrey 2021-07-23 114.50
+Bill Schultz-Schmidt Medical Group Christina 2021-08-13 172.84
+Bill Integris Health Edmond Thomas 2021-06-13 923.77
+Bill Kaiser Foundation Hospital - Woodland Hills James 2020-12-19 311.27
+Bill Adena Pike Medical Center Rodney 2020-09-10 570.10
+Bill White-Decker Health System Melanie 2021-05-12 687.89
+Bill Baylor Scott And White Medical Center Mckinney Emily 2021-01-18 875.13
+Bill Clay County Memorial Hospital Susan 2020-11-16 171.39
+Bill Curtis, Martinez and Vasquez Clinic Cindy 2021-08-25 907.73
+Bill Patrick-Price Medical Group Melissa 2021-03-12 669.19
+Bill Lansdale Hospital Ronald 2021-06-23 1246.25
+Bill St Vincent Jennings Hospital Inc Susan 2021-08-14 244.85
+Bill Green-Hall Medical Group Brandon 2021-06-06 379.69
+Bill Northeastern Health System Melanie 2020-09-25 1345.40
+Bill Thomas Medical Group Billy 2021-06-20 351.52
+Bill Northeastern Health System Kristen 2021-09-16 1179.22
+Bill Lansdale Hospital Mary 2021-03-11 869.17
+Bill O.a.s.i.s. Hospital Whitney 2021-06-14 158.60
+Bill St Vincent Jennings Hospital Inc Tammy 2021-08-08 1013.92
+Bill Clay County Memorial Hospital Joshua 2021-07-25 828.09
+Bill Baylor Scott And White Medical Center Mckinney Natalie 2021-09-08 724.84
+Bill Lansdale Hospital Daniel 2021-04-21 889.30
+Bill Curtis, Martinez and Vasquez Clinic Christina 2020-10-22 882.14
+Bill Adena Pike Medical Center Carolyn 2021-03-31 903.20
+Bill White-Decker Health System Mary 2021-07-30 1061.61
+Bill O.a.s.i.s. Hospital Travis 2021-02-18 1201.82
+Bill St Vincent Jennings Hospital Inc Eric 2021-02-21 869.10
+Bill Kaiser Foundation Hospital - Woodland Hills Christopher 2021-04-19 117.73
+Bill Holland Clinic Mary 2020-11-25 1377.69
+Bill Adena Pike Medical Center Lee 2021-09-11 797.39
+Bill Schultz-Schmidt Medical Group James 2021-05-06 932.25
+Bill Lansdale Hospital Laurie 2021-10-29 810.11
+Bill Holland Clinic Cindy 2021-04-22 652.25
+Bill Irwin Clinic Rhonda 2020-09-21 1225.23
+Bill O.a.s.i.s. Hospital Melissa 2021-10-18 676.67
+Bill Irwin Clinic Colleen 2021-04-24 1066.16
+Bill Patrick-Price Medical Group Carolyn 2021-09-26 417.58
+Bill Hoffman-Williams Health System Melissa 2021-05-18 1091.63
+Bill Irwin Clinic Rodney 2020-10-02 1290.72
+Bill Kaiser Foundation Hospital - Woodland Hills Tammy 2020-12-06 679.76
+Bill Avera Gregory Hospital Patrick 2020-12-28 886.23
+Bill Moreno, Bean and Reeves Clinic Joshua 2020-09-30 1359.77
+Bill Ferguson-Davis Medical Group Mary 2020-11-24 608.96
+Bill Clay County Memorial Hospital Kathleen 2020-10-07 1056.54
+Bill Baylor Scott And White Medical Center Mckinney Shawn 2021-03-24 340.78
+Bill Hoffman-Williams Health System Melissa 2021-04-03 685.46
+Bill Patrick-Price Medical Group Colleen 2020-12-08 658.65
+Bill Integris Health Edmond Tammy 2021-05-11 1057.51
+Bill Thomas Medical Group Sarah 2021-05-24 105.91
+Bill Lansdale Hospital Joshua 2021-01-29 956.90
+Bill Hans P Peterson Memorial Hospital - Cah Christopher 2020-11-08 759.86
+Bill Baylor Scott And White Medical Center Mckinney Emily 2021-06-07 255.96
+Bill Baptist Medical Center - Attala Carolyn 2021-01-17 181.80
+Bill Adena Pike Medical Center Daniel 2021-03-04 1179.15
+Bill Baptist Medical Center - Attala Sarah 2021-10-02 1241.01
+Bill Baptist Medical Center - Attala Joshua 2021-09-15 1236.57
+Bill Clay County Memorial Hospital Corey 2021-05-17 813.20
+Bill Hoffman-Williams Health System Mikayla 2021-01-12 567.20
+Bill Avera Gregory Hospital Carolyn 2021-08-24 953.41
+Bill Avera Gregory Hospital Erica 2021-02-17 464.31
+Bill Clay County Memorial Hospital Corey 2021-03-07 1298.22
+Bill Lansdale Hospital Rhonda 2020-10-25 955.59
+Bill Kaiser Foundation Hospital - Woodland Hills Christopher 2021-04-29 847.17
+Bill St Vincent Jennings Hospital Inc Jeffrey 2021-08-25 838.52
+Bill Murphy Health Care Russell 2021-09-08 1309.29
+Bill Ferguson-Davis Medical Group Tammy 2020-09-11 1368.44
+Bill Patrick-Price Medical Group Colleen 2020-09-16 668.04
+Bill Clay County Memorial Hospital Gregory 2020-10-12 612.45
+Bill Green-Hall Medical Group Colleen 2021-09-20 783.69
+Bill Ferguson-Davis Medical Group Bradley 2021-06-09 1041.52
+Bill Moreno, Bean and Reeves Clinic Jennifer 2021-07-26 996.05
+Bill Clay County Memorial Hospital Theresa 2020-10-25 199.86
+Bill Curtis, Martinez and Vasquez Clinic Lee 2021-06-13 826.00
+Bill Avera Gregory Hospital Nicole 2021-03-16 1082.53
+Bill Holland Clinic Billy 2021-10-12 649.76
+Bill Green-Hall Medical Group Eric 2021-05-11 636.95
+Bill Clay County Memorial Hospital Jordan 2021-07-25 1368.54
+Member Robert
+Bill Green-Hall Medical Group Mikayla 2020-10-05 702.56
+Bill Thomas Medical Group James 2021-01-30 822.47
+Bill Holland Clinic Rodney 2021-10-16 575.49
+Bill Baptist Medical Center - Attala Shawn 2021-10-31 1200.31
+Bill Baptist Medical Center - Attala Carolyn 2020-10-21 1366.42
+Bill Murphy Health Care Stephanie 2021-05-13 1256.70
+Bill Thomas Medical Group Mary 2021-08-18 1285.15
+Bill Curtis, Martinez and Vasquez Clinic Jeffrey 2020-10-27 995.43
+Bill Lansdale Hospital Colleen 2021-06-16 1262.94
+Bill Kaiser Foundation Hospital - Woodland Hills Theresa 2021-08-23 210.68
+Bill Hans P Peterson Memorial Hospital - Cah Melanie 2021-01-28 1095.21
+Bill Adena Pike Medical Center Kelly 2021-02-04 672.10
+Bill St Vincent Jennings Hospital Inc Emily 2021-02-09 774.70
+Bill Baylor Scott And White Medical Center Mckinney Laurie 2020-09-06 1115.22
+Bill Holland Clinic Laurie 2021-09-01 539.05
+Bill Lansdale Hospital Erica 2021-01-14 783.53
+Bill Thomas Medical Group Lee 2021-09-22 972.41
+Bill Curtis, Martinez and Vasquez Clinic Lee 2021-10-24 309.05
+Bill Moreno, Bean and Reeves Clinic Frank 2021-04-18 535.53
+Bill Lansdale Hospital Emily 2020-10-17 513.16
+Bill Moreno, Bean and Reeves Clinic Shawn 2021-10-23 1007.32
+Bill Baylor Scott And White Medical Center Mckinney James 2021-04-16 831.97
+Bill Northeastern Health System Thomas 2021-03-26 322.42
+Bill Hoffman-Williams Health System Larry 2020-09-02 1104.64
+Bill Baylor Scott And White Medical Center Mckinney Daniel 2021-03-18 979.55
+Bill Schultz-Schmidt Medical Group Brian 2021-10-18 1175.21
+Bill Ferguson-Davis Medical Group Tammy 2020-12-17 655.52
+Bill Ferguson-Davis Medical Group Thomas 2021-07-05 1098.69
+Bill Lansdale Hospital Travis 2021-02-15 253.70
+Bill Avera Gregory Hospital Whitney 2020-10-11 608.81
+Bill Integris Health Edmond Patricia 2021-03-17 451.10
+Bill Northeastern Health System James 2021-03-27 677.23
+Bill Murphy Health Care Erica 2020-11-20 917.06
+Bill Thomas Medical Group Billy 2021-01-22 707.04
+Bill Adena Pike Medical Center Lee 2021-06-04 310.60
+Bill Schultz-Schmidt Medical Group Tanya 2021-07-24 125.24
+Bill Hoffman-Williams Health System Mikayla 2021-06-03 1310.30
+Bill White-Decker Health System Dorothy 2021-04-21 1123.74
+Bill Thomas Medical Group Emily 2021-02-10 459.59
+Bill Ferguson-Davis Medical Group Jeffrey 2021-04-22 1012.77
+Bill O.a.s.i.s. Hospital Thomas 2021-03-27 636.38
+Bill Adena Pike Medical Center Jeffrey 2021-01-02 293.83
+Bill White-Decker Health System Thomas 2021-06-13 89.24
+Bill Northeastern Health System Patricia 2021-07-22 113.80
+Bill Thomas Medical Group Bradley 2021-06-30 1212.91
+Bill Thomas Medical Group Colleen 2021-09-30 112.09
+Bill Integris Health Edmond Emily 2021-01-18 1312.47
+Bill Curtis, Martinez and Vasquez Clinic Larry 2021-04-14 1043.34
+Bill Hans P Peterson Memorial Hospital - Cah Rhonda 2021-10-09 848.69
+Bill Hoffman-Williams Health System James 2021-04-04 1139.09
+Bill Hoffman-Williams Health System Patricia 2020-09-01 1131.43
+Bill Ferguson-Davis Medical Group Mary 2021-08-15 363.74
+Bill O.a.s.i.s. Hospital Tanya 2021-05-13 1103.55
+Bill Baptist Medical Center - Attala Shawn 2021-08-28 158.01
+Bill Thomas Medical Group Brian 2020-12-15 1100.81
+Bill Adena Pike Medical Center Timothy 2021-04-03 1313.42
+Bill Adena Pike Medical Center Jordan 2020-10-23 823.27
+Bill Kaiser Foundation Hospital - Woodland Hills Brandon 2021-05-01 385.68
+Bill Hoffman-Williams Health System Brandon 2021-07-12 490.31
+Bill O.a.s.i.s. Hospital Daniel 2020-12-16 801.09
+Bill Baptist Medical Center - Attala Colleen 2021-09-23 638.79
+Bill Irwin Clinic Mikayla 2021-10-24 441.41
+Bill White-Decker Health System Melissa 2020-12-09 519.69
+Bill Kline Theresa 2021-05-11 346.79
+Bill Lansdale Hospital Thomas 2021-06-12 1152.60
+Bill Curtis, Martinez and Vasquez Clinic Corey 2021-09-24 730.13
+Bill Kaiser Foundation Hospital - Woodland Hills Timothy 2021-03-20 1005.02
+Bill Ferguson-Davis Medical Group Brian 2021-08-17 794.57
+Bill Clay County Memorial Hospital Jordan 2021-08-29 823.48
+Bill St Vincent Jennings Hospital Inc Christina 2021-01-26 806.01
+Bill Hoffman-Williams Health System Christina 2021-02-07 1195.05
+Bill Ferguson-Davis Medical Group Dorothy 2021-02-25 1354.01
+Bill Kline Nicole 2021-08-28 795.57
+Bill Schultz-Schmidt Medical Group Timothy 2021-05-20 1054.39
+Bill Murphy Health Care Eric 2021-08-03 1354.38
+Bill St Vincent Jennings Hospital Inc Lee 2021-07-16 105.23
+Bill Patrick-Price Medical Group Jordan 2021-06-19 407.85
+Bill Kaiser Foundation Hospital - Woodland Hills Lee 2021-06-21 1086.54
+Bill Murphy Health Care Theresa 2020-10-10 168.10
+Bill Integris Health Edmond Carolyn 2020-11-13 1299.00
+Bill Kline Cindy 2021-02-03 907.69
+Bill O.a.s.i.s. Hospital Joshua 2020-12-23 1388.85
+Bill St Vincent Jennings Hospital Inc Kevin 2021-08-29 1278.06
+Bill Green-Hall Medical Group Carolyn 2021-01-02 1007.68
+Bill Adena Pike Medical Center Whitney 2021-07-10 1117.51
+Bill Kline Ronald 2021-05-23 450.49
+Bill Murphy Health Care Jeffrey 2020-11-25 1019.13
+Bill St Vincent Jennings Hospital Inc Shawn 2021-07-12 226.52
+Bill White-Decker Health System Christopher 2020-10-16 480.64
+Bill Ferguson-Davis Medical Group Whitney 2021-07-04 354.37
+Bill Kline Theresa 2021-09-25 719.55
+Bill Kaiser Foundation Hospital - Woodland Hills Rodney 2021-09-08 957.91
+Bill Avera Gregory Hospital Tammy 2020-11-29 267.00
+Bill Hoffman-Williams Health System Clayton 2020-09-21 845.67
+Bill Holland Clinic Sarah 2021-10-28 358.26
+Bill Kline Corey 2020-12-21 1211.99
+Bill Curtis, Martinez and Vasquez Clinic Kelly 2021-03-20 472.21
+Bill Avera Gregory Hospital Christopher 2021-10-11 401.04
+Bill Baylor Scott And White Medical Center Mckinney Joshua 2020-09-30 156.46
+Bill Clay County Memorial Hospital Daniel 2021-09-16 157.00
+Bill Schultz-Schmidt Medical Group Mikayla 2020-10-04 98.42
+Bill Clay County Memorial Hospital Frank 2020-10-10 1319.32
+Bill White-Decker Health System Brandon 2020-11-09 587.30
+Bill Thomas Medical Group Timothy 2020-12-20 643.13
+Bill Hoffman-Williams Health System Bradley 2021-03-25 1362.86
+Bill Irwin Clinic Larry 2020-11-10 405.22
+Bill White-Decker Health System Dorothy 2021-04-21 396.69
+Bill Ferguson-Davis Medical Group Larry 2021-01-15 307.75
+Bill Schultz-Schmidt Medical Group Tammy 2020-10-31 190.39
+Bill Holland Clinic Bradley 2021-08-26 224.92
+Bill Clay County Memorial Hospital Kevin 2021-04-11 1054.68
+Bill Adena Pike Medical Center Melissa 2021-09-19 173.81
+Bill Thomas Medical Group Stephanie 2020-09-21 127.16
+Bill O.a.s.i.s. Hospital Stephanie 2021-04-24 1262.01
+Bill Clay County Memorial Hospital Mary 2021-07-22 706.95
+Bill Baylor Scott And White Medical Center Mckinney Kevin 2021-09-12 95.79
+Bill Hans P Peterson Memorial Hospital - Cah Melanie 2021-09-20 441.73
+Bill Clay County Memorial Hospital Joshua 2020-09-03 888.30
+Bill Hoffman-Williams Health System Patricia 2021-07-24 924.57
+Bill Kline Joshua 2021-02-12 1380.38
+Bill Curtis, Martinez and Vasquez Clinic Bradley 2021-04-05 781.47
+Bill Northeastern Health System Cindy 2021-01-22 1148.85
+Bill Ferguson-Davis Medical Group Cindy 2020-09-03 1152.39
+Bill Kline Rodney 2020-12-04 415.24
+Bill Avera Gregory Hospital Kevin 2021-02-26 287.67
+Bill Avera Gregory Hospital Rodney 2021-04-06 395.16
+Bill Ferguson-Davis Medical Group Kathleen 2021-03-29 812.52
+Bill Lansdale Hospital Kristen 2021-06-21 809.55
+Bill Schultz-Schmidt Medical Group Erica 2021-01-19 950.44
+Bill Schultz-Schmidt Medical Group Sarah 2021-04-18 434.32
+Bill Avera Gregory Hospital Dorothy 2021-10-11 1111.53
+Bill Murphy Health Care Melissa 2021-08-31 368.00
+Bill Adena Pike Medical Center Melissa 2021-04-11 1234.48
+Bill Kline Mary 2021-06-09 427.92
+Bill Baptist Medical Center - Attala Theresa 2021-08-04 1104.80
+Bill Baptist Medical Center - Attala Kelly 2021-02-08 445.06
+Bill Curtis, Martinez and Vasquez Clinic Ronald 2021-05-04 392.98
+Bill Murphy Health Care Erica 2021-05-07 1040.96
+Bill Patrick-Price Medical Group Joshua 2021-10-14 935.76
+Bill O.a.s.i.s. Hospital Thomas 2021-07-27 599.30
+Bill Ferguson-Davis Medical Group Billy 2021-02-27 815.00
+Bill Moreno, Bean and Reeves Clinic Shawn 2021-03-23 905.26
+Bill Green-Hall Medical Group Kristen 2020-11-23 776.26
+Bill Holland Clinic Mary 2021-10-18 395.86
+Bill Curtis, Martinez and Vasquez Clinic Carolyn 2021-09-22 1051.17
+Bill Kaiser Foundation Hospital - Woodland Hills Laurie 2021-04-15 465.76
+Bill Thomas Medical Group Susan 2021-10-02 277.47
+Bill Northeastern Health System Shawn 2020-12-07 1269.04
+Bill Murphy Health Care Tammy 2021-04-15 1209.04
+Bill Murphy Health Care Susan 2021-01-21 1180.05
+Bill Holland Clinic Amanda 2021-03-17 419.28
+Bill Curtis, Martinez and Vasquez Clinic Timothy 2021-03-29 739.03
+Bill St Vincent Jennings Hospital Inc Ronald 2021-09-21 1298.66
+Bill Baylor Scott And White Medical Center Mckinney Patrick 2021-09-24 1080.01
+Bill Lansdale Hospital Dorothy 2021-09-26 353.90
+Bill Schultz-Schmidt Medical Group Susan 2021-05-24 552.41
+Bill Hans P Peterson Memorial Hospital - Cah Jordan 2021-09-19 117.74
+Bill Adena Pike Medical Center Travis 2021-06-14 326.09
+Bill Clay County Memorial Hospital Kristen 2021-10-23 482.37
+Bill Avera Gregory Hospital Timothy 2021-08-15 500.21
+Bill Clay County Memorial Hospital Patricia 2021-04-27 766.53
+Bill Irwin Clinic Christopher 2021-04-27 766.87
+Bill Baylor Scott And White Medical Center Mckinney Thomas 2020-11-07 1196.16
+Bill Holland Clinic Whitney 2021-09-26 756.54
+Bill Baylor Scott And White Medical Center Mckinney Christopher 2021-02-07 724.57
+Bill Kline Daniel 2021-01-04 1226.71
+Bill Holland Clinic Jeffrey 2021-07-03 591.01
+Bill Green-Hall Medical Group Kelly 2021-09-12 1331.49
+Bill Kline Russell 2021-01-14 214.00
+Bill Adena Pike Medical Center Patricia 2021-04-20 1026.72
+Bill Holland Clinic Cindy 2021-06-13 430.54
+Bill Moreno, Bean and Reeves Clinic Corey 2021-08-27 350.74
+Bill Kaiser Foundation Hospital - Woodland Hills Sarah 2021-02-06 628.12
+Bill Green-Hall Medical Group Billy 2021-04-01 530.16
+Bill Schultz-Schmidt Medical Group Lee 2021-05-31 1154.85
+Bill Hoffman-Williams Health System Brian 2021-03-15 112.21
+Bill Schultz-Schmidt Medical Group Billy 2021-07-08 313.06
+Bill Baylor Scott And White Medical Center Mckinney Colleen 2020-11-17 317.31
+Bill Murphy Health Care Eric 2021-03-06 135.08
+Bill Holland Clinic Dorothy 2021-09-14 138.62
+Bill Baylor Scott And White Medical Center Mckinney Laurie 2021-05-18 1398.64
+Bill Moreno, Bean and Reeves Clinic Steven 2021-10-12 493.56
+Bill Irwin Clinic Christopher 2020-10-09 93.00
+Bill Hans P Peterson Memorial Hospital - Cah Thomas 2020-10-11 1178.58
+Bill St Vincent Jennings Hospital Inc Bradley 2021-06-11 202.77
+Bill Irwin Clinic Kelly 2021-01-06 446.73
+Bill White-Decker Health System Patricia 2021-02-01 997.71
+Bill Thomas Medical Group Melanie 2021-09-14 1303.47
+Bill Murphy Health Care Ronald 2021-07-16 896.34
+Bill Lansdale Hospital Shawn 2021-10-04 212.22
+Bill Green-Hall Medical Group Theresa 2021-03-25 657.30
+Bill Adena Pike Medical Center Rodney 2021-01-24 323.43
+Bill Baylor Scott And White Medical Center Mckinney Dorothy 2021-02-28 1261.35
+Bill Clay County Memorial Hospital Russell 2020-12-25 841.64
+Bill St Vincent Jennings Hospital Inc Steven 2021-02-04 1078.49
+Bill Baptist Medical Center - Attala Stephanie 2021-09-20 424.13
+Bill Ferguson-Davis Medical Group Kristen 2021-06-18 1366.15
+Bill Baptist Medical Center - Attala Laurie 2021-09-22 707.48
+Bill Murphy Health Care Daniel 2020-12-01 1096.89
+Bill Avera Gregory Hospital Laurie 2021-03-08 409.18
+Bill Moreno, Bean and Reeves Clinic Rodney 2021-06-03 519.03
+Bill Kline Thomas 2021-07-18 182.27
+Bill Holland Clinic Eric 2021-01-11 843.99
+Bill White-Decker Health System Patricia 2021-08-27 632.50
+Bill Curtis, Martinez and Vasquez Clinic Patricia 2021-05-30 250.00
+Bill O.a.s.i.s. Hospital Tammy 2021-09-15 1154.37
+Bill Schultz-Schmidt Medical Group Erica 2020-11-19 1123.06
+Bill Irwin Clinic Russell 2021-07-26 363.84
+Bill Curtis, Martinez and Vasquez Clinic Lee 2020-12-06 926.45
+Bill Moreno, Bean and Reeves Clinic Robert 2021-01-24 337.01
+Bill Hoffman-Williams Health System Christina 2021-06-04 1290.21
+Bill Curtis, Martinez and Vasquez Clinic Larry 2021-03-21 1371.95
+Bill Patrick-Price Medical Group Melissa 2021-01-08 170.91
+Bill Integris Health Edmond Rodney 2021-06-01 1241.23
+Bill Irwin Clinic Patricia 2020-12-04 366.55
+Bill Moreno, Bean and Reeves Clinic Shawn 2020-10-14 581.61
+Bill Integris Health Edmond Brian 2021-09-03 1063.17
+Bill Moreno, Bean and Reeves Clinic Brandon 2021-03-17 627.75
+Bill Lansdale Hospital Christopher 2021-03-15 308.37
+Bill Lansdale Hospital Larry 2021-06-03 1052.55
+Bill Hoffman-Williams Health System Kevin 2020-11-20 465.07
+Bill Baptist Medical Center - Attala Eric 2021-06-14 259.33
+Bill White-Decker Health System Christopher 2021-07-12 913.99
+Bill Hans P Peterson Memorial Hospital - Cah Brandon 2021-04-07 584.41
+Bill O.a.s.i.s. Hospital Bradley 2021-08-24 762.10
+Bill Integris Health Edmond Corey 2021-06-23 839.69
+Bill Baylor Scott And White Medical Center Mckinney Christina 2021-07-06 623.04
+Bill Clay County Memorial Hospital Jennifer 2021-03-01 1008.55
+Bill Avera Gregory Hospital Mary 2020-11-03 1269.80
+Bill Moreno, Bean and Reeves Clinic Tanya 2021-06-22 1070.98
+Bill Baylor Scott And White Medical Center Mckinney Kristen 2021-02-11 643.26
+Bill Hoffman-Williams Health System Rodney 2020-12-27 693.06
+Bill Schultz-Schmidt Medical Group Melanie 2021-04-11 401.53
+Bill Baptist Medical Center - Attala Gregory 2021-01-20 1298.55
+Bill Holland Clinic Lee 2020-10-10 778.83
+Bill Patrick-Price Medical Group Mary 2020-09-07 574.80
+Bill Lansdale Hospital Mary 2021-03-18 821.22
+Bill Ferguson-Davis Medical Group Nicole 2021-05-04 1095.03
+Bill Curtis, Martinez and Vasquez Clinic Emily 2020-10-15 93.01
+Bill Northeastern Health System Billy 2020-11-18 548.67
+Bill White-Decker Health System Travis 2021-08-08 326.24
+Bill Moreno, Bean and Reeves Clinic Tammy 2020-10-04 269.64
+Bill Holland Clinic Eric 2020-11-26 739.74
+Bill Thomas Medical Group Rhonda 2021-06-25 292.79
+Bill Ferguson-Davis Medical Group Jordan 2021-05-08 221.89
+Bill Ferguson-Davis Medical Group Natalie 2021-06-24 570.93
+Bill Patrick-Price Medical Group Carolyn 2020-12-20 917.76
+Bill Ferguson-Davis Medical Group Mary 2021-08-06 1362.88
+Bill Baylor Scott And White Medical Center Mckinney Jordan 2021-07-04 1090.62
+Bill Adena Pike Medical Center Bradley 2021-02-17 673.03
+Bill Avera Gregory Hospital Colleen 2021-05-17 103.68
+Bill Thomas Medical Group Cindy 2021-10-08 1221.21
+Bill Green-Hall Medical Group Sarah 2020-09-23 413.32
+Bill Ferguson-Davis Medical Group Thomas 2020-09-13 963.03
+Bill O.a.s.i.s. Hospital Carolyn 2021-09-09 1024.56
+Bill Adena Pike Medical Center Christopher 2020-12-22 108.18
+Bill Thomas Medical Group Thomas 2020-12-25 1187.81
+Bill Baptist Medical Center - Attala Christina 2021-02-27 154.59
+Bill Thomas Medical Group Kevin 2021-07-28 782.64
+Bill Patrick-Price Medical Group Brian 2021-09-09 767.24
+Bill O.a.s.i.s. Hospital Timothy 2020-10-03 1068.65
+Bill Adena Pike Medical Center Susan 2020-10-09 1096.29
+Bill Irwin Clinic Jennifer 2021-02-26 1272.22
+Bill Lansdale Hospital Corey 2021-05-07 946.64
+Bill Moreno, Bean and Reeves Clinic Billy 2020-10-27 624.08
+Bill Integris Health Edmond Bradley 2020-09-29 849.48
+Bill Avera Gregory Hospital Theresa 2021-09-02 931.39
+Bill Integris Health Edmond Jeffrey 2021-09-22 737.01
+Bill Clay County Memorial Hospital Cindy 2021-07-20 514.43
+Bill Curtis, Martinez and Vasquez Clinic Mary 2021-05-28 321.65
+Bill Hans P Peterson Memorial Hospital - Cah Patrick 2021-09-10 280.08
+Bill Baylor Scott And White Medical Center Mckinney Colleen 2021-03-31 843.60
+Bill Integris Health Edmond Emily 2021-08-07 384.41
+Bill Green-Hall Medical Group Melissa 2021-10-19 649.81
+Bill Baptist Medical Center - Attala Emily 2020-12-05 703.81
+Bill Schultz-Schmidt Medical Group Mikayla 2021-06-10 605.61
+Bill Lansdale Hospital Patricia 2020-12-05 460.67
+Bill Kaiser Foundation Hospital - Woodland Hills Timothy 2021-04-24 1358.40
+Bill Integris Health Edmond Larry 2020-12-11 515.34
+Bill Irwin Clinic Laurie 2021-05-05 652.25
+Bill Murphy Health Care Joshua 2021-03-15 456.95
+Bill Kaiser Foundation Hospital - Woodland Hills Jeffrey 2021-08-30 747.95
+Bill Baptist Medical Center - Attala Rodney 2021-09-03 856.12
+Bill Moreno, Bean and Reeves Clinic Colleen 2021-10-18 199.10
+Bill Patrick-Price Medical Group Tammy 2021-08-20 1387.91
+Bill White-Decker Health System Rodney 2020-09-30 659.78
+Bill Hans P Peterson Memorial Hospital - Cah Travis 2021-09-04 1015.74
+Bill Patrick-Price Medical Group Ronald 2020-09-23 929.16
+Bill Baptist Medical Center - Attala Sarah 2021-01-31 854.82
+Bill Moreno, Bean and Reeves Clinic Timothy 2020-11-07 139.60
+Bill Moreno, Bean and Reeves Clinic Thomas 2021-10-29 1090.70
+Bill White-Decker Health System Robert 2020-09-30 535.89
+Bill White-Decker Health System Tanya 2020-09-23 405.23
+Bill Northeastern Health System Rodney 2021-01-08 850.35
+Bill Curtis, Martinez and Vasquez Clinic Emily 2021-05-21 399.65
+Bill Thomas Medical Group Natalie 2021-04-21 1393.79
+Bill O.a.s.i.s. Hospital Shawn 2020-09-13 576.47
+Bill Curtis, Martinez and Vasquez Clinic Kevin 2021-06-26 749.62
+Bill Patrick-Price Medical Group Laurie 2021-07-25 1039.51
+Bill Hoffman-Williams Health System Kelly 2021-04-26 405.14
+Bill Schultz-Schmidt Medical Group Joshua 2021-06-06 1002.82
+Bill Curtis, Martinez and Vasquez Clinic Kathleen 2021-09-23 839.67
+Bill Baptist Medical Center - Attala Lee 2020-12-06 624.73
+Bill Holland Clinic Melanie 2021-04-11 468.77
+Bill Thomas Medical Group Jordan 2021-03-16 253.44
+Bill Irwin Clinic Kevin 2021-08-15 381.02
+Bill Holland Clinic Carolyn 2021-02-03 507.06
+Bill Hans P Peterson Memorial Hospital - Cah Sarah 2021-07-20 109.81
+Bill Kline Bradley 2021-07-31 566.40
+Bill Schultz-Schmidt Medical Group Larry 2020-11-19 195.24
+Bill Schultz-Schmidt Medical Group Corey 2020-09-14 1095.53
+Bill Baylor Scott And White Medical Center Mckinney Brian 2021-07-05 1057.80
+Bill Green-Hall Medical Group Mary 2021-05-22 1383.09
+Bill O.a.s.i.s. Hospital Lee 2021-10-31 235.62
+Bill Patrick-Price Medical Group Joshua 2021-08-18 1367.79
+Bill Hans P Peterson Memorial Hospital - Cah Kelly 2021-10-29 396.44
+Bill Kaiser Foundation Hospital - Woodland Hills Thomas 2021-03-17 1339.24
+Bill Patrick-Price Medical Group Nicole 2020-10-18 778.61
+Bill Ferguson-Davis Medical Group Joshua 2020-10-30 474.38
+Bill Patrick-Price Medical Group Sarah 2020-09-02 613.10
+Bill Baylor Scott And White Medical Center Mckinney Melissa 2021-05-27 1336.53
+Bill Northeastern Health System Daniel 2021-06-24 305.22
+Bill Adena Pike Medical Center Rodney 2020-12-26 276.00
+Bill Thomas Medical Group Sarah 2021-08-03 1349.72
+Bill Kaiser Foundation Hospital - Woodland Hills Melanie 2020-11-23 1218.91
+Bill O.a.s.i.s. Hospital Bradley 2020-10-15 1387.00
+Bill Moreno, Bean and Reeves Clinic Shawn 2021-06-29 686.69
+Bill Murphy Health Care Larry 2021-03-07 931.54
+Bill Hoffman-Williams Health System Rhonda 2020-11-06 93.66
+Bill Patrick-Price Medical Group Sarah 2021-03-10 172.90
+Bill Baptist Medical Center - Attala Erica 2021-09-02 256.74
+Bill Curtis, Martinez and Vasquez Clinic Travis 2021-07-13 158.75
+Bill Lansdale Hospital James 2020-11-27 695.58
+Bill St Vincent Jennings Hospital Inc James 2020-09-08 1189.72
+Bill Kline Christina 2020-12-03 571.22
+Bill St Vincent Jennings Hospital Inc Christopher 2021-03-16 1380.09
+Bill Baptist Medical Center - Attala Dorothy 2021-05-04 813.69
+Bill Baptist Medical Center - Attala Christopher 2021-05-06 573.41
+Bill Baptist Medical Center - Attala Colleen 2021-02-19 746.02
+Bill Avera Gregory Hospital James 2021-06-08 447.95
+Bill Ferguson-Davis Medical Group Shawn 2021-08-25 176.30
+Bill Murphy Health Care Emily 2020-10-28 1210.45
+Bill Hans P Peterson Memorial Hospital - Cah Tammy 2021-10-10 301.29
+Bill Integris Health Edmond Tammy 2021-03-02 1345.67
+Bill Patrick-Price Medical Group Jordan 2020-11-07 322.88
+Bill Moreno, Bean and Reeves Clinic Brian 2021-07-04 896.19
+Bill O.a.s.i.s. Hospital Joshua 2021-04-12 109.63
+Bill St Vincent Jennings Hospital Inc Kathleen 2021-08-04 1105.63
+Bill Baptist Medical Center - Attala Brandon 2021-07-17 965.13
+Bill Moreno, Bean and Reeves Clinic Nicole 2021-04-29 1120.84
+Bill Hoffman-Williams Health System Corey 2021-08-05 329.87
+Bill St Vincent Jennings Hospital Inc Rodney 2020-11-26 311.30
+Bill Integris Health Edmond Larry 2021-10-10 882.96
+Bill Northeastern Health System Timothy 2020-12-13 865.28
+Bill Curtis, Martinez and Vasquez Clinic Kristen 2021-03-06 162.07
+Bill Kaiser Foundation Hospital - Woodland Hills Christopher 2021-03-11 1383.89
+Bill Lansdale Hospital Brandon 2020-09-10 679.31
+Bill Lansdale Hospital Steven 2020-09-28 1044.33
+Bill Northeastern Health System Kelly 2021-02-19 524.34
+Bill Baptist Medical Center - Attala Lee 2021-06-27 392.96
+Bill Kline Mikayla 2021-10-09 308.71
+Bill Baptist Medical Center - Attala Susan 2021-04-12 107.10
+Bill Holland Clinic Christina 2020-12-06 1373.99
+Bill Moreno, Bean and Reeves Clinic Cindy 2020-11-03 1138.87
+Bill O.a.s.i.s. Hospital Dorothy 2021-06-18 1322.77
+Bill Irwin Clinic Amanda 2021-04-30 345.72
+Bill Hans P Peterson Memorial Hospital - Cah Larry 2020-12-23 880.74
+Bill Irwin Clinic Cindy 2021-07-25 518.23
+Bill Lansdale Hospital Melissa 2021-06-28 169.44
+Bill Integris Health Edmond Natalie 2021-01-10 1042.09
+Bill Irwin Clinic Dorothy 2020-09-12 759.24
+Bill Irwin Clinic Kathleen 2021-04-24 850.37
+Bill Avera Gregory Hospital Mikayla 2021-10-25 1000.83
+Bill Ferguson-Davis Medical Group Bradley 2020-12-14 397.82
+Bill Murphy Health Care Mary 2021-09-01 1089.06
+Bill Hans P Peterson Memorial Hospital - Cah Larry 2021-09-28 1348.09
+Bill Murphy Health Care Joshua 2021-01-28 1075.48
+Bill Thomas Medical Group Larry 2021-09-24 1075.76
+Bill Thomas Medical Group Christina 2021-07-04 1251.20
+Bill Holland Clinic Eric 2021-07-26 801.15
+Bill Thomas Medical Group Jennifer 2020-12-14 1148.21
+Bill Baylor Scott And White Medical Center Mckinney Carolyn 2021-07-29 212.47
+Bill Kaiser Foundation Hospital - Woodland Hills James 2020-09-27 448.89
+Bill Murphy Health Care Timothy 2021-05-18 416.75
+Bill Holland Clinic Emily 2021-02-23 482.36
+Bill Moreno, Bean and Reeves Clinic Travis 2020-10-12 921.58
+Bill Adena Pike Medical Center Patrick 2021-02-11 457.05
+Bill White-Decker Health System Tammy 2020-09-26 1059.18
+Bill Ferguson-Davis Medical Group Stephanie 2021-02-17 577.08
+Bill Irwin Clinic Dorothy 2021-03-19 709.55
+Bill Hoffman-Williams Health System Gregory 2021-02-06 1313.17
+Bill Hoffman-Williams Health System Corey 2020-10-08 1168.21
+Bill Kline Christopher 2020-10-30 1122.74
+Bill Baylor Scott And White Medical Center Mckinney Russell 2021-09-26 108.34
+Bill Thomas Medical Group Frank 2020-11-22 415.73
+Bill Murphy Health Care Billy 2021-07-20 792.30
+Bill Baptist Medical Center - Attala Larry 2021-08-02 1095.56
+Bill Murphy Health Care Colleen 2021-03-15 400.93
+Bill Ferguson-Davis Medical Group Dorothy 2021-01-29 254.47
+Bill O.a.s.i.s. Hospital Brandon 2020-12-26 1365.85
+Bill Integris Health Edmond Erica 2020-11-16 666.66
+Bill Ferguson-Davis Medical Group Kristen 2021-01-04 733.72
+Bill Hoffman-Williams Health System Mary 2021-04-15 446.69
+Bill Integris Health Edmond Lee 2021-07-11 1249.75
+Bill Northeastern Health System Brandon 2020-11-21 1223.83
+Bill St Vincent Jennings Hospital Inc Theresa 2021-09-01 336.22
+Bill Curtis, Martinez and Vasquez Clinic Bradley 2021-01-13 1217.67
+Bill Murphy Health Care Brandon 2021-05-26 691.50
+Bill Lansdale Hospital Carolyn 2021-01-15 1151.28
+Bill Patrick-Price Medical Group Kevin 2020-09-28 775.94
+Bill Kline Dorothy 2021-06-18 558.84
+Bill Green-Hall Medical Group Larry 2020-11-24 568.23
+Bill Thomas Medical Group Rhonda 2021-06-28 1041.00
+Bill Curtis, Martinez and Vasquez Clinic Colleen 2021-02-20 344.41
+Bill Baptist Medical Center - Attala Shawn 2021-10-26 1248.55
+Bill Integris Health Edmond Christopher 2021-04-14 1261.29
+Bill Kline Brian 2021-01-24 836.03
+Bill Green-Hall Medical Group Joshua 2020-12-28 1162.70
+Bill Thomas Medical Group Jeffrey 2021-08-05 882.61
+Bill Adena Pike Medical Center Rodney 2021-10-18 1364.11
+Bill Hans P Peterson Memorial Hospital - Cah Patricia 2020-09-11 717.09
+Bill Ferguson-Davis Medical Group Cindy 2021-07-02 1396.85
+Bill Avera Gregory Hospital Thomas 2021-10-03 991.43
+Bill O.a.s.i.s. Hospital Corey 2020-11-28 808.50
+Bill Northeastern Health System Travis 2020-12-21 735.52
+Bill Northeastern Health System Bradley 2021-06-22 217.29
+Bill Patrick-Price Medical Group Mikayla 2021-08-01 1152.55
+Bill Schultz-Schmidt Medical Group Corey 2020-09-02 357.78
+Bill Curtis, Martinez and Vasquez Clinic Russell 2020-09-11 1131.40
+Bill Avera Gregory Hospital Tanya 2021-09-03 517.51
+Bill Patrick-Price Medical Group Christina 2021-02-09 706.65
+Bill O.a.s.i.s. Hospital Emily 2021-06-28 1172.98
+Bill Patrick-Price Medical Group Dorothy 2021-09-12 420.70
+Bill Lansdale Hospital Erica 2020-11-04 1119.03
+Bill Holland Clinic Dorothy 2021-04-13 133.40
+Bill Moreno, Bean and Reeves Clinic Laurie 2021-04-07 1297.31
+Bill Hoffman-Williams Health System Laurie 2021-07-22 1084.66
+Bill O.a.s.i.s. Hospital Brian 2021-04-18 284.11
+Bill Kline Laurie 2020-10-28 203.39
+Bill Kline Timothy 2021-09-08 472.95
+Bill Integris Health Edmond Kristen 2021-05-10 1220.31
+Bill Green-Hall Medical Group Kevin 2020-09-11 662.19
+Bill Integris Health Edmond Laurie 2021-07-22 146.98
+Bill Patrick-Price Medical Group Billy 2020-12-15 655.61
+Bill Patrick-Price Medical Group Rhonda 2020-11-08 1262.11
+Bill Integris Health Edmond Timothy 2021-07-03 499.42
+Bill Green-Hall Medical Group Tammy 2020-12-13 190.67
+Bill Adena Pike Medical Center Colleen 2021-07-26 1382.34
+Bill Integris Health Edmond Shawn 2020-09-15 826.81
+Bill Murphy Health Care Kathleen 2021-08-10 189.35
+Bill Clay County Memorial Hospital Dorothy 2021-01-29 939.02
+Bill Kline Christina 2021-06-26 1041.05
+Bill Integris Health Edmond Kristen 2021-09-08 340.87
+Bill Kaiser Foundation Hospital - Woodland Hills Bradley 2021-02-18 988.77
+Bill Ferguson-Davis Medical Group Billy 2021-04-06 789.48
+Bill Curtis, Martinez and Vasquez Clinic Christopher 2021-09-13 1157.54
+Bill Baylor Scott And White Medical Center Mckinney Mikayla 2021-03-09 147.70
+Bill Patrick-Price Medical Group Dorothy 2021-04-09 135.54
+Bill Moreno, Bean and Reeves Clinic Daniel 2021-01-29 182.36
+Bill Northeastern Health System Daniel 2021-08-25 623.75
+Bill Curtis, Martinez and Vasquez Clinic Sarah 2021-03-11 1218.18
+Bill Integris Health Edmond Christina 2020-10-09 1037.05
+Bill Baylor Scott And White Medical Center Mckinney Christopher 2021-08-30 841.68
+Bill Adena Pike Medical Center Billy 2021-09-27 523.73
+Bill Integris Health Edmond Kevin 2020-11-24 470.69
+Bill Patrick-Price Medical Group Rodney 2021-10-05 373.11
+Bill Avera Gregory Hospital Carolyn 2021-01-29 1247.76
+Bill Schultz-Schmidt Medical Group James 2020-12-26 158.13
+Bill Thomas Medical Group Daniel 2021-06-26 365.49
+Bill Clay County Memorial Hospital Emily 2021-01-30 137.48
+Bill Lansdale Hospital Kathleen 2021-03-14 876.61
+Bill O.a.s.i.s. Hospital Bradley 2020-11-13 102.63
+Bill St Vincent Jennings Hospital Inc Patricia 2020-12-07 1082.86
+Bill Curtis, Martinez and Vasquez Clinic Tanya 2021-07-13 883.32
+Bill Holland Clinic Mary 2021-05-07 1033.88
+Bill Murphy Health Care Christina 2021-10-02 520.40
+Bill Murphy Health Care Jennifer 2020-09-07 965.05
+Bill Schultz-Schmidt Medical Group Stephanie 2021-07-20 217.32
+Bill Clay County Memorial Hospital Brian 2021-07-23 571.33
+Bill Clay County Memorial Hospital Jeffrey 2020-12-13 1071.18
+Bill Patrick-Price Medical Group Melissa 2020-11-22 555.79
+Bill Green-Hall Medical Group Billy 2021-08-04 634.68
+Bill Hans P Peterson Memorial Hospital - Cah Timothy 2021-10-13 363.78
+Bill Northeastern Health System Sarah 2021-01-06 698.34
+Bill Baylor Scott And White Medical Center Mckinney Tammy 2020-12-18 826.34
+Bill Clay County Memorial Hospital Billy 2021-04-27 659.27
+Bill Northeastern Health System Thomas 2021-03-27 836.14
+Bill Irwin Clinic Christina 2021-08-02 1135.59
+Bill Adena Pike Medical Center Jeffrey 2020-12-13 651.61
+Bill Hans P Peterson Memorial Hospital - Cah Melissa 2021-05-27 219.87
+Bill Schultz-Schmidt Medical Group Brian 2021-02-12 672.94
+Bill Schultz-Schmidt Medical Group Erica 2020-12-02 188.73
+Bill Curtis, Martinez and Vasquez Clinic Jennifer 2020-12-17 100.25
+Bill Northeastern Health System Robert 2021-10-15 167.65
+Bill White-Decker Health System Patricia 2020-10-27 1362.09
+Bill St Vincent Jennings Hospital Inc Larry 2021-09-14 232.80
+Bill White-Decker Health System Jennifer 2021-01-22 235.19
+Bill Hans P Peterson Memorial Hospital - Cah Jennifer 2021-09-05 1033.38
+Bill Baptist Medical Center - Attala Carolyn 2020-10-15 578.88
+Bill Hoffman-Williams Health System Timothy 2021-01-24 329.27
+Bill St Vincent Jennings Hospital Inc Jordan 2021-05-31 165.08

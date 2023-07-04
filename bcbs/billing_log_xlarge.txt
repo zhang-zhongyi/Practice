@@ -1,0 +1,2889 @@
+Member Susan
+Provider South Cameron Memorial Hospital
+Bill South Cameron Memorial Hospital Susan 2021-05-06 1264.55
+Member Wesley
+Member Crystal
+Provider Mcdowell-Thompson Health Care
+Provider Cartersville Medical Center
+Provider Roach, Young and Oneal Health Care
+Bill Mcdowell-Thompson Health Care Wesley 2007-12-01 1171.47
+Provider Williams, Fischer and Hayes Health System
+Provider Desert View Hospital
+Member Gabrielle
+Bill Cartersville Medical Center Crystal 2005-09-20 472.26
+Bill Roach, Young and Oneal Health Care Gabrielle 2006-08-23 804.58
+Member Todd
+Provider Gonzalez, Hughes and Perkins Health Care
+Provider Cain-Jones Health System
+Member Barry
+Member Paula
+Member Ruth
+Provider Mcdonald, Dominguez and Brown Clinic
+Provider Rivera, Jordan and Nelson Health Care
+Provider Sanchez, Larson and Kent Medical Group
+Member Diane
+Provider Clark Memorial Hospital
+Provider Moore-Jones Medical Group
+Provider Miller, Vasquez and Hebert Medical Group
+Member Stacey
+Bill Cain-Jones Health System Barry 2001-11-15 215.48
+Bill Williams, Fischer and Hayes Health System Susan 2003-05-19 710.27
+Provider Robbins Medical Group
+Member Micheal
+Member Joe
+Member Tim
+Bill Desert View Hospital Ruth 2012-11-05 303.93
+Provider Hall-Jones Medical Group
+Member Nicholas
+Provider Keith Clinic
+Provider Baptist Emergency Hospital
+Provider Riverside Community Hospital
+Bill Clark Memorial Hospital Todd 2012-01-07 548.10
+Member Wendy
+Member Alison
+Bill Mcdonald, Dominguez and Brown Clinic Stacey 2012-12-19 760.96
+Member Nichole
+Provider Wright
+Provider Mary Rutan Hospital
+Bill Gonzalez, Hughes and Perkins Health Care Ruth 2002-05-27 939.63
+Member Teresa
+Provider Herrera Medical Group
+Member Maria
+Provider Gay, Mitchell and Le Health System
+Bill Moore-Jones Medical Group Nichole 2015-08-10 218.10
+Provider Ness County Hospital District #2
+Provider Roberts, Rodriguez and Randolph Health Care
+Bill Rivera, Jordan and Nelson Health Care Paula 2015-12-26 657.68
+Bill Sanchez, Larson and Kent Medical Group Tim 2009-02-03 475.31
+Member Alejandro
+Provider St John Owasso
+Member Edgar
+Bill Hall-Jones Medical Group Joe 2020-07-23 256.94
+Provider Becker, Patterson and Williams
+Provider Community Memorial Hospital Medical Center
+Provider Cumberland Medical Center
+Bill Riverside Community Hospital Diane 2019-12-09 1151.65
+Bill Robbins Medical Group Nicholas 2014-02-03 1331.80
+Provider Mary Immaculate Hospital
+Provider Jefferson Hospital
+Provider Jensen
+Bill Miller, Vasquez and Hebert Medical Group Susan 2015-02-02 364.78
+Provider Kaiser Foundation Hospital And Rehab Center
+Bill Baptist Emergency Hospital Micheal 2003-08-21 657.90
+Member Brandon
+Provider Serrano, Meyers and Miller Clinic
+Provider South Texas Surgical Hospital
+Member Monica
+Bill Herrera Medical Group Brandon 2017-08-25 453.83
+Member Derrick
+Bill Keith Clinic Derrick 2007-10-17 1323.02
+Member Samantha
+Member Victor
+Member Robyn
+Member Gary
+Provider Carter, Navarro and Barton Medical Group
+Provider Meyer Clinic
+Member Blake
+Provider Castro, Meyer and Schroeder Health Care
+Bill Wright Wendy 2017-08-31 190.55
+Member David
+Member Thomas
+Provider Davis Clinic
+Provider Smith County Memorial Hospital
+Member Shari
+Member Tara
+Member Antonio
+Provider Castillo, Hayes and Williams Health Care
+Bill Gay, Mitchell and Le Health System Barry 2016-04-02 766.99
+Provider Shriners Hospitals For Children
+Member Eric
+Bill Mary Rutan Hospital Victor 2002-11-18 170.18
+Member Ashley
+Provider Dupont Hospital Llc
+Member Zachary
+Bill St John Owasso Wesley 2013-11-09 233.85
+Provider Milford Regional Medical Center
+Member Chad
+Provider Gonzalez Health System
+Provider Scottsdale Osborn Medical Center
+Bill Ness County Hospital District #2 Tara 2016-01-25 1250.40
+Member Steven
+Member Kent
+Provider Cox, Garner and Patterson Clinic
+Bill Roberts, Rodriguez and Randolph Health Care Gary 2021-03-03 700.23
+Provider Regional West Garden County Hospital
+Member Tracy
+Bill Carter, Navarro and Barton Medical Group Alison 2001-10-25 154.75
+Member Tyler
+Bill Cox, Garner and Patterson Clinic Edgar 2009-08-02 100.68
+Provider Chinle Comprehensive Health Care Facility
+Member Sean
+Member George
+Provider Stephens Memorial Hospital
+Member Brenda
+Bill Kaiser Foundation Hospital And Rehab Center Eric 2016-02-19 400.87
+Member Cynthia
+Bill Jefferson Hospital Teresa 2001-09-24 675.34
+Bill Cumberland Medical Center Cynthia 2013-01-28 676.74
+Member Laura
+Bill Mary Immaculate Hospital Monica 2010-03-17 380.46
+Bill Carter, Navarro and Barton Medical Group Barry 2003-02-04 1344.26
+Provider Miller Health Care
+Provider Cisneros, Haley and Reid
+Provider Dixon-Little
+Provider Jackson-Benson Health Care
+Bill Community Memorial Hospital Medical Center Maria 2016-08-14 1210.69
+Bill Castro, Meyer and Schroeder Health Care Samantha 2014-02-21 148.29
+Bill Shriners Hospitals For Children Brenda 2017-06-22 477.35
+Provider Yuma District Hospital
+Provider Firsthealth Montgomery Memorial Hosp
+Member Heather
+Member Bobby
+Bill Yuma District Hospital Blake 2014-09-30 1396.89
+Bill South Texas Surgical Hospital Ashley 2009-03-20 1284.94
+Provider Fairbanks Memorial Hospital
+Bill Dupont Hospital Llc Diane 2016-02-11 215.98
+Provider Woods-Dixon Health Care
+Member Christopher
+Bill Gonzalez, Hughes and Perkins Health Care Sean 2014-05-07 919.90
+Member Jack
+Provider Northern Nevada Medical Center
+Bill Becker, Patterson and Williams Alejandro 2012-11-14 907.01
+Provider Brown
+Provider Bowman-Miller
+Provider Edwards-Ramirez Health Care
+Provider The Hospitals Of Providence Transmountain Campus
+Member Miranda
+Member Patrick
+Provider Clements Health System
+Provider Guthrie Towanda Memorial Hospital
+Member Cheryl
+Member Sabrina
+Member James
+Bill Meyer Clinic Alison 2012-06-24 507.02
+Bill Miller Health Care Tracy 2016-10-16 625.82
+Member Amber
+Member Lee
+Member Ricky
+Bill Miller Health Care Steven 2008-05-20 122.46
+Provider Johnson Memorial Hospital
+Provider Sanders, Cochran and Smith Health System
+Bill Sanders, Cochran and Smith Health System Brandon 2016-05-23 367.94
+Bill Jensen Stacey 2003-02-11 475.23
+Provider Lakeview Memorial Hospital
+Member Beverly
+Provider Mayo Clinic Hlth System  Franciscan Med Ctr
+Provider Inova Mount Vernon Hospital
+Member Nicole
+Member Derek
+Provider Barrett Medical Group
+Bill Hall-Jones Medical Group Robyn 2010-04-27 1372.45
+Member Sheryl
+Provider Mcdaniel, Taylor and Sosa Health Care
+Provider James, Clark and Flores Health System
+Member Jennifer
+Member Andrea
+Member Kelly
+Bill Davis Clinic Heather 2018-06-26 1077.50
+Bill Jefferson Hospital George 2007-03-31 1382.66
+Member Richard
+Bill Castillo, Hayes and Williams Health Care Tracy 2010-08-21 910.56
+Provider Hillsboro Community Hospital
+Provider Carson Tahoe Regional Medical Center
+Provider Davis-Schneider Health Care
+Member Regina
+Bill Serrano, Meyers and Miller Clinic Lee 2013-05-04 816.69
+Member Robert
+Bill Lakeview Memorial Hospital Thomas 2014-12-27 592.07
+Bill Jackson-Benson Health Care Antonio 2018-07-31 1150.62
+Provider Upmc Hamot
+Member Gina
+Member Jose
+Provider Pawnee County Memorial Hospital
+Bill Pawnee County Memorial Hospital Shari 2013-03-03 1026.40
+Bill Jefferson Hospital Thomas 2007-02-10 543.49
+Member Olivia
+Member Tina
+Bill Riverside Community Hospital Miranda 2014-03-30 454.35
+Provider Garcia Health Care
+Bill Mcdonald, Dominguez and Brown Clinic Blake 2014-05-02 1097.21
+Member Shawn
+Provider Union Medical Center
+Member Donald
+Provider Patel-Munoz
+Member Anna
+Member Curtis
+Bill South Texas Surgical Hospital Patrick 2018-11-20 149.85
+Provider Guam Memorial Hospital Authority
+Provider Monroe Hospital
+Provider Lewis-Castro Health System
+Bill Smith County Memorial Hospital David 2015-09-18 201.87
+Member Michelle
+Bill Jensen Laura 2007-02-23 734.54
+Member Manuel
+Member Adrienne
+Member Miguel
+Member Kristi
+Bill Stephens Memorial Hospital Crystal 2007-09-04 377.89
+Bill Dixon-Little Zachary 2005-07-17 211.50
+Member Patricia
+Bill Lewis-Castro Health System Laura 2018-10-21 791.31
+Bill Scottsdale Osborn Medical Center Regina 2017-03-10 830.00
+Provider Lester, Hebert and Duran Health System
+Bill Northern Nevada Medical Center Chad 2002-07-07 90.06
+Bill Firsthealth Montgomery Memorial Hosp Kent 2014-06-21 212.75
+Provider Ronald Reagan U C L A Medical Center
+Member Allen
+Member Matthew
+Member Mary
+Provider Mckenzie Health System
+Provider Banner Gateway Medical Center
+Member Grant
+Bill Castro, Meyer and Schroeder Health Care Antonio 2010-02-27 707.78
+Provider Miranda-Cox Medical Group
+Bill Regional West Garden County Hospital Bobby 2015-01-19 141.22
+Provider Avery-Bailey
+Provider Rady Children's Hospital - San Diego
+Member Roy
+Member Anthony
+Provider Chippewa County War Memorial Hospital
+Provider Adams-Ford Health System
+Provider Adams, Petty and Nelson
+Bill Milford Regional Medical Center Zachary 2011-02-06 400.94
+Bill Chinle Comprehensive Health Care Facility Zachary 2002-04-21 436.83
+Member Walter
+Member Ashlee
+Member Denise
+Provider Brigham City Community Hospital
+Member Sara
+Member Brian
+Bill Keith Clinic Kent 2013-10-09 197.39
+Bill Cisneros, Haley and Reid Matthew 2007-03-02 833.20
+Provider Pushmataha County Town Of Antlers Hospital
+Member Alyssa
+Provider Fillmore County Hospital
+Member Randy
+Bill Community Memorial Hospital Medical Center Ashley 2001-03-28 1298.93
+Bill Edwards-Ramirez Health Care Cheryl 2012-10-04 878.83
+Provider Freeman Neosho Hospital
+Bill Mcdaniel, Taylor and Sosa Health Care Kent 2020-05-10 1171.46
+Member Emma
+Member Jake
+Bill Gonzalez Health System Tyler 2006-07-25 296.30
+Member Andrew
+Bill James, Clark and Flores Health System Joe 2015-08-09 357.99
+Provider Memorial Hospital
+Provider Piedmont Newton Hospital
+Member Jamie
+Provider Jones, Randolph and Wallace Clinic
+Provider Eastern New Mexico Medical Center
+Provider Kansas Spine & Specialty Hospital, Llc
+Bill Desert View Hospital Gina 2015-01-13 111.87
+Bill Kaiser Foundation Hospital And Rehab Center Nicole 2002-08-02 1115.05
+Bill Guthrie Towanda Memorial Hospital Jose 2018-07-04 583.26
+Bill James, Clark and Flores Health System Andrea 2015-02-05 1082.90
+Provider Knox
+Member Lisa
+Member Debbie
+Provider Davis, Keith and Weaver
+Bill Fairbanks Memorial Hospital Bobby 2018-10-22 1372.75
+Bill Davis-Schneider Health Care Beverly 2001-06-09 1370.04
+Member Kristie
+Provider Carilion Roanoke Memorial Hospital
+Bill Herrera Medical Group Thomas 2011-05-07 312.97
+Provider Oconnor
+Bill Barrett Medical Group Kristie 2018-04-18 509.11
+Provider Wright Medical Group
+Provider Chavez, Johnson and Bray Health System
+Member Nathaniel
+Member Linda
+Bill Baptist Emergency Hospital Roy 2014-09-25 370.00
+Provider Nocona General Hospital
+Member Jimmy
+Bill Memorial Hospital Manuel 2020-04-16 455.05
+Bill Rivera, Jordan and Nelson Health Care Lisa 2020-06-11 1373.61
+Provider Garrison-Phillips Health Care
+Bill Adams-Ford Health System Shari 2021-02-23 980.17
+Bill Carson Tahoe Regional Medical Center Richard 2001-02-05 994.45
+Provider San Gabriel Valley Medical Center
+Member Allison
+Member Shane
+Provider Faulkner-Munoz Health Care
+Bill Mckenzie Health System Shawn 2010-03-31 98.25
+Provider Rodriguez-Haas Clinic
+Bill Regional West Garden County Hospital Monica 2013-07-18 736.94
+Provider Hospital Metropolitano San German
+Provider Mckinney, Parker and Bautista Medical Group
+Member Benjamin
+Bill Woods-Dixon Health Care Linda 2020-10-01 438.73
+Member Danielle
+Bill Riverside Community Hospital Michelle 2010-03-30 1340.64
+Provider Hampton Regional Medical Center
+Bill Gay, Mitchell and Le Health System Alyssa 2009-04-14 460.58
+Member Lindsey
+Bill Hillsboro Community Hospital Allen 2001-06-01 993.10
+Provider Middle Park Medical Center
+Member Pamela
+Member Kathryn
+Member Erik
+Bill Mayo Clinic Hlth System  Franciscan Med Ctr Susan 2002-07-21 621.11
+Bill Oconnor Ricky 2014-01-01 612.11
+Bill Carter, Navarro and Barton Medical Group Alejandro 2010-10-20 642.57
+Member Jeffrey
+Bill Inova Mount Vernon Hospital Benjamin 2004-02-20 1201.25
+Member Kayla
+Provider Multicare Valley Hospital
+Bill Cain-Jones Health System Curtis 2020-12-11 241.16
+Provider Oklahoma Heart Hospital South, Llc
+Provider Idaho Doctors Hospital
+Member Michele
+Provider University Colo Health Memorial Hospital Central
+Provider Reynolds Medical Group
+Provider Davis Regional Medical Center
+Bill Baptist Emergency Hospital Patrick 2006-04-22 510.76
+Member Krystal
+Bill Guthrie Towanda Memorial Hospital Mary 2008-12-07 701.24
+Bill Ronald Reagan U C L A Medical Center Zachary 2016-02-02 868.16
+Bill Chavez, Johnson and Bray Health System Kayla 2007-03-23 198.86
+Bill Gay, Mitchell and Le Health System Jack 2019-09-21 127.92
+Bill Rodriguez-Haas Clinic Sheryl 2004-03-14 121.21
+Member Stacy
+Bill Stephens Memorial Hospital Emma 2005-06-14 593.36
+Bill Miranda-Cox Medical Group Bobby 2005-03-28 785.26
+Member Amanda
+Provider Medstar Southern Maryland Hospital Center
+Bill Fairbanks Memorial Hospital Roy 2010-07-27 459.24
+Provider Beth Israel Deaconess Hospital-milton Inc
+Bill University Colo Health Memorial Hospital Central Cheryl 2001-11-27 454.43
+Bill Johnson Memorial Hospital Blake 2019-01-02 159.95
+Bill Clements Health System Christopher 2008-07-10 516.32
+Bill The Hospitals Of Providence Transmountain Campus Jake 2018-03-24 539.70
+Bill Chippewa County War Memorial Hospital Miguel 2013-08-12 279.50
+Bill Mcdonald, Dominguez and Brown Clinic Blake 2018-01-08 693.31
+Bill Fillmore County Hospital Amber 2021-10-04 641.54
+Bill Barrett Medical Group Nichole 2012-03-30 641.25
+Bill Bowman-Miller David 2021-06-12 661.40
+Member Becky
+Bill Knox James 2021-04-18 455.59
+Provider Hill, Mclean and Hodges
+Bill Banner Gateway Medical Center Maria 2002-04-09 423.85
+Bill Hampton Regional Medical Center Manuel 2021-09-14 1114.48
+Member Katrina
+Member Spencer
+Bill Brigham City Community Hospital Cynthia 2012-02-28 780.27
+Provider Thompson-Padilla Medical Group
+Bill Brown Walter 2016-02-06 205.07
+Member Dana
+Bill Dupont Hospital Llc Nathaniel 2012-02-24 310.04
+Bill Garcia Health Care Tina 2007-07-13 460.68
+Member Ana
+Member Julian
+Bill Roberts, Rodriguez and Randolph Health Care Kristi 2008-03-16 645.79
+Bill Upmc Hamot David 2017-09-06 612.96
+Member Kenneth
+Provider Walters, Miles and Nash Clinic
+Bill Rady Children's Hospital - San Diego Grant 2007-06-04 381.94
+Provider Torres, Gonzalez and Bush Medical Group
+Bill Adams, Petty and Nelson Gina 2014-11-12 687.29
+Bill Mary Rutan Hospital Sabrina 2020-09-28 563.81
+Provider Covenant Hospital Plainview
+Bill Thompson-Padilla Medical Group Amanda 2003-05-02 889.08
+Bill University Colo Health Memorial Hospital Central Olivia 2016-08-05 1211.34
+Bill Regional West Garden County Hospital Jimmy 2021-04-17 1165.12
+Member Christina
+Member Michael
+Bill Monroe Hospital Andrew 2004-02-23 433.41
+Bill Wright Medical Group Jennifer 2005-02-05 1387.02
+Provider Avera Heart Hospital Of South Dakota
+Bill Desert View Hospital George 2012-06-02 525.73
+Member Bryan
+Bill Woods-Dixon Health Care Michael 2004-01-31 862.15
+Member Tiffany
+Bill Carson Tahoe Regional Medical Center Heather 2014-10-14 1169.68
+Bill Carson Tahoe Regional Medical Center Linda 2004-03-18 530.76
+Bill Guam Memorial Hospital Authority Derek 2001-05-29 853.22
+Member Johnny
+Member Kevin
+Member Julie
+Member Amy
+Bill Roach, Young and Oneal Health Care Anna 2002-10-19 1293.24
+Member Kristin
+Provider Northwestern Memorial Hospital
+Member Ethan
+Member Kimberly
+Member Timothy
+Bill Memorial Hospital Jake 2012-04-09 318.95
+Provider Memorial Hermann Texas Medical Center
+Provider Mercy Hospital Logan County, Inc
+Member Mitchell
+Bill Castillo, Hayes and Williams Health Care Barry 2002-08-07 645.97
+Bill Avera Heart Hospital Of South Dakota Shawn 2010-10-08 1267.34
+Bill Covenant Hospital Plainview Steven 2015-05-09 783.26
+Bill Davis, Keith and Weaver Kathryn 2011-12-01 730.74
+Bill Gonzalez Health System Tina 2015-08-04 1289.20
+Bill Davis Clinic Diane 2010-12-31 1179.05
+Bill Jackson-Benson Health Care Ruth 2012-09-05 899.55
+Member Donna
+Bill Guthrie Towanda Memorial Hospital Maria 2007-03-13 849.84
+Bill Nocona General Hospital Bobby 2012-04-28 704.44
+Bill Oklahoma Heart Hospital South, Llc Allison 2006-01-27 877.19
+Bill Yuma District Hospital Patricia 2018-09-26 587.37
+Bill Brigham City Community Hospital Timothy 2018-12-09 558.43
+Bill Middle Park Medical Center Michael 2015-09-08 284.90
+Bill Patel-Munoz David 2005-07-22 1339.68
+Bill Oconnor Brian 2019-07-30 686.97
+Bill Union Medical Center Kelly 2014-01-06 548.71
+Bill Clements Health System Lee 2015-05-26 1288.01
+Bill Union Medical Center Bryan 2007-01-25 1203.73
+Bill Woods-Dixon Health Care Robert 2006-07-25 551.91
+Bill Mckinney, Parker and Bautista Medical Group Donald 2009-07-03 1361.47
+Bill Inova Mount Vernon Hospital Antonio 2009-10-30 1083.99
+Bill Eastern New Mexico Medical Center Anthony 2008-01-24 988.82
+Member Daniel
+Provider Chicot Memorial Medical Center
+Member Debra
+Bill Pushmataha County Town Of Antlers Hospital Ashlee 2007-02-12 1273.63
+Member Jill
+Member Megan
+Bill Freeman Neosho Hospital Crystal 2016-12-24 548.60
+Bill San Gabriel Valley Medical Center Lindsey 2016-06-08 606.91
+Provider Laredo Medical Center
+Bill Roberts, Rodriguez and Randolph Health Care Adrienne 2018-02-27 1116.98
+Provider Brown, Wright and Hurley Clinic
+Provider Sanford Vermillion Hospital
+Bill Miranda-Cox Medical Group Kristi 2006-12-06 1105.92
+Member Alan
+Provider Kahuku Medical Center
+Bill Rivera, Jordan and Nelson Health Care Spencer 2020-09-05 1085.48
+Bill Thompson-Padilla Medical Group Danielle 2001-06-14 307.79
+Bill Kansas Spine & Specialty Hospital, Llc Donna 2020-01-26 1011.98
+Provider Soto-Gonzalez Health System
+Bill Castillo, Hayes and Williams Health Care Shane 2012-10-01 423.24
+Member Justin
+Bill Chinle Comprehensive Health Care Facility Lindsey 2008-07-13 1198.99
+Member Joseph
+Bill Patel-Munoz Brian 2013-11-12 932.09
+Bill Mayo Clinic Hlth System  Franciscan Med Ctr Derek 2018-05-23 1383.97
+Provider Nichols-Hill Health Care
+Bill Lester, Hebert and Duran Health System Kristie 2004-07-22 1379.13
+Bill Piedmont Newton Hospital Kelly 2014-02-08 269.78
+Bill Walters, Miles and Nash Clinic Kristi 2001-08-25 860.11
+Bill Hospital Metropolitano San German Alejandro 2009-08-30 834.21
+Bill Inova Mount Vernon Hospital Antonio 2003-09-09 1294.17
+Bill Serrano, Meyers and Miller Clinic Zachary 2020-10-21 532.57
+Member Aaron
+Provider Anderson-Morales Health System
+Member Molly
+Bill Thompson-Padilla Medical Group Jamie 2013-11-07 835.29
+Bill Edwards-Ramirez Health Care Kent 2003-07-25 1345.58
+Bill Mcdowell-Thompson Health Care Michael 2020-08-01 230.53
+Bill South Texas Surgical Hospital Amy 2020-04-29 361.70
+Member Erin
+Bill Pawnee County Memorial Hospital Kathryn 2003-06-12 109.55
+Bill Milford Regional Medical Center Ana 2000-12-17 445.54
+Bill Castro, Meyer and Schroeder Health Care Samantha 2006-04-22 397.00
+Provider Shawnee Mission Medical Center
+Bill Firsthealth Montgomery Memorial Hosp Jill 2005-10-12 238.44
+Member Vanessa
+Bill Thompson-Padilla Medical Group Grant 2008-01-16 242.98
+Bill Reynolds Medical Group Sheryl 2003-03-28 1084.92
+Bill Meyer Clinic Christina 2007-09-09 581.40
+Member Chris
+Bill Dixon-Little Jimmy 2008-10-31 583.78
+Provider Uchealth Yampa Valley Medical Center
+Provider Santa Clara Valley Medical Center
+Bill James, Clark and Flores Health System Beverly 2001-08-28 1203.17
+Bill Medstar Southern Maryland Hospital Center Julie 2011-12-22 874.83
+Bill Idaho Doctors Hospital Bobby 2014-01-31 500.48
+Provider University Of Washington Medical Ctr
+Member Rachel
+Bill Meyer Clinic Bobby 2013-05-05 1041.32
+Member Lori
+Bill Kaiser Foundation Hospital And Rehab Center Ashley 2016-11-29 1189.21
+Bill Moore-Jones Medical Group Joe 2010-07-28 233.07
+Bill Robbins Medical Group Monica 2004-11-26 1056.51
+Bill Guam Memorial Hospital Authority Nicholas 2008-08-28 318.35
+Bill James, Clark and Flores Health System Daniel 2004-07-10 1304.84
+Member Gloria
+Provider Parkland Health And Hospital System
+Bill St John Owasso Pamela 2021-05-22 359.38
+Provider Stringfellow Memorial Hospital
+Bill Cain-Jones Health System Alyssa 2020-04-11 853.64
+Bill Castillo, Hayes and Williams Health Care Olivia 2003-08-01 324.23
+Provider Saint Joseph Mount Sterling
+Provider Mount Sinai Beth Israel
+Bill Mount Sinai Beth Israel Sean 2006-07-16 816.44
+Bill Lester, Hebert and Duran Health System Susan 2010-06-29 863.73
+Provider Baldwin, Miller and Mckenzie
+Member Rebecca
+Bill Saint Joseph Mount Sterling Donald 2005-10-23 279.58
+Bill Ronald Reagan U C L A Medical Center Amanda 2016-12-20 814.43
+Provider St Mary's Hospital At Amsterdam
+Member Joyce
+Provider Hernandez, Mendoza and Carr Health Care
+Bill Meyer Clinic Heather 2007-03-04 1179.70
+Bill Nichols-Hill Health Care Dana 2002-11-08 476.06
+Bill Baptist Emergency Hospital Maria 2011-03-15 1004.48
+Bill Brigham City Community Hospital Lori 2008-10-10 1275.07
+Provider Memorial Hospital Of Carbondale
+Provider Mercy Medical Center-clinton
+Bill Davis Regional Medical Center Donna 2012-12-24 544.86
+Bill Avery-Bailey Sabrina 2020-06-17 299.99
+Bill Chinle Comprehensive Health Care Facility Robyn 2020-02-08 1198.40
+Bill Carter, Navarro and Barton Medical Group Donna 2020-01-08 585.12
+Bill Jones, Randolph and Wallace Clinic Megan 2016-01-29 1376.36
+Bill Chippewa County War Memorial Hospital Samantha 2010-06-16 1068.58
+Member Ann
+Bill Inova Mount Vernon Hospital Andrea 2010-03-03 488.99
+Bill Roach, Young and Oneal Health Care Rebecca 2020-03-28 265.10
+Bill Robbins Medical Group Ashlee 2011-03-12 632.11
+Provider Maxwell-Cooper Health Care
+Member Samuel
+Bill Avera Heart Hospital Of South Dakota Robyn 2021-10-18 987.97
+Bill Chicot Memorial Medical Center Jake 2001-10-16 138.80
+Bill Northern Nevada Medical Center Miguel 2019-03-19 1138.23
+Bill Sanford Vermillion Hospital Lee 2001-08-26 506.45
+Bill Robbins Medical Group Randy 2008-09-23 1399.92
+Bill Carilion Roanoke Memorial Hospital Tim 2021-06-22 442.88
+Bill Guthrie Towanda Memorial Hospital Denise 2018-09-26 361.01
+Bill Garcia Health Care Spencer 2006-08-21 207.51
+Bill Brigham City Community Hospital Allen 2003-09-25 680.65
+Bill Baldwin, Miller and Mckenzie Ashley 2010-04-08 1305.11
+Bill Oklahoma Heart Hospital South, Llc Donna 2017-07-26 151.39
+Bill Moore-Jones Medical Group Wesley 2005-01-20 614.93
+Member Adam
+Bill Mercy Hospital Logan County, Inc Michele 2004-11-26 248.74
+Bill Shriners Hospitals For Children Eric 2002-01-17 378.42
+Provider Adams-Mejia Clinic
+Bill Santa Clara Valley Medical Center Wesley 2012-11-17 730.82
+Bill Guam Memorial Hospital Authority Alejandro 2006-10-17 268.19
+Provider Nelson-Howard Health System
+Member Elizabeth
+Bill Parkland Health And Hospital System Joseph 2002-12-14 707.11
+Bill Davis Clinic Todd 2001-07-12 562.76
+Bill Roach, Young and Oneal Health Care Cheryl 2009-01-06 1314.20
+Bill Sanchez, Larson and Kent Medical Group Johnny 2006-11-26 940.44
+Bill Fillmore County Hospital Anna 2007-07-12 1011.24
+Bill Davis Clinic Sara 2016-05-08 101.45
+Bill University Colo Health Memorial Hospital Central Blake 2009-04-02 997.52
+Bill Maxwell-Cooper Health Care Julian 2009-07-18 1187.53
+Bill Sanders, Cochran and Smith Health System Beverly 2014-09-02 460.78
+Bill Gonzalez Health System David 2001-05-31 848.53
+Bill Mercy Medical Center-clinton Richard 2003-02-26 719.65
+Bill Rivera, Jordan and Nelson Health Care Julian 2007-12-21 1344.13
+Bill Firsthealth Montgomery Memorial Hosp Diane 2003-10-24 1300.47
+Bill Uchealth Yampa Valley Medical Center Lindsey 2019-02-10 384.65
+Bill Mcdowell-Thompson Health Care Allison 2000-12-29 786.18
+Provider Reynolds, Alvarez and Morrison Health System
+Provider Lallie Kemp Medical Center
+Bill Community Memorial Hospital Medical Center Timothy 2012-07-14 242.95
+Bill The Hospitals Of Providence Transmountain Campus Stacy 2019-12-18 1027.07
+Bill Yuma District Hospital Michael 2001-06-11 174.85
+Provider Davis Health Care
+Bill Knox Thomas 2001-04-23 1241.57
+Bill Adams-Mejia Clinic Johnny 2020-05-23 1099.04
+Bill Mckenzie Health System Sean 2011-12-09 609.84
+Bill Garrison-Phillips Health Care Gloria 2012-12-07 318.35
+Provider Hacienda Children's Hospital, Inc.
+Provider Ibarra Health Care
+Bill Castro, Meyer and Schroeder Health Care Mitchell 2008-12-09 641.96
+Bill Union Medical Center Manuel 2006-06-26 507.77
+Member Ray
+Bill Johnson Memorial Hospital Jack 2009-11-15 541.69
+Member Danny
+Bill Firsthealth Montgomery Memorial Hosp Robyn 2008-04-18 373.56
+Provider Hamilton Hospital
+Provider Phs Indian Hospital At Eagle Butte
+Provider Stewart Clinic
+Bill Hernandez, Mendoza and Carr Health Care Curtis 2005-07-26 1020.86
+Member Margaret
+Member Rhonda
+Member Melissa
+Bill Torres, Gonzalez and Bush Medical Group Mitchell 2017-04-20 248.58
+Bill Laredo Medical Center Ana 2007-12-17 1270.99
+Provider Valley Children's Hospital
+Bill Memorial Hermann Texas Medical Center Erin 2012-09-12 557.66
+Bill Miller Health Care Amber 2013-03-13 997.05
+Bill Pawnee County Memorial Hospital Ray 2014-07-03 132.11
+Bill Mcdowell-Thompson Health Care Brenda 2016-02-05 475.57
+Bill Covenant Hospital Plainview Debbie 2019-08-30 1182.20
+Bill Wright Medical Group Lisa 2006-01-13 1351.24
+Bill Santa Clara Valley Medical Center Krystal 2014-04-06 914.22
+Provider Bridges-Tran
+Bill Faulkner-Munoz Health Care Micheal 2013-11-16 181.93
+Provider Miller, Terry and Brown Clinic
+Bill Parkland Health And Hospital System Tina 2014-07-08 768.79
+Bill Carilion Roanoke Memorial Hospital Randy 2013-04-14 185.14
+Bill Phs Indian Hospital At Eagle Butte Gina 2012-05-10 212.27
+Bill Medstar Southern Maryland Hospital Center Dana 2004-10-30 1340.65
+Bill Brown, Wright and Hurley Clinic Donald 2007-12-21 353.62
+Bill San Gabriel Valley Medical Center Donna 2016-12-10 805.25
+Bill Bowman-Miller Adrienne 2012-10-04 823.42
+Bill Faulkner-Munoz Health Care Anna 2009-12-06 154.00
+Bill Northwestern Memorial Hospital Justin 2005-10-25 880.46
+Provider Estes-Sanchez Clinic
+Member Sarah
+Bill Pushmataha County Town Of Antlers Hospital Erik 2008-02-25 1388.24
+Member Tammy
+Bill Lewis-Castro Health System Lisa 2012-05-04 1225.57
+Bill Lallie Kemp Medical Center Allison 2015-06-10 238.90
+Bill Gonzalez Health System Jennifer 2016-01-01 1206.92
+Bill Eastern New Mexico Medical Center Debbie 2015-04-15 952.65
+Bill Shawnee Mission Medical Center Elizabeth 2014-04-17 657.58
+Bill Roach, Young and Oneal Health Care Jose 2012-05-15 252.37
+Bill Hall-Jones Medical Group Aaron 2013-02-05 1021.31
+Member Lucas
+Bill James, Clark and Flores Health System Julie 2019-03-04 342.75
+Provider Bradley, Ortiz and Perry Clinic
+Member Jessica
+Bill Phs Indian Hospital At Eagle Butte Debra 2004-02-10 1123.72
+Bill Northern Nevada Medical Center Amanda 2012-10-13 274.42
+Provider Seattle Children's Hospital
+Bill Freeman Neosho Hospital Maria 2010-07-29 562.60
+Bill Miller Health Care Kenneth 2003-04-13 595.54
+Provider Bean, Cohen and Owens Health System
+Bill Mayo Clinic Hlth System  Franciscan Med Ctr Ruth 2019-07-21 107.61
+Bill Brown, Wright and Hurley Clinic Antonio 2015-04-09 919.59
+Provider Ball-Alexander Health System
+Bill Bowman-Miller Michele 2008-10-26 1309.79
+Bill Meyer Clinic Chad 2005-11-22 495.79
+Bill Brigham City Community Hospital Nicholas 2010-08-28 506.34
+Bill Rady Children's Hospital - San Diego Kevin 2011-08-03 750.02
+Member Monique
+Member Gregory
+Bill Thompson-Padilla Medical Group Susan 2021-01-05 1187.30
+Member Stephen
+Bill Hill, Mclean and Hodges Debra 2011-06-08 1063.62
+Bill Bean, Cohen and Owens Health System Curtis 2016-11-02 1117.45
+Bill Baldwin, Miller and Mckenzie Kevin 2002-09-16 355.65
+Bill Brigham City Community Hospital Kevin 2006-01-15 700.96
+Bill Ball-Alexander Health System Becky 2008-11-23 516.35
+Bill Carilion Roanoke Memorial Hospital George 2018-09-26 436.05
+Provider Knight-Butler Medical Group
+Bill Bowman-Miller Ann 2010-05-30 613.89
+Bill Patel-Munoz Katrina 2014-08-30 462.78
+Bill Bradley, Ortiz and Perry Clinic Rachel 2010-07-10 525.90
+Bill Stephens Memorial Hospital Brian 2000-11-13 426.73
+Bill Ball-Alexander Health System Gary 2012-09-27 867.70
+Member Ryan
+Bill Keith Clinic Kathryn 2005-05-21 142.16
+Member Jonathan
+Bill Lester, Hebert and Duran Health System Debbie 2013-08-05 108.45
+Bill Sanders, Cochran and Smith Health System Gina 2011-03-09 1188.71
+Bill Cain-Jones Health System Linda 2006-03-17 1302.79
+Member Shannon
+Member Sharon
+Bill Seattle Children's Hospital Julie 2017-11-30 1117.11
+Bill Kaiser Foundation Hospital And Rehab Center Aaron 2000-11-10 1347.07
+Bill Oklahoma Heart Hospital South, Llc Monica 2007-04-16 296.94
+Member Gerald
+Bill Cisneros, Haley and Reid Brandon 2013-10-30 1243.77
+Bill Hamilton Hospital Tara 2021-03-30 537.69
+Member John
+Bill Freeman Neosho Hospital Nicole 2002-02-07 377.49
+Bill Lewis-Castro Health System Samantha 2004-06-30 454.26
+Bill Jensen Mary 2014-01-30 244.24
+Member Brett
+Bill Bean, Cohen and Owens Health System Jeffrey 2014-02-18 887.77
+Bill Castillo, Hayes and Williams Health Care Walter 2020-04-21 1235.39
+Bill Williams, Fischer and Hayes Health System Nichole 2006-10-25 621.84
+Bill Beth Israel Deaconess Hospital-milton Inc Wesley 2004-06-20 390.22
+Bill Carter, Navarro and Barton Medical Group Kimberly 2002-04-15 363.44
+Bill Walters, Miles and Nash Clinic Ruth 2011-01-17 145.13
+Member Lindsay
+Bill Riverside Community Hospital Nicholas 2001-03-05 933.16
+Bill Estes-Sanchez Clinic Danny 2002-06-28 1374.47
+Bill San Gabriel Valley Medical Center Ashlee 2001-07-15 882.69
+Bill University Of Washington Medical Ctr Ashley 2014-04-13 811.79
+Bill Barrett Medical Group Ashlee 2018-02-19 915.74
+Bill Reynolds Medical Group Ana 2015-12-07 1196.42
+Bill James, Clark and Flores Health System Randy 2004-07-14 244.14
+Bill Multicare Valley Hospital Sara 2016-09-07 1290.46
+Bill Covenant Hospital Plainview Kathryn 2017-01-15 1276.16
+Bill Memorial Hermann Texas Medical Center Roy 2011-03-10 191.23
+Bill Northwestern Memorial Hospital Robyn 2006-06-04 544.07
+Bill South Cameron Memorial Hospital Rhonda 2017-07-03 137.43
+Member Jesse
+Bill Milford Regional Medical Center Walter 2017-09-26 118.95
+Bill Garrison-Phillips Health Care David 2006-10-26 904.76
+Bill Regional West Garden County Hospital Derek 2017-07-22 567.17
+Bill Avera Heart Hospital Of South Dakota Donna 2008-04-29 986.21
+Bill Lakeview Memorial Hospital Becky 2009-02-19 901.17
+Bill Wright Jeffrey 2016-09-10 761.86
+Bill Mount Sinai Beth Israel Allison 2010-09-07 1221.87
+Bill Reynolds, Alvarez and Morrison Health System Danny 2003-07-16 739.60
+Bill Davis Health Care Gregory 2009-10-25 1083.79
+Bill Santa Clara Valley Medical Center Allen 2002-04-18 961.27
+Bill Rodriguez-Haas Clinic Sharon 2017-09-22 314.60
+Bill Dixon-Little Olivia 2005-01-21 693.52
+Bill University Of Washington Medical Ctr Gabrielle 2001-11-03 846.10
+Bill Davis-Schneider Health Care Katrina 2014-10-07 795.14
+Bill Estes-Sanchez Clinic Derrick 2014-05-27 670.11
+Bill Cisneros, Haley and Reid Brenda 2008-09-22 1118.88
+Bill Laredo Medical Center Andrea 2018-04-15 407.57
+Provider Novant Health Forsyth Medical Center
+Bill Herrera Medical Group Ethan 2004-08-09 629.27
+Bill Garcia Health Care Kayla 2010-07-31 1193.61
+Bill Eastern New Mexico Medical Center Steven 2019-04-04 258.27
+Bill Castillo, Hayes and Williams Health Care Andrew 2013-11-04 219.52
+Bill Thompson-Padilla Medical Group Jake 2005-03-28 935.67
+Bill Williams, Fischer and Hayes Health System Kelly 2004-12-16 1143.21
+Bill Davis Regional Medical Center Roy 2017-02-14 402.37
+Bill Mckinney, Parker and Bautista Medical Group Richard 2005-11-25 1221.62
+Bill Yuma District Hospital Ryan 2007-07-11 897.35
+Provider Thomas Health System
+Member Leroy
+Bill South Cameron Memorial Hospital Molly 2017-06-26 1277.18
+Bill Seattle Children's Hospital Paula 2016-08-10 544.96
+Bill Northwestern Memorial Hospital Kevin 2002-09-09 738.03
+Bill Shawnee Mission Medical Center Sharon 2020-10-02 1053.22
+Bill Mcdaniel, Taylor and Sosa Health Care Vanessa 2017-03-03 470.02
+Bill Santa Clara Valley Medical Center Ruth 2001-07-08 957.59
+Bill Wright Amy 2017-07-24 494.44
+Bill Santa Clara Valley Medical Center Manuel 2019-03-26 157.38
+Bill Hill, Mclean and Hodges Bobby 2005-03-28 1032.60
+Member Brittany
+Bill Soto-Gonzalez Health System Kimberly 2019-08-17 553.97
+Bill Northern Nevada Medical Center Aaron 2020-01-02 973.09
+Bill Smith County Memorial Hospital Joyce 2006-04-09 1252.54
+Bill Brown Justin 2001-04-12 667.66
+Member Darryl
+Member Janet
+Bill Stephens Memorial Hospital Jake 2013-11-20 568.27
+Provider Martin-Jimenez Clinic
+Bill Torres, Gonzalez and Bush Medical Group Manuel 2017-08-06 482.20
+Bill Stephens Memorial Hospital Amanda 2011-05-13 778.20
+Bill Stewart Clinic Todd 2006-01-21 583.88
+Bill Anderson-Morales Health System Shane 2005-02-02 561.20
+Bill Mcdonald, Dominguez and Brown Clinic Krystal 2006-02-20 220.50
+Bill Lewis-Castro Health System Erik 2003-11-22 484.71
+Bill Memorial Hospital Julie 2004-09-03 409.26
+Bill Hamilton Hospital Samuel 2013-10-17 1341.03
+Bill Northern Nevada Medical Center Manuel 2004-01-30 279.09
+Bill Santa Clara Valley Medical Center Ricky 2014-06-06 866.38
+Bill Pawnee County Memorial Hospital Tammy 2004-09-29 479.52
+Bill Mercy Hospital Logan County, Inc Jose 2005-02-10 1182.17
+Bill Hacienda Children's Hospital, Inc. Tim 2011-01-21 638.77
+Bill Estes-Sanchez Clinic Jake 2009-12-06 1333.26
+Bill Banner Gateway Medical Center Lisa 2006-06-25 192.61
+Bill Ness County Hospital District #2 Robert 2002-01-04 549.86
+Bill Memorial Hospital Danny 2020-04-14 128.01
+Bill Ronald Reagan U C L A Medical Center Grant 2008-10-31 1338.43
+Bill South Texas Surgical Hospital Nicholas 2020-10-18 300.12
+Bill Gay, Mitchell and Le Health System Barry 2009-05-11 1323.08
+Bill Miranda-Cox Medical Group Lindsey 2018-01-14 1306.11
+Bill Stewart Clinic Ray 2007-08-10 360.94
+Bill Reynolds Medical Group Beverly 2016-02-06 457.24
+Bill Davis, Keith and Weaver Gabrielle 2014-01-26 316.86
+Bill Ball-Alexander Health System Joseph 2009-04-09 288.70
+Bill Clements Health System Denise 2017-01-28 1279.21
+Bill Rodriguez-Haas Clinic Jesse 2017-03-06 295.00
+Bill Robbins Medical Group Jill 2004-10-04 1156.28
+Bill Ibarra Health Care Sheryl 2007-09-05 1102.96
+Bill Hill, Mclean and Hodges Lori 2019-06-27 1202.25
+Bill Castillo, Hayes and Williams Health Care Thomas 2014-03-25 386.09
+Member Edward
+Bill Community Memorial Hospital Medical Center Kristin 2012-08-01 304.86
+Bill Stringfellow Memorial Hospital Brittany 2002-09-18 1181.16
+Member Jeremiah
+Bill Jones, Randolph and Wallace Clinic Roy 2021-07-26 1064.85
+Bill Torres, Gonzalez and Bush Medical Group Tiffany 2017-02-22 216.11
+Bill Ness County Hospital District #2 Dana 2014-01-25 807.58
+Member Tamara
+Member Mariah
+Provider North Hawaii Community Hospital
+Bill South Cameron Memorial Hospital Miguel 2000-09-26 285.10
+Bill Oklahoma Heart Hospital South, Llc Alan 2006-08-18 552.26
+Provider Lewis Clinic
+Bill Uchealth Yampa Valley Medical Center Brittany 2014-01-08 259.70
+Bill Union Medical Center Lindsey 2000-12-22 306.07
+Bill Seattle Children's Hospital Jose 2011-10-07 1160.13
+Bill Hampton Regional Medical Center Nicole 2015-09-03 659.61
+Bill Stewart Clinic Elizabeth 2001-01-30 1375.87
+Bill Lewis Clinic Eric 2013-04-29 1254.16
+Bill Adams, Petty and Nelson Sean 2007-04-27 1219.87
+Member William
+Bill Fillmore County Hospital Mitchell 2017-01-29 1106.99
+Bill Jones, Randolph and Wallace Clinic Randy 2013-03-02 227.80
+Bill Keith Clinic Shane 2010-06-18 1396.17
+Bill Chippewa County War Memorial Hospital Bryan 2005-04-08 334.33
+Bill Carilion Roanoke Memorial Hospital Vanessa 2015-11-10 886.10
+Bill Community Memorial Hospital Medical Center Kathryn 2008-01-21 437.27
+Bill St Mary's Hospital At Amsterdam Jeffrey 2016-10-19 190.88
+Bill Community Memorial Hospital Medical Center Jimmy 2001-04-04 1211.84
+Provider Nanticoke Memorial Hospital
+Bill Maxwell-Cooper Health Care Joseph 2011-04-09 440.64
+Bill Avery-Bailey Jake 2012-07-15 308.51
+Bill Robbins Medical Group Joe 2003-06-26 637.85
+Bill Thomas Health System Susan 2015-02-23 404.97
+Bill Estes-Sanchez Clinic Donna 2009-11-11 1257.68
+Bill Freeman Neosho Hospital Jeffrey 2004-01-23 547.57
+Bill Yuma District Hospital Sean 2004-10-25 137.04
+Provider Solis Clinic
+Provider Ballinger Memorial Hospital
+Bill Wright Edward 2012-09-30 376.84
+Bill Stephens Memorial Hospital Ray 2020-03-29 556.06
+Bill Woods-Dixon Health Care Wesley 2002-10-08 899.22
+Provider W W Hastings Indian Hospital
+Bill Baptist Emergency Hospital Joseph 2020-12-19 984.60
+Member April
+Bill James, Clark and Flores Health System Erik 2010-05-07 642.96
+Bill Hillsboro Community Hospital Patricia 2017-08-08 171.36
+Bill Walters, Miles and Nash Clinic Robyn 2016-07-16 1184.58
+Bill Upmc Hamot Roy 2013-08-30 1148.00
+Provider Franklin Health Care
+Bill Covenant Hospital Plainview Michael 2011-12-15 417.77
+Bill Kaiser Foundation Hospital And Rehab Center Brian 2012-11-11 1369.08
+Bill Stewart Clinic Janet 2009-01-31 115.57
+Bill Brown Shari 2008-06-23 116.23
+Bill W W Hastings Indian Hospital Lucas 2019-01-06 350.93
+Bill Carter, Navarro and Barton Medical Group Lindsey 2018-03-02 359.63
+Bill Carson Tahoe Regional Medical Center Ruth 2005-04-15 911.54
+Provider Bullock, Ryan and Estrada Health Care
+Bill Robbins Medical Group Olivia 2008-05-26 618.98
+Bill Bridges-Tran Sharon 2005-09-06 1100.47
+Bill Avera Heart Hospital Of South Dakota Sara 2014-07-18 1148.62
+Bill Sanchez, Larson and Kent Medical Group Wendy 2003-04-03 1001.32
+Bill Hamilton Hospital Becky 2003-08-22 864.50
+Bill Inova Mount Vernon Hospital Tamara 2007-09-21 91.31
+Bill Chippewa County War Memorial Hospital Olivia 2005-12-12 938.97
+Bill Franklin Health Care Sarah 2021-03-03 883.12
+Bill Hillsboro Community Hospital Zachary 2010-03-05 990.42
+Bill Reynolds, Alvarez and Morrison Health System Brian 2003-01-24 105.98
+Bill Rady Children's Hospital - San Diego Kathryn 2009-11-09 975.71
+Bill Novant Health Forsyth Medical Center Ann 2012-06-08 1242.41
+Bill Roach, Young and Oneal Health Care Matthew 2014-05-06 794.07
+Bill Mcdaniel, Taylor and Sosa Health Care Eric 2010-01-14 159.58
+Bill Regional West Garden County Hospital Regina 2008-10-28 1336.31
+Bill Cumberland Medical Center George 2009-03-14 296.52
+Bill Miller, Terry and Brown Clinic Danny 2013-11-01 1371.56
+Bill Baptist Emergency Hospital George 2017-02-05 742.97
+Bill St Mary's Hospital At Amsterdam Barry 2002-12-23 652.26
+Bill Monroe Hospital Sabrina 2007-10-23 847.95
+Bill Wright Nicholas 2002-11-11 617.80
+Bill Davis-Schneider Health Care Alyssa 2010-10-18 249.03
+Bill Johnson Memorial Hospital Antonio 2009-04-06 965.60
+Bill Rady Children's Hospital - San Diego Allen 2005-04-02 697.60
+Bill Davis Health Care Brandon 2016-11-18 693.90
+Bill Edwards-Ramirez Health Care Dana 2005-09-13 546.90
+Bill Roberts, Rodriguez and Randolph Health Care Micheal 2005-08-24 787.92
+Bill Chippewa County War Memorial Hospital Ashley 2013-02-02 415.92
+Bill Kansas Spine & Specialty Hospital, Llc Timothy 2007-08-22 722.40
+Bill James, Clark and Flores Health System Linda 2019-01-28 883.71
+Bill Multicare Valley Hospital Matthew 2005-09-23 134.01
+Bill Medstar Southern Maryland Hospital Center Heather 2014-04-16 1129.81
+Member Virginia
+Bill Parkland Health And Hospital System Katrina 2021-01-29 896.08
+Bill Firsthealth Montgomery Memorial Hosp Cynthia 2015-02-17 1362.89
+Bill Maxwell-Cooper Health Care Beverly 2018-10-09 131.73
+Bill Scottsdale Osborn Medical Center Lee 2012-04-25 235.24
+Provider Bond-Goodman Clinic
+Bill Castillo, Hayes and Williams Health Care Micheal 2017-03-12 526.85
+Bill Cisneros, Haley and Reid Cheryl 2011-02-06 1125.61
+Bill Kahuku Medical Center David 2020-06-01 1279.73
+Bill Sanchez, Larson and Kent Medical Group Crystal 2002-06-13 1352.19
+Bill Davis, Keith and Weaver Aaron 2020-03-31 956.88
+Bill St Mary's Hospital At Amsterdam Timothy 2019-02-03 206.35
+Bill Covenant Hospital Plainview Christopher 2005-10-23 1049.31
+Provider Harper County Community Hospital
+Bill Gonzalez, Hughes and Perkins Health Care Brett 2021-10-07 188.82
+Bill Monroe Hospital Ana 2004-10-28 228.65
+Member Kyle
+Bill Chicot Memorial Medical Center Gerald 2001-10-25 239.48
+Bill Cox, Garner and Patterson Clinic Sheryl 2017-11-13 811.75
+Bill Phs Indian Hospital At Eagle Butte Jake 2013-09-07 347.18
+Bill Bean, Cohen and Owens Health System William 2013-09-04 446.06
+Bill Thomas Health System Johnny 2011-02-16 1167.18
+Bill Covenant Hospital Plainview Tracy 2004-06-11 299.99
+Bill Bean, Cohen and Owens Health System Alison 2013-02-18 1168.13
+Member Karen
+Bill Cumberland Medical Center Crystal 2003-10-13 276.20
+Bill Chippewa County War Memorial Hospital Nichole 2001-01-17 1177.83
+Bill Cartersville Medical Center Kayla 2013-12-17 231.02
+Bill Oconnor Benjamin 2007-08-22 323.45
+Bill Laredo Medical Center Amy 2015-02-06 1123.42
+Bill Serrano, Meyers and Miller Clinic Kevin 2006-06-10 660.80
+Bill Memorial Hermann Texas Medical Center Kristin 2005-08-26 1122.99
+Bill Middle Park Medical Center Brian 2005-12-10 281.33
+Provider Buckley Health System
+Bill Nelson-Howard Health System Katrina 2019-10-07 781.66
+Bill Ballinger Memorial Hospital Barry 2016-08-14 364.72
+Bill Garcia Health Care Johnny 2012-06-08 1182.44
+Bill University Colo Health Memorial Hospital Central Nicholas 2009-06-25 992.57
+Bill Eastern New Mexico Medical Center Jose 2000-11-11 596.62
+Bill Desert View Hospital Debbie 2015-02-17 354.62
+Bill Seattle Children's Hospital Tiffany 2010-11-09 678.11
+Provider Great River Medical Center
+Bill Franklin Health Care April 2004-11-10 617.56
+Bill Gonzalez Health System Eric 2014-04-26 973.18
+Bill Adams-Mejia Clinic Mitchell 2012-08-22 181.15
+Bill Multicare Valley Hospital Erik 2012-01-24 143.42
+Bill Mcdaniel, Taylor and Sosa Health Care Manuel 2018-05-24 96.26
+Provider Martinez-Lynch Health Care
+Bill Chippewa County War Memorial Hospital Amy 2002-07-12 486.69
+Bill Milford Regional Medical Center Rachel 2019-08-26 755.28
+Bill Hillsboro Community Hospital Brandon 2008-07-28 784.34
+Bill Jackson-Benson Health Care Gabrielle 2021-02-11 1264.56
+Bill Cumberland Medical Center Richard 2020-11-08 293.36
+Bill North Hawaii Community Hospital Ana 2017-03-30 1074.40
+Bill Sanders, Cochran and Smith Health System Jonathan 2005-07-07 693.14
+Bill Gay, Mitchell and Le Health System Melissa 2019-07-11 1376.47
+Bill Monroe Hospital Kyle 2017-10-14 962.11
+Bill Adams, Petty and Nelson Kelly 2004-12-05 1276.64
+Bill Edwards-Ramirez Health Care Brian 2012-01-12 1222.65
+Provider Nash, Mason and Diaz Clinic
+Bill Memorial Hospital Of Carbondale Shawn 2012-01-22 780.12
+Bill Knight-Butler Medical Group Blake 2021-09-12 619.18
+Bill Memorial Hospital Lori 2002-03-22 874.14
+Bill Woods-Dixon Health Care Lucas 2005-04-04 1041.26
+Bill Wright Medical Group Stacey 2003-01-19 625.70
+Bill Torres, Gonzalez and Bush Medical Group Robyn 2019-06-01 462.42
+Bill Freeman Neosho Hospital Kyle 2007-11-02 356.83
+Bill Memorial Hospital Of Carbondale Allen 2005-03-16 1120.80
+Provider Hughes, Morris and Johnston Health System
+Bill Thompson-Padilla Medical Group Anna 2017-07-15 472.15
+Bill Sanders, Cochran and Smith Health System Blake 2003-08-06 1311.36
+Bill Anderson-Morales Health System Monica 2008-12-25 869.63
+Bill Brown, Wright and Hurley Clinic Amy 2018-12-20 1117.66
+Bill Reynolds Medical Group Sara 2010-11-21 183.12
+Bill St Mary's Hospital At Amsterdam Janet 2013-02-28 256.48
+Bill Oklahoma Heart Hospital South, Llc Jessica 2019-09-18 515.98
+Bill Mcdaniel, Taylor and Sosa Health Care Christopher 2006-10-15 793.87
+Bill Gonzalez, Hughes and Perkins Health Care Sara 2020-05-10 861.18
+Bill Mary Rutan Hospital Darryl 2014-10-03 719.06
+Bill Regional West Garden County Hospital Ashley 2012-05-08 701.45
+Bill Upmc Hamot Danny 2017-02-23 348.53
+Bill Shawnee Mission Medical Center Monica 2005-09-14 265.63
+Bill Garrison-Phillips Health Care Rhonda 2014-10-18 383.67
+Bill Chippewa County War Memorial Hospital Brian 2005-02-09 507.26
+Bill Davis, Keith and Weaver George 2001-05-26 924.31
+Bill Eastern New Mexico Medical Center Lindsey 2019-11-22 386.47
+Bill Robbins Medical Group Jennifer 2006-06-22 1342.69
+Bill Cumberland Medical Center Laura 2003-07-24 1047.86
+Bill Stewart Clinic Michael 2007-08-26 1027.18
+Bill Rady Children's Hospital - San Diego Julian 2011-12-02 569.54
+Bill Carter, Navarro and Barton Medical Group Elizabeth 2003-09-04 752.68
+Bill Cox, Garner and Patterson Clinic Alison 2020-03-03 1259.43
+Bill James, Clark and Flores Health System Randy 2012-06-04 496.97
+Bill Becker, Patterson and Williams Nichole 2011-03-16 651.47
+Bill Desert View Hospital Laura 2002-10-05 908.41
+Bill Idaho Doctors Hospital Adrienne 2016-07-02 118.42
+Member Stephanie
+Bill Roberts, Rodriguez and Randolph Health Care Lee 2003-12-10 635.88
+Bill Chinle Comprehensive Health Care Facility Michael 2020-10-25 353.79
+Bill St Mary's Hospital At Amsterdam Katrina 2001-11-20 1231.69
+Bill Davis Health Care Chad 2009-03-30 293.61
+Bill Chinle Comprehensive Health Care Facility Margaret 2013-06-19 1360.15
+Bill Freeman Neosho Hospital Anthony 2004-11-27 611.93
+Bill Davis, Keith and Weaver Kristi 2009-10-26 1011.76
+Bill Pawnee County Memorial Hospital Eric 2002-09-11 365.59
+Bill Hospital Metropolitano San German Chris 2007-07-09 1207.43
+Bill Mckenzie Health System Derrick 2014-07-14 1284.22
+Bill Gay, Mitchell and Le Health System Jamie 2007-07-23 1395.41
+Bill Mercy Hospital Logan County, Inc Jake 2019-12-21 454.68
+Bill Hampton Regional Medical Center Katrina 2009-02-09 709.28
+Bill Castillo, Hayes and Williams Health Care Kevin 2012-07-31 594.61
+Bill Freeman Neosho Hospital Derrick 2017-04-10 116.47
+Bill Chavez, Johnson and Bray Health System Cheryl 2021-01-27 1278.54
+Bill Piedmont Newton Hospital Amanda 2014-04-18 346.85
+Member Joann
+Bill Wright Elizabeth 2008-12-07 1194.53
+Member Nathan
+Bill Buckley Health System Johnny 2021-09-21 718.08
+Bill Cain-Jones Health System Chad 2002-08-22 1396.08
+Bill Lallie Kemp Medical Center Kent 2019-10-01 1301.55
+Bill Castillo, Hayes and Williams Health Care Shari 2020-04-18 826.91
+Bill Castillo, Hayes and Williams Health Care Brandon 2021-09-02 996.99
+Bill Medstar Southern Maryland Hospital Center Molly 2014-04-03 588.70
+Bill Cisneros, Haley and Reid Kristi 2015-04-10 269.14
+Member Victoria
+Bill South Texas Surgical Hospital Tyler 2018-04-20 485.06
+Bill Upmc Hamot Robyn 2004-08-27 1111.34
+Bill Lester, Hebert and Duran Health System Miguel 2021-08-13 528.52
+Bill Cumberland Medical Center Spencer 2000-10-29 1072.40
+Bill Beth Israel Deaconess Hospital-milton Inc Jesse 2017-01-06 313.22
+Bill Sanders, Cochran and Smith Health System Rachel 2007-07-13 564.58
+Bill Gay, Mitchell and Le Health System Paula 2014-12-15 1257.86
+Bill Serrano, Meyers and Miller Clinic Roy 2007-10-06 712.75
+Bill Beth Israel Deaconess Hospital-milton Inc Adrienne 2004-07-15 96.91
+Provider Nichols, Hunter and Jones Medical Group
+Bill Sanford Vermillion Hospital Jeremiah 2019-01-12 923.14
+Bill Faulkner-Munoz Health Care Ricky 2006-06-22 1299.78
+Bill Beth Israel Deaconess Hospital-milton Inc Kelly 2012-09-22 469.30
+Bill Garcia Health Care Danny 2015-12-11 387.68
+Bill Bowman-Miller Ashley 2017-04-14 516.83
+Bill Keith Clinic Robyn 2007-04-28 459.63
+Member Mark
+Bill Nelson-Howard Health System Ana 2004-01-08 929.14
+Bill Nelson-Howard Health System Samantha 2011-02-26 1378.72
+Bill Shriners Hospitals For Children Debbie 2006-08-18 1331.13
+Bill Guthrie Towanda Memorial Hospital Patrick 2018-01-12 482.98
+Bill Mercy Medical Center-clinton Nathaniel 2004-08-24 1113.82
+Bill Castro, Meyer and Schroeder Health Care John 2001-09-09 338.89
+Bill Soto-Gonzalez Health System Walter 2009-08-13 426.10
+Bill Covenant Hospital Plainview Amanda 2004-06-21 1201.20
+Bill Bridges-Tran Jamie 2021-03-07 457.01
+Bill Martinez-Lynch Health Care Sara 2002-09-08 1136.38
+Bill Lester, Hebert and Duran Health System Adam 2012-08-16 968.61
+Bill Patel-Munoz Vanessa 2008-08-21 1327.51
+Bill Edwards-Ramirez Health Care Erik 2006-05-25 269.62
+Provider Foundation Surgical Hospital Of San Antonio
+Bill North Hawaii Community Hospital Jennifer 2012-09-30 894.01
+Bill Guthrie Towanda Memorial Hospital Monica 2003-04-28 1062.98
+Bill Knight-Butler Medical Group Rachel 2019-03-24 1079.34
+Provider Lopez-Wolfe Health System
+Bill Saint Joseph Mount Sterling Rachel 2018-04-08 1207.21
+Bill Bullock, Ryan and Estrada Health Care George 2007-07-17 170.41
+Bill Hall-Jones Medical Group Matthew 2009-04-06 745.49
+Bill Johnson Memorial Hospital Tracy 2012-05-14 598.87
+Bill Mckenzie Health System Heather 2005-10-16 1095.03
+Bill Bean, Cohen and Owens Health System Sheryl 2016-11-03 642.15
+Bill Castro, Meyer and Schroeder Health Care Micheal 2011-03-05 387.48
+Bill Avera Heart Hospital Of South Dakota Lindsey 2009-02-04 1037.52
+Bill Miller Health Care Donald 2011-02-18 215.80
+Bill Nash, Mason and Diaz Clinic Dana 2001-06-13 233.21
+Bill Avery-Bailey Ashlee 2019-06-20 664.47
+Bill Scottsdale Osborn Medical Center Kelly 2015-04-26 990.97
+Bill Hughes, Morris and Johnston Health System Ashlee 2015-03-20 1091.77
+Bill Memorial Hospital Matthew 2008-04-23 150.01
+Bill Serrano, Meyers and Miller Clinic Olivia 2005-11-15 339.44
+Bill Banner Gateway Medical Center Pamela 2010-03-23 403.30
+Bill Adams-Ford Health System Eric 2017-02-07 1272.74
+Bill Buckley Health System Erin 2002-09-23 687.17
+Bill Mcdonald, Dominguez and Brown Clinic Jennifer 2001-03-21 1058.13
+Bill Hill, Mclean and Hodges Ricky 2019-01-31 758.29
+Bill Memorial Hospital Gloria 2007-08-10 167.30
+Provider Harris Health System
+Bill Hughes, Morris and Johnston Health System Shane 2012-02-15 222.02
+Bill University Of Washington Medical Ctr Allen 2008-07-05 605.60
+Bill Bowman-Miller Robert 2017-05-09 1201.00
+Bill Bullock, Ryan and Estrada Health Care Eric 2002-02-25 651.45
+Bill Mayo Clinic Hlth System  Franciscan Med Ctr Kevin 2015-12-07 1092.83
+Bill Serrano, Meyers and Miller Clinic Edward 2004-08-26 95.10
+Bill Foundation Surgical Hospital Of San Antonio Patricia 2005-12-16 940.92
+Bill Miller, Terry and Brown Clinic Curtis 2009-07-27 707.01
+Bill Adams-Ford Health System Allen 2000-09-28 1159.17
+Bill Anderson-Morales Health System Cheryl 2007-12-30 314.03
+Bill Roach, Young and Oneal Health Care Christopher 2016-11-24 935.25
+Bill Rivera, Jordan and Nelson Health Care Heather 2010-03-06 535.59
+Bill Valley Children's Hospital Krystal 2017-07-06 314.31
+Bill Mckenzie Health System Ashley 2021-01-03 1182.21
+Bill Pushmataha County Town Of Antlers Hospital Curtis 2002-12-18 411.82
+Bill Castro, Meyer and Schroeder Health Care Timothy 2013-07-03 208.66
+Bill Lewis-Castro Health System Chad 2010-08-15 515.34
+Member Sherry
+Bill Hill, Mclean and Hodges Lindsey 2018-11-30 226.81
+Bill Seattle Children's Hospital Spencer 2010-03-09 221.30
+Bill North Hawaii Community Hospital Kent 2005-08-13 104.46
+Bill Lewis-Castro Health System Mark 2002-11-12 724.88
+Bill Harris Health System Shannon 2003-01-21 543.08
+Bill Mary Rutan Hospital Tara 2009-08-21 269.23
+Bill Nelson-Howard Health System Regina 2008-09-26 1298.68
+Bill Ballinger Memorial Hospital Alyssa 2002-05-07 1037.15
+Bill Hill, Mclean and Hodges Nicholas 2020-11-25 1182.00
+Bill Williams, Fischer and Hayes Health System Mariah 2003-08-28 417.39
+Bill Mercy Hospital Logan County, Inc Joe 2009-09-24 853.35
+Bill Davis Clinic Heather 2001-07-13 1311.37
+Bill Stringfellow Memorial Hospital Tracy 2018-07-03 999.04
+Bill Gay, Mitchell and Le Health System Jonathan 2014-12-17 889.31
+Bill Hill, Mclean and Hodges Alison 2000-11-04 803.93
+Bill Riverside Community Hospital Matthew 2009-03-15 824.45
+Bill Kaiser Foundation Hospital And Rehab Center Laura 2005-03-06 116.90
+Bill Davis, Keith and Weaver Stephanie 2012-11-14 710.82
+Bill Castro, Meyer and Schroeder Health Care Curtis 2003-03-11 1249.19
+Bill Memorial Hospital Tamara 2006-02-20 619.25
+Bill Oklahoma Heart Hospital South, Llc Stephanie 2017-06-27 1389.75
+Bill Thomas Health System Brandon 2015-01-01 1285.61
+Bill Thompson-Padilla Medical Group Pamela 2008-08-08 161.66
+Bill Mercy Hospital Logan County, Inc Eric 2004-12-15 1337.26
+Bill Medstar Southern Maryland Hospital Center Ruth 2009-08-28 347.33
+Bill South Texas Surgical Hospital Susan 2010-12-27 1025.75
+Bill Chippewa County War Memorial Hospital Joyce 2000-09-27 798.62
+Bill Jefferson Hospital Vanessa 2020-10-11 1092.24
+Bill Ronald Reagan U C L A Medical Center Shannon 2021-04-09 488.29
+Bill Inova Mount Vernon Hospital Jack 2016-10-09 774.05
+Bill Lester, Hebert and Duran Health System Jimmy 2010-12-19 267.19
+Bill Lakeview Memorial Hospital Robyn 2018-12-03 92.48
+Bill Scottsdale Osborn Medical Center Shane 2004-01-25 1209.17
+Bill Lewis-Castro Health System Antonio 2011-09-14 180.01
+Bill Milford Regional Medical Center Janet 2009-12-16 440.87
+Bill Adams-Ford Health System Miranda 2017-07-28 260.56
+Bill Roach, Young and Oneal Health Care Heather 2017-04-11 987.13
+Bill Lester, Hebert and Duran Health System Crystal 2013-07-18 999.60
+Bill Jones, Randolph and Wallace Clinic Kent 2001-07-30 888.62
+Bill Dixon-Little Brian 2001-02-22 984.52
+Bill Reynolds, Alvarez and Morrison Health System Aaron 2003-11-23 341.33
+Bill South Cameron Memorial Hospital Mark 2019-03-19 387.76
+Bill W W Hastings Indian Hospital Blake 2010-05-05 1273.63
+Bill Nelson-Howard Health System Lucas 2010-08-30 749.65
+Bill Hall-Jones Medical Group Gabrielle 2012-05-08 522.25
+Bill Thomas Health System Joann 2003-01-09 724.19
+Member Jaclyn
+Bill Bean, Cohen and Owens Health System Danny 2021-07-10 228.15
+Bill Franklin Health Care Thomas 2001-01-16 358.81
+Bill Bradley, Ortiz and Perry Clinic Matthew 2005-07-27 1004.17
+Bill Cox, Garner and Patterson Clinic Kevin 2011-11-26 919.83
+Bill Mckinney, Parker and Bautista Medical Group Samantha 2016-10-17 258.53
+Bill Kahuku Medical Center Wendy 2012-03-13 570.52
+Bill Harper County Community Hospital Randy 2003-04-10 1379.94
+Bill Davis, Keith and Weaver Diane 2014-03-24 1281.25
+Bill Martinez-Lynch Health Care Jennifer 2009-04-04 1189.35
+Bill Cumberland Medical Center Becky 2018-11-13 777.75
+Bill James, Clark and Flores Health System Kent 2019-08-03 1137.59
+Bill Cumberland Medical Center Nathaniel 2011-11-03 451.12
+Bill St Mary's Hospital At Amsterdam Chad 2015-04-30 218.79
+Bill Regional West Garden County Hospital Andrea 2010-12-05 995.76
+Bill Rady Children's Hospital - San Diego Jamie 2004-01-03 1039.66
+Bill Harris Health System Jamie 2017-06-12 139.48
+Bill Harper County Community Hospital Ruth 2000-12-28 1308.87
+Bill Smith County Memorial Hospital Steven 2014-09-23 432.46
+Bill Chavez, Johnson and Bray Health System James 2016-08-31 1096.65
+Bill Wright Medical Group Patricia 2009-05-24 1197.02
+Bill Beth Israel Deaconess Hospital-milton Inc Ana 2014-09-27 145.70
+Bill Brown Alejandro 2018-06-20 1375.24
+Bill James, Clark and Flores Health System Bryan 2007-04-08 751.09
+Bill Medstar Southern Maryland Hospital Center Olivia 2016-12-28 544.94
+Bill Oklahoma Heart Hospital South, Llc Nicole 2014-03-09 1228.54
+Bill James, Clark and Flores Health System Jeremiah 2017-01-03 964.61
+Bill Mcdowell-Thompson Health Care Nathan 2008-05-07 558.20
+Bill Serrano, Meyers and Miller Clinic Lindsey 2005-02-03 439.40
+Bill Piedmont Newton Hospital Erik 2019-11-14 461.69
+Bill Solis Clinic Joseph 2021-06-07 666.46
+Bill Middle Park Medical Center Jamie 2021-06-06 1354.55
+Bill Hospital Metropolitano San German Alejandro 2006-10-20 740.04
+Bill Castro, Meyer and Schroeder Health Care Steven 2014-04-13 1044.85
+Bill Shriners Hospitals For Children Micheal 2017-10-13 1031.23
+Bill Davis-Schneider Health Care Derek 2006-07-01 606.11
+Bill Wright Medical Group Barry 2000-09-14 1331.55
+Bill Roach, Young and Oneal Health Care Kayla 2001-09-06 926.01
+Bill Mercy Hospital Logan County, Inc Alyssa 2007-01-19 203.01
+Bill Eastern New Mexico Medical Center David 2021-05-17 834.75
+Bill Kahuku Medical Center Sharon 2013-06-10 1010.77
+Bill Miranda-Cox Medical Group Melissa 2019-07-24 689.13
+Bill Pushmataha County Town Of Antlers Hospital Heather 2005-03-09 546.60
+Bill Carson Tahoe Regional Medical Center Brian 2005-11-07 554.48
+Member Lauren
+Bill Anderson-Morales Health System Randy 2019-04-25 681.43
+Bill Woods-Dixon Health Care George 2011-10-08 107.71
+Bill Torres, Gonzalez and Bush Medical Group Kayla 2004-05-22 160.83
+Bill W W Hastings Indian Hospital Donna 2017-12-10 1252.90
+Bill Foundation Surgical Hospital Of San Antonio George 2018-06-09 448.44
+Bill Great River Medical Center Amber 2014-07-06 180.48
+Bill Cox, Garner and Patterson Clinic Emma 2009-10-31 786.06
+Bill Baptist Emergency Hospital Allen 2005-08-25 491.90
+Bill Nanticoke Memorial Hospital Pamela 2012-12-24 514.96
+Bill Mary Rutan Hospital Melissa 2002-02-06 1044.62
+Bill Maxwell-Cooper Health Care Amanda 2009-10-20 819.80
+Bill Memorial Hospital Of Carbondale Ana 2009-02-16 192.66
+Bill Upmc Hamot Brittany 2002-08-24 1354.88
+Bill Uchealth Yampa Valley Medical Center Diane 2000-10-27 897.93
+Bill Ronald Reagan U C L A Medical Center Olivia 2016-02-24 669.84
+Bill Bond-Goodman Clinic Laura 2004-01-21 773.59
+Bill Idaho Doctors Hospital Crystal 2002-06-08 349.88
+Bill Martinez-Lynch Health Care Daniel 2002-03-19 418.94
+Bill Knight-Butler Medical Group Donna 2002-05-21 1309.89
+Bill Memorial Hospital Roy 2009-03-27 279.85
+Bill Reynolds Medical Group Wesley 2009-02-12 1177.77
+Bill Thompson-Padilla Medical Group Miguel 2021-02-26 876.96
+Bill Hill, Mclean and Hodges Crystal 2016-10-07 1168.86
+Bill Mary Rutan Hospital Lauren 2012-10-25 1293.77
+Bill Estes-Sanchez Clinic Shari 2005-12-05 1314.46
+Bill Davis Regional Medical Center Kyle 2019-08-14 332.05
+Bill St John Owasso Ana 2017-09-06 1210.45
+Bill Barrett Medical Group Aaron 2011-09-03 536.66
+Bill Patel-Munoz Ashley 2010-07-29 1368.35
+Bill Nocona General Hospital Lisa 2010-10-28 336.87
+Bill Nichols-Hill Health Care Paula 2016-02-26 792.73
+Bill Bridges-Tran Donald 2018-09-20 699.37
+Bill Shawnee Mission Medical Center Andrew 2004-08-27 627.98
+Bill Nocona General Hospital Jill 2004-09-21 550.92
+Bill Nichols-Hill Health Care Brian 2004-10-14 1125.49
+Bill Kaiser Foundation Hospital And Rehab Center Amy 2014-01-22 1066.26
+Bill Miller, Vasquez and Hebert Medical Group Susan 2019-05-18 199.89
+Bill Medstar Southern Maryland Hospital Center Susan 2003-06-16 1221.58
+Bill Chinle Comprehensive Health Care Facility Chad 2019-05-18 1170.39
+Bill Stephens Memorial Hospital Megan 2000-12-01 639.90
+Bill Northwestern Memorial Hospital Diane 2011-05-05 523.45
+Bill Rivera, Jordan and Nelson Health Care Johnny 2006-09-16 1390.07
+Bill Reynolds Medical Group Jose 2015-08-25 161.06
+Bill Shawnee Mission Medical Center Randy 2015-09-16 700.67
+Bill Beth Israel Deaconess Hospital-milton Inc Ashley 2017-09-12 527.81
+Bill Patel-Munoz Chad 2007-10-05 1066.17
+Bill Davis Health Care Stephen 2006-02-14 1050.46
+Bill Union Medical Center Megan 2006-08-02 607.44
+Bill Franklin Health Care Micheal 2019-04-15 1378.99
+Bill Memorial Hospital Of Carbondale Kimberly 2020-02-27 740.46
+Bill Mercy Hospital Logan County, Inc Eric 2017-05-10 446.89
+Bill Knight-Butler Medical Group Barry 2013-10-01 1390.28
+Bill Monroe Hospital Erik 2004-02-10 455.40
+Bill St Mary's Hospital At Amsterdam Jeffrey 2014-10-01 1331.51
+Bill Brigham City Community Hospital Jessica 2007-04-14 1015.80
+Bill Mercy Hospital Logan County, Inc Amanda 2012-01-23 127.63
+Bill Seattle Children's Hospital Brandon 2019-06-05 1382.73
+Bill Solis Clinic Tammy 2012-02-28 165.53
+Bill Memorial Hospital Of Carbondale Aaron 2017-11-21 295.01
+Bill Knight-Butler Medical Group Donald 2015-02-25 456.17
+Bill Avera Heart Hospital Of South Dakota Margaret 2005-02-22 783.57
+Bill Thompson-Padilla Medical Group Diane 2010-12-20 1010.08
+Bill Jefferson Hospital Anthony 2010-07-29 1388.78
+Bill St Mary's Hospital At Amsterdam Spencer 2009-09-13 521.44
+Bill Moore-Jones Medical Group Michael 2003-12-28 990.38
+Bill Harper County Community Hospital Erin 2015-02-03 101.26
+Bill Multicare Valley Hospital Crystal 2015-07-25 1223.62
+Bill Clements Health System Julie 2018-05-10 846.70
+Bill Hughes, Morris and Johnston Health System Sean 2018-04-10 209.04
+Bill Guthrie Towanda Memorial Hospital Samantha 2009-10-25 406.93
+Bill Harper County Community Hospital Lori 2019-02-11 603.51
+Bill Maxwell-Cooper Health Care Roy 2010-11-20 989.55
+Bill Memorial Hospital Of Carbondale Pamela 2016-08-07 1338.92
+Bill Fillmore County Hospital Alejandro 2003-11-12 140.38
+Bill Fillmore County Hospital Blake 2003-06-30 1026.95
+Bill Harris Health System Stephanie 2004-01-06 1185.15
+Bill Dupont Hospital Llc Matthew 2016-12-25 1094.42
+Bill Jones, Randolph and Wallace Clinic Mark 2009-05-03 1264.47
+Bill Harper County Community Hospital Grant 2011-03-05 177.43
+Bill Cisneros, Haley and Reid Joyce 2012-10-03 874.88
+Bill Moore-Jones Medical Group Joyce 2007-03-25 984.93
+Bill Phs Indian Hospital At Eagle Butte Megan 2017-05-23 1108.26
+Bill Nelson-Howard Health System Debra 2020-08-03 1204.17
+Bill Oconnor Kristie 2017-11-10 477.79
+Bill Mary Immaculate Hospital Ethan 2008-09-02 1155.58
+Bill Adams, Petty and Nelson Diane 2001-11-09 526.97
+Provider Saint Alphonsus Regional Medical Center
+Bill Garcia Health Care Vanessa 2016-05-01 880.47
+Bill Pawnee County Memorial Hospital Michael 2017-03-21 357.69
+Bill Scottsdale Osborn Medical Center Grant 2008-04-13 707.38
+Bill Davis, Keith and Weaver Debra 2020-09-05 591.78
+Bill Maxwell-Cooper Health Care Erik 2003-10-11 488.40
+Bill Clements Health System Bobby 2004-06-29 995.96
+Bill Wright Medical Group Beverly 2003-06-30 662.16
+Bill Maxwell-Cooper Health Care Anna 2003-04-10 983.58
+Bill Kahuku Medical Center Tiffany 2012-12-01 796.81
+Bill Dixon-Little Christina 2003-03-03 264.67
+Bill Chinle Comprehensive Health Care Facility Steven 2001-11-11 792.81
+Bill Adams-Mejia Clinic Adrienne 2001-09-01 1142.10
+Bill Stringfellow Memorial Hospital Tamara 2019-04-03 1127.68
+Bill Nash, Mason and Diaz Clinic Alison 2013-04-05 487.15
+Bill Reynolds Medical Group Tara 2009-01-03 454.49
+Bill Roberts, Rodriguez and Randolph Health Care Miguel 2014-12-22 1166.47
+Bill Community Memorial Hospital Medical Center Lee 2012-03-16 680.19
+Bill South Texas Surgical Hospital Molly 2003-09-28 779.91
+Bill Memorial Hospital Ashley 2018-08-13 1065.77
+Bill Fillmore County Hospital Debbie 2017-12-23 1335.30
+Bill Oklahoma Heart Hospital South, Llc Crystal 2011-07-01 513.54
+Bill Sanders, Cochran and Smith Health System Kent 2010-02-21 481.46
+Bill Avera Heart Hospital Of South Dakota Amber 2005-04-17 869.19
+Bill Upmc Hamot Jamie 2007-05-10 860.17
+Bill Piedmont Newton Hospital Kent 2014-02-10 138.26
+Bill Ronald Reagan U C L A Medical Center Shawn 2009-03-31 501.88
+Bill Ibarra Health Care Nathan 2008-04-11 522.26
+Bill Lallie Kemp Medical Center Benjamin 2013-02-12 979.97
+Bill Lallie Kemp Medical Center Gabrielle 2008-08-06 1204.58
+Bill Carilion Roanoke Memorial Hospital Patrick 2018-05-20 159.60
+Bill Adams-Ford Health System Tyler 2018-12-31 904.13
+Bill Lewis-Castro Health System Bryan 2011-05-10 1196.41
+Bill Cain-Jones Health System Michelle 2015-11-29 1068.49
+Bill Jackson-Benson Health Care Lindsey 2007-06-05 912.98
+Bill Lester, Hebert and Duran Health System Alan 2003-02-12 1054.53
+Bill Piedmont Newton Hospital Steven 2013-12-28 1327.44
+Bill Memorial Hermann Texas Medical Center Linda 2004-03-18 618.16
+Bill Patel-Munoz Amber 2001-02-03 157.79
+Bill Riverside Community Hospital Ruth 2009-09-25 559.61
+Bill Eastern New Mexico Medical Center Spencer 2007-11-08 970.22
+Bill Jones, Randolph and Wallace Clinic Robyn 2017-10-30 666.59
+Bill Nanticoke Memorial Hospital Rhonda 2017-03-06 1180.68
+Bill Seattle Children's Hospital Patrick 2018-07-09 1308.82
+Bill Harris Health System Megan 2017-01-12 370.84
+Bill Wright Medical Group Shane 2014-07-24 456.53
+Bill Roach, Young and Oneal Health Care Debbie 2013-05-22 1159.74
+Bill Gay, Mitchell and Le Health System Shannon 2006-09-13 968.94
+Bill Brigham City Community Hospital Cheryl 2012-08-21 461.89
+Bill Davis Clinic Nicholas 2004-11-28 509.28
+Bill Upmc Hamot Julian 2016-09-24 1027.25
+Bill Chavez, Johnson and Bray Health System Gregory 2015-11-03 1346.17
+Member Warren
+Bill Martin-Jimenez Clinic Kristie 2003-10-24 610.03
+Bill Middle Park Medical Center Brian 2020-08-30 996.81
+Bill Union Medical Center Dana 2018-05-17 1358.76
+Bill Jefferson Hospital Sean 2019-05-25 459.15
+Bill Middle Park Medical Center Megan 2013-09-16 124.88
+Bill Avery-Bailey David 2012-09-30 981.46
+Bill Lallie Kemp Medical Center Karen 2003-01-28 205.62
+Bill Harper County Community Hospital Monique 2005-09-03 875.85
+Bill Community Memorial Hospital Medical Center Heather 2012-07-04 122.38
+Bill Adams-Mejia Clinic Danielle 2002-11-06 1307.13
+Bill St John Owasso Leroy 2018-02-28 292.34
+Bill Becker, Patterson and Williams Grant 2001-03-03 182.51
+Bill Williams, Fischer and Hayes Health System Wesley 2014-06-01 1233.11
+Bill Sanders, Cochran and Smith Health System Danny 2001-08-14 616.84
+Bill Baptist Emergency Hospital Anthony 2015-11-04 1240.25
+Bill Gay, Mitchell and Le Health System Amy 2020-07-14 971.38
+Bill Bean, Cohen and Owens Health System Lauren 2003-03-19 801.47
+Bill Pawnee County Memorial Hospital Jeffrey 2018-04-29 270.04
+Bill Reynolds Medical Group Allen 2017-02-03 306.23
+Bill Ball-Alexander Health System Matthew 2011-11-11 1383.55
+Bill Adams-Mejia Clinic David 2005-08-07 951.88
+Bill Lewis-Castro Health System Donna 2018-10-26 242.74
+Bill South Texas Surgical Hospital Sharon 2004-05-10 1127.27
+Bill North Hawaii Community Hospital Debra 2006-04-10 482.23
+Bill Memorial Hospital Teresa 2001-07-30 391.12
+Bill Wright Medical Group Jack 2005-08-29 1213.11
+Bill Inova Mount Vernon Hospital Steven 2021-09-18 198.38
+Bill Jensen Benjamin 2021-09-17 1034.83
+Bill Estes-Sanchez Clinic Edward 2006-06-21 1267.87
+Bill Nanticoke Memorial Hospital Sean 2007-11-15 271.15
+Bill Riverside Community Hospital Curtis 2014-07-05 1251.38
+Bill Robbins Medical Group Sara 2014-04-26 634.03
+Bill Wright Teresa 2015-11-12 947.14
+Bill Miller, Vasquez and Hebert Medical Group Christopher 2013-09-17 472.10
+Bill Bullock, Ryan and Estrada Health Care Benjamin 2005-07-18 100.90
+Bill Hillsboro Community Hospital Jennifer 2016-09-10 129.05
+Member Dennis
+Bill St Mary's Hospital At Amsterdam Sean 2010-05-07 800.53
+Bill Idaho Doctors Hospital Beverly 2006-10-10 116.14
+Bill Guam Memorial Hospital Authority Andrea 2010-12-31 725.82
+Bill Northwestern Memorial Hospital Manuel 2002-12-03 239.96
+Bill Walters, Miles and Nash Clinic Jake 2016-07-18 540.79
+Bill Guam Memorial Hospital Authority Amanda 2002-09-04 999.62
+Bill Memorial Hermann Texas Medical Center Ashlee 2004-03-04 784.70
+Bill Castillo, Hayes and Williams Health Care Lauren 2005-04-19 411.32
+Bill Ronald Reagan U C L A Medical Center Wendy 2001-09-17 426.21
+Bill Carter, Navarro and Barton Medical Group Robert 2017-10-16 879.81
+Bill Harper County Community Hospital Bobby 2009-08-29 921.44
+Bill Smith County Memorial Hospital Tyler 2018-02-22 377.12
+Bill Mcdaniel, Taylor and Sosa Health Care Laura 2010-08-06 224.90
+Bill Monroe Hospital Nicholas 2011-11-20 319.27
+Bill Northwestern Memorial Hospital Chris 2009-03-25 1177.95
+Bill Chavez, Johnson and Bray Health System Sean 2008-08-01 655.85
+Bill Regional West Garden County Hospital Monique 2018-10-13 535.37
+Bill Smith County Memorial Hospital Nathan 2018-07-11 1068.91
+Bill Patel-Munoz Tim 2014-09-16 744.26
+Bill Hospital Metropolitano San German Joe 2012-01-09 498.28
+Bill Wright Medical Group Wendy 2011-07-29 720.84
+Bill Laredo Medical Center Krystal 2014-02-04 756.16
+Bill Martin-Jimenez Clinic Cheryl 2012-08-06 430.44
+Bill Hall-Jones Medical Group Alejandro 2003-01-08 182.67
+Bill University Colo Health Memorial Hospital Central Samuel 2007-09-08 398.71
+Bill Davis Regional Medical Center Shari 2019-01-05 857.27
+Bill Reynolds Medical Group Jeffrey 2017-01-29 430.36
+Bill Miranda-Cox Medical Group Diane 2009-10-21 1379.34
+Bill Memorial Hospital Of Carbondale Antonio 2009-07-15 428.40
+Bill Davis Regional Medical Center Tara 2003-05-24 610.55
+Bill Freeman Neosho Hospital Sabrina 2004-02-03 808.94
+Bill Ronald Reagan U C L A Medical Center Beverly 2004-12-26 208.25
+Bill Torres, Gonzalez and Bush Medical Group Christopher 2019-10-11 854.97
+Bill Martin-Jimenez Clinic Sara 2008-07-30 424.06
+Bill Woods-Dixon Health Care Ashley 2006-05-26 153.50
+Bill Fairbanks Memorial Hospital Laura 2006-04-18 1150.30
+Bill Nanticoke Memorial Hospital Stephanie 2014-06-03 576.14
+Bill Memorial Hospital Barry 2016-01-18 850.56
+Bill Rivera, Jordan and Nelson Health Care Samantha 2004-07-16 1312.02
+Bill Hernandez, Mendoza and Carr Health Care Kristie 2020-08-22 1040.47
+Bill Saint Alphonsus Regional Medical Center Diane 2019-01-23 1392.19
+Bill Thompson-Padilla Medical Group Edward 2000-12-14 358.41
+Bill Roach, Young and Oneal Health Care Randy 2006-04-14 1235.29
+Bill Lewis Clinic Lauren 2002-07-23 134.42
+Bill Moore-Jones Medical Group Derek 2009-07-11 679.71
+Member Anne
+Bill Northwestern Memorial Hospital Lindsay 2011-11-25 506.25
+Bill Wright Medical Group Anthony 2017-08-05 190.54
+Bill Northwestern Memorial Hospital Jeremiah 2004-08-05 537.16
+Bill The Hospitals Of Providence Transmountain Campus Mark 2019-06-24 1070.58
+Bill Gay, Mitchell and Le Health System Stacy 2010-07-09 1089.63
+Bill Northern Nevada Medical Center Gary 2019-10-07 963.83
+Bill Mckinney, Parker and Bautista Medical Group Denise 2005-10-14 697.49
+Bill Mckenzie Health System Olivia 2003-01-31 800.07
+Bill Riverside Community Hospital Chad 2013-12-20 1054.36
+Bill Hughes, Morris and Johnston Health System Timothy 2019-09-05 594.53
+Bill Adams-Mejia Clinic Bryan 2013-04-21 1037.05
+Bill Serrano, Meyers and Miller Clinic Andrea 2001-06-11 1224.10
+Bill Nanticoke Memorial Hospital Ana 2008-03-01 387.89
+Bill Riverside Community Hospital Beverly 2001-02-18 825.32
+Bill Mcdonald, Dominguez and Brown Clinic Joyce 2008-11-05 1093.17
+Bill Mount Sinai Beth Israel Julie 2007-08-30 437.86
+Bill Bond-Goodman Clinic Rachel 2012-04-06 559.78
+Bill Phs Indian Hospital At Eagle Butte Heather 2009-01-24 1305.80
+Bill Solis Clinic Robert 2002-08-05 728.99
+Bill Garcia Health Care Jeremiah 2007-03-07 358.51
+Bill Herrera Medical Group Tina 2018-03-05 848.04
+Bill Cumberland Medical Center Monique 2019-03-26 856.83
+Bill Northern Nevada Medical Center Patrick 2019-05-03 368.91
+Member Kerri
+Bill Moore-Jones Medical Group Joyce 2008-01-07 449.72
+Bill Stewart Clinic Jeffrey 2018-11-19 216.68
+Bill Wright Donald 2014-07-09 848.67
+Bill Lakeview Memorial Hospital Wesley 2013-09-16 1101.34
+Bill Nelson-Howard Health System Ana 2000-12-05 506.23
+Bill Mercy Medical Center-clinton Stacy 2020-06-21 387.20
+Bill Mayo Clinic Hlth System  Franciscan Med Ctr Ashley 2017-02-15 583.54
+Bill Mcdonald, Dominguez and Brown Clinic Brittany 2016-11-09 95.46
+Bill Cumberland Medical Center Lee 2021-05-12 603.35
+Bill Martin-Jimenez Clinic Thomas 2015-09-11 397.56
+Bill Mcdonald, Dominguez and Brown Clinic Katrina 2018-10-07 922.81
+Bill Milford Regional Medical Center Alejandro 2009-02-08 794.06
+Bill Novant Health Forsyth Medical Center Katrina 2007-03-05 556.51
+Bill Mount Sinai Beth Israel Julie 2015-11-19 1169.14
+Bill Eastern New Mexico Medical Center Aaron 2004-02-17 827.27
+Bill Phs Indian Hospital At Eagle Butte Randy 2018-01-19 851.48
+Bill Mcdaniel, Taylor and Sosa Health Care Victoria 2012-02-06 406.65
+Bill Stephens Memorial Hospital Sara 2006-10-08 1231.19
+Bill Robbins Medical Group Pamela 2012-02-10 436.49
+Bill Sanchez, Larson and Kent Medical Group Susan 2001-02-11 772.59
+Bill Adams-Mejia Clinic Brett 2015-08-26 584.49
+Bill Chippewa County War Memorial Hospital Sheryl 2019-04-17 672.38
+Bill James, Clark and Flores Health System Grant 2012-05-17 962.98
+Bill Pawnee County Memorial Hospital Anne 2010-12-28 687.35
+Bill Stringfellow Memorial Hospital Teresa 2014-09-17 154.99
+Bill Mercy Hospital Logan County, Inc Ruth 2007-08-22 1159.27
+Bill Reynolds, Alvarez and Morrison Health System Chad 2016-07-31 729.23
+Bill Stephens Memorial Hospital Jill 2018-01-20 417.02
+Bill Nelson-Howard Health System Wendy 2003-08-17 1200.34
+Bill Saint Alphonsus Regional Medical Center Brittany 2018-02-14 1325.04
+Bill Harris Health System Regina 2013-05-12 1136.81
+Bill Northwestern Memorial Hospital Julian 2009-07-05 486.72
+Bill Becker, Patterson and Williams Manuel 2013-11-17 270.23
+Bill Davis Health Care Joe 2005-03-02 647.61
+Bill Monroe Hospital Ashlee 2008-12-01 1391.55
+Bill Multicare Valley Hospital Michelle 2008-10-11 796.46
+Bill Desert View Hospital Bobby 2006-09-13 677.98
+Bill Cox, Garner and Patterson Clinic Allison 2002-10-11 320.29
+Bill Inova Mount Vernon Hospital Mark 2002-09-14 1375.61
+Bill Bridges-Tran Shari 2009-03-17 252.51
+Bill Ball-Alexander Health System Shari 2006-02-19 165.62
+Bill Nocona General Hospital Derrick 2013-07-23 246.25
+Bill Multicare Valley Hospital Jeffrey 2016-07-02 750.38
+Bill Desert View Hospital Kathryn 2020-01-30 1157.46
+Bill Cumberland Medical Center Samuel 2001-03-14 1133.27
+Bill Idaho Doctors Hospital Brett 2009-12-28 1211.40
+Bill Hillsboro Community Hospital Laura 2021-05-04 1386.18
+Bill Banner Gateway Medical Center Derek 2020-07-05 429.45
+Bill Phs Indian Hospital At Eagle Butte Julie 2001-05-14 1020.86
+Member Emily
+Bill Kahuku Medical Center Virginia 2001-12-10 626.16
+Bill Roberts, Rodriguez and Randolph Health Care Matthew 2003-05-03 1334.59
+Bill Walters, Miles and Nash Clinic Joe 2006-08-02 678.09
+Bill Thompson-Padilla Medical Group Shannon 2004-11-20 732.74
+Bill Miranda-Cox Medical Group Manuel 2000-10-16 111.65
+Bill Davis, Keith and Weaver Susan 2014-05-27 1259.70
+Bill Guam Memorial Hospital Authority Brandon 2019-08-12 146.59
+Bill St Mary's Hospital At Amsterdam Nathan 2019-11-30 934.55
+Bill Baldwin, Miller and Mckenzie Donna 2005-06-10 1342.52
+Bill Stewart Clinic Katrina 2020-11-18 1117.72
+Bill Pawnee County Memorial Hospital Gabrielle 2001-01-30 331.92
+Bill Jefferson Hospital Micheal 2006-12-28 799.99
+Bill Guam Memorial Hospital Authority Bobby 2005-08-03 873.23
+Bill Davis Regional Medical Center Jake 2021-10-28 1348.12
+Bill Union Medical Center Aaron 2018-08-31 1357.53
+Bill Upmc Hamot Krystal 2017-03-13 1260.53
+Bill Sanford Vermillion Hospital Ashlee 2001-04-28 154.42
+Bill Chinle Comprehensive Health Care Facility Cheryl 2007-09-26 496.53
+Bill Robbins Medical Group Tim 2020-09-15 1201.44
+Bill Cain-Jones Health System Rachel 2010-04-12 535.71
+Bill Thomas Health System Alison 2009-10-09 316.97
+Bill Chavez, Johnson and Bray Health System Lindsay 2020-01-03 829.86
+Bill Roach, Young and Oneal Health Care Alyssa 2010-01-27 704.58
+Bill Knox Nichole 2019-03-15 671.94
+Bill Rodriguez-Haas Clinic Diane 2004-02-03 405.48
+Bill Oconnor Vanessa 2002-09-07 1042.86
+Bill Pushmataha County Town Of Antlers Hospital Krystal 2002-09-18 1256.20
+Bill Miller, Vasquez and Hebert Medical Group George 2006-01-17 490.91
+Bill Clements Health System Gina 2017-11-18 234.79
+Bill Carilion Roanoke Memorial Hospital Maria 2006-01-17 1306.81
+Bill Harper County Community Hospital Amy 2004-03-25 653.00
+Bill Mcdaniel, Taylor and Sosa Health Care Steven 2010-10-13 1158.46
+Bill Ball-Alexander Health System Ruth 2007-07-04 659.30
+Bill University Colo Health Memorial Hospital Central Denise 2014-09-14 542.79
+Bill Avera Heart Hospital Of South Dakota Krystal 2002-11-12 858.10
+Bill Yuma District Hospital Pamela 2017-08-03 227.64
+Bill Adams, Petty and Nelson Virginia 2011-08-27 501.89
+Bill Thompson-Padilla Medical Group Susan 2004-01-08 222.70
+Bill Guthrie Towanda Memorial Hospital Barry 2017-12-06 1266.64
+Bill Hillsboro Community Hospital Wendy 2010-03-05 486.29
+Bill Reynolds Medical Group Michelle 2012-11-19 1129.35
+Bill Community Memorial Hospital Medical Center Anna 2005-10-06 428.73
+Bill Smith County Memorial Hospital Donald 2008-08-23 328.28
+Bill Laredo Medical Center Gregory 2006-05-13 499.24
+Bill Firsthealth Montgomery Memorial Hosp Johnny 2017-02-02 898.91
+Bill Avera Heart Hospital Of South Dakota Todd 2005-04-21 196.31
+Bill Foundation Surgical Hospital Of San Antonio Timothy 2012-08-04 1387.86
+Bill Guthrie Towanda Memorial Hospital Kevin 2012-07-29 865.84
+Bill Mcdonald, Dominguez and Brown Clinic Thomas 2007-05-06 826.44
+Bill Castro, Meyer and Schroeder Health Care Barry 2019-04-07 520.92
+Bill Mary Immaculate Hospital Cheryl 2011-06-22 1181.66
+Bill Serrano, Meyers and Miller Clinic Michael 2007-07-05 582.10
+Bill Saint Alphonsus Regional Medical Center Alejandro 2003-04-18 1107.19
+Bill James, Clark and Flores Health System Ashlee 2020-07-13 502.63
+Bill Northwestern Memorial Hospital Todd 2007-12-08 330.62
+Bill Hall-Jones Medical Group Sharon 2011-04-07 1352.05
+Bill Roach, Young and Oneal Health Care Diane 2008-05-25 582.09
+Bill Beth Israel Deaconess Hospital-milton Inc Debbie 2019-09-17 117.26
+Bill Harper County Community Hospital Jennifer 2007-08-22 1375.33
+Bill Walters, Miles and Nash Clinic Maria 2012-10-11 800.92
+Bill Jones, Randolph and Wallace Clinic Gloria 2006-01-02 596.86
+Bill Miller, Terry and Brown Clinic Wesley 2005-06-11 921.63
+Bill Desert View Hospital Kayla 2011-06-24 1396.95
+Bill Freeman Neosho Hospital Erin 2011-08-14 1044.94
+Bill Avera Heart Hospital Of South Dakota Darryl 2006-06-17 175.01
+Bill Nash, Mason and Diaz Clinic Molly 2005-12-19 228.18
+Bill Multicare Valley Hospital Sara 2014-06-23 1135.53
+Bill Franklin Health Care Melissa 2006-03-26 250.97
+Bill Johnson Memorial Hospital Alyssa 2009-01-30 982.05
+Bill Hillsboro Community Hospital Tiffany 2010-07-21 1325.26
+Bill Lopez-Wolfe Health System Rachel 2013-07-17 836.82
+Bill Solis Clinic Sara 2002-04-08 1326.98
+Bill Memorial Hospital Of Carbondale Heather 2009-01-20 215.31
+Bill Ronald Reagan U C L A Medical Center Brittany 2009-12-03 273.42
+Bill Bullock, Ryan and Estrada Health Care Timothy 2016-02-12 447.55
+Bill Shawnee Mission Medical Center Regina 2021-04-16 445.90
+Bill Nocona General Hospital Gary 2020-03-19 1046.90
+Member Joshua
+Bill Patel-Munoz Miguel 2003-08-20 1190.20
+Bill Cartersville Medical Center Curtis 2010-12-17 1160.68
+Bill Gonzalez Health System Cheryl 2008-01-11 335.30
+Bill Ronald Reagan U C L A Medical Center Shannon 2001-02-21 575.56
+Bill Jensen Maria 2005-06-28 161.02
+Bill Riverside Community Hospital Kimberly 2002-03-21 1152.50
+Bill Ball-Alexander Health System Derek 2002-01-05 118.55
+Bill Stephens Memorial Hospital Ashlee 2009-08-07 521.64
+Bill Jensen Monica 2004-05-27 182.71
+Bill Hamilton Hospital Mitchell 2018-09-11 1099.72
+Bill Nichols-Hill Health Care Janet 2018-12-05 586.08
+Bill The Hospitals Of Providence Transmountain Campus Allen 2002-06-13 1092.63
+Bill Knight-Butler Medical Group Randy 2019-09-29 769.05
+Bill Castro, Meyer and Schroeder Health Care Gina 2019-10-21 369.27
+Bill South Cameron Memorial Hospital Joe 2013-08-15 278.80
+Bill Hospital Metropolitano San German Kevin 2012-08-01 1096.09
+Bill Jackson-Benson Health Care Sara 2013-08-08 542.21
+Bill Serrano, Meyers and Miller Clinic Zachary 2020-05-03 1076.35
+Bill Regional West Garden County Hospital Danny 2002-05-03 693.56
+Bill Covenant Hospital Plainview Spencer 2005-09-17 1191.82
+Bill Hall-Jones Medical Group Lindsey 2020-08-23 457.58
+Bill Soto-Gonzalez Health System Joe 2020-02-28 1141.77
+Bill Davis-Schneider Health Care Tina 2011-09-18 406.54
+Bill Johnson Memorial Hospital Stacey 2007-05-11 454.24
+Bill Chicot Memorial Medical Center Derek 2021-03-28 161.66
+Bill South Cameron Memorial Hospital Darryl 2001-04-17 558.62
+Bill Union Medical Center Kent 2004-09-21 419.70
+Bill Lewis Clinic Erin 2011-04-16 1043.85
+Bill Davis-Schneider Health Care Christina 2018-12-14 138.82
+Bill Memorial Hospital Of Carbondale George 2016-08-06 1083.20
+Bill Foundation Surgical Hospital Of San Antonio Jesse 2017-02-27 126.41
+Bill Williams, Fischer and Hayes Health System Jennifer 2006-01-29 756.56
+Bill Laredo Medical Center George 2010-03-30 1269.00
+Bill Lakeview Memorial Hospital Alyssa 2004-02-27 721.90
+Bill Faulkner-Munoz Health Care Erik 2008-07-21 1028.33
+Bill Hernandez, Mendoza and Carr Health Care Shari 2012-10-27 756.98
+Bill Nichols, Hunter and Jones Medical Group Ana 2015-04-27 950.97
+Bill Mary Rutan Hospital Janet 2005-08-31 1059.52
+Bill Baldwin, Miller and Mckenzie Lee 2002-05-19 166.52
+Bill Scottsdale Osborn Medical Center Jack 2004-12-16 891.22
+Bill Davis Regional Medical Center George 2003-06-10 226.07
+Bill Scottsdale Osborn Medical Center Regina 2005-10-21 1162.85
+Bill Great River Medical Center Samantha 2000-10-29 249.93
+Bill Parkland Health And Hospital System Laura 2017-08-22 673.74
+Bill Adams, Petty and Nelson Nathan 2014-06-16 125.44
+Bill Rady Children's Hospital - San Diego Donna 2015-06-19 1037.78
+Bill Scottsdale Osborn Medical Center Patrick 2009-12-29 825.93
+Bill Miranda-Cox Medical Group Robert 2021-03-12 1015.37
+Bill Patel-Munoz Patricia 2003-06-13 1202.33
+Bill Firsthealth Montgomery Memorial Hosp Jaclyn 2015-10-10 270.98
+Bill Barrett Medical Group Crystal 2012-06-28 683.75
+Bill Pawnee County Memorial Hospital Rachel 2017-08-18 227.97
+Bill Riverside Community Hospital Stephen 2001-06-08 1052.91
+Bill Mcdonald, Dominguez and Brown Clinic Kathryn 2012-02-11 1019.33
+Bill Chippewa County War Memorial Hospital Shane 2021-04-27 1365.14
+Bill Nocona General Hospital Zachary 2015-07-03 339.80
+Bill Community Memorial Hospital Medical Center Mary 2002-11-18 1008.40
+Bill Saint Alphonsus Regional Medical Center Paula 2016-05-11 619.44
+Bill Mount Sinai Beth Israel Grant 2001-07-05 714.94
+Bill W W Hastings Indian Hospital Kevin 2013-04-11 850.45
+Bill Mcdonald, Dominguez and Brown Clinic Cheryl 2006-01-06 725.40
+Bill Regional West Garden County Hospital Jamie 2003-02-23 1216.13
+Bill Davis Regional Medical Center Roy 2020-05-01 790.97
+Bill Carter, Navarro and Barton Medical Group Timothy 2010-08-10 310.15
+Bill Saint Alphonsus Regional Medical Center Joyce 2021-03-24 479.53
+Bill Medstar Southern Maryland Hospital Center Pamela 2020-03-09 640.24
+Bill Hampton Regional Medical Center Gabrielle 2017-01-14 1289.47
+Bill Roach, Young and Oneal Health Care Allison 2007-03-27 1215.75
+Bill Parkland Health And Hospital System Adrienne 2020-09-15 811.19
+Bill Jefferson Hospital Julie 2021-06-19 984.41
+Bill Johnson Memorial Hospital Tyler 2004-03-26 920.58
+Bill Chavez, Johnson and Bray Health System Sheryl 2004-06-20 1336.36
+Bill Rodriguez-Haas Clinic Justin 2020-01-16 765.03
+Bill Dupont Hospital Llc Erik 2005-12-08 293.80
+Bill Hospital Metropolitano San German Kimberly 2015-08-06 747.73
+Bill Knight-Butler Medical Group Gabrielle 2008-11-26 1097.20
+Bill Chavez, Johnson and Bray Health System Gregory 2017-05-30 307.36
+Bill Nocona General Hospital Justin 2000-10-10 700.76
+Bill Baldwin, Miller and Mckenzie Randy 2002-02-14 415.44
+Bill Baldwin, Miller and Mckenzie Amy 2016-04-17 764.49
+Bill Oklahoma Heart Hospital South, Llc Richard 2011-10-15 1074.98
+Bill Multicare Valley Hospital Ethan 2009-11-22 1153.11
+Bill Garrison-Phillips Health Care Amber 2008-09-18 616.45
+Bill Northwestern Memorial Hospital Monica 2005-11-22 1080.02
+Bill Dupont Hospital Llc Andrea 2015-02-04 1050.85
+Bill Davis Regional Medical Center Erik 2007-02-12 828.97
+Bill Bean, Cohen and Owens Health System Donald 2012-10-28 497.34
+Bill Ness County Hospital District #2 Allison 2003-01-12 557.53
+Bill Nash, Mason and Diaz Clinic Timothy 2021-08-29 944.89
+Bill James, Clark and Flores Health System Julie 2004-09-08 685.75
+Bill Ness County Hospital District #2 Timothy 2009-06-18 1355.38
+Bill Smith County Memorial Hospital Mariah 2009-08-23 1311.69
+Bill Harris Health System Jimmy 2021-06-12 1362.16
+Bill Clements Health System Antonio 2007-03-03 294.54
+Bill Guam Memorial Hospital Authority Brandon 2021-08-02 1098.48
+Bill Davis Clinic Monica 2001-12-11 325.02
+Bill Valley Children's Hospital Molly 2019-12-19 513.63
+Bill Martinez-Lynch Health Care Tammy 2011-03-16 1177.43
+Bill Avery-Bailey Shawn 2015-12-06 148.66
+Bill Davis-Schneider Health Care Edward 2015-03-08 314.16
+Bill Ronald Reagan U C L A Medical Center Kimberly 2019-07-28 666.70
+Bill Carilion Roanoke Memorial Hospital Mary 2018-12-26 255.79
+Bill Miller, Vasquez and Hebert Medical Group Laura 2008-05-16 90.36
+Bill Jackson-Benson Health Care Gabrielle 2004-06-11 180.81
+Bill Serrano, Meyers and Miller Clinic Laura 2008-05-02 916.27
+Bill Novant Health Forsyth Medical Center Aaron 2011-06-15 356.04
+Bill Yuma District Hospital Tammy 2006-01-25 231.93
+Bill Meyer Clinic Randy 2011-10-21 1028.82
+Bill Mckenzie Health System Amber 2008-10-17 136.06
+Bill Nanticoke Memorial Hospital Amanda 2008-05-08 93.41
+Bill Cartersville Medical Center Wesley 2015-03-02 486.46
+Bill Cain-Jones Health System Samantha 2021-07-19 620.51
+Bill Memorial Hospital Of Carbondale Kristi 2014-03-20 484.76
+Bill Meyer Clinic Sheryl 2012-06-14 968.32
+Bill Nichols-Hill Health Care Molly 2011-12-26 1131.21
+Bill Northwestern Memorial Hospital Ana 2007-10-14 441.81
+Bill Jackson-Benson Health Care Adrienne 2020-02-27 873.05
+Bill Foundation Surgical Hospital Of San Antonio Donald 2016-04-23 916.20
+Bill Jefferson Hospital Samantha 2018-04-02 1020.33
+Bill Nanticoke Memorial Hospital Jennifer 2002-12-28 539.06
+Bill Martinez-Lynch Health Care Margaret 2011-12-26 889.25
+Bill Saint Joseph Mount Sterling Gloria 2016-05-21 537.34
+Bill Pushmataha County Town Of Antlers Hospital Ruth 2006-07-30 769.86
+Bill Ballinger Memorial Hospital Bobby 2017-03-25 1143.35
+Bill Sanders, Cochran and Smith Health System Margaret 2015-09-04 1222.61
+Bill Piedmont Newton Hospital Kathryn 2017-05-02 1126.15
+Bill Chinle Comprehensive Health Care Facility Bobby 2001-02-17 517.00
+Bill Regional West Garden County Hospital Gina 2010-05-06 1092.94
+Bill Shawnee Mission Medical Center Joe 2014-02-13 191.48
+Bill North Hawaii Community Hospital Lucas 2013-12-26 214.99
+Bill Soto-Gonzalez Health System Ann 2004-10-16 367.42
+Bill Ball-Alexander Health System Paula 2009-10-07 127.73
+Bill Miller, Terry and Brown Clinic Ann 2013-12-09 621.95
+Bill Mayo Clinic Hlth System  Franciscan Med Ctr Micheal 2003-03-24 1024.99
+Bill Mcdowell-Thompson Health Care Nicole 2020-08-06 783.91
+Bill Bowman-Miller Kelly 2019-08-09 1196.54
+Bill Miller Health Care Chad 2012-07-20 927.33
+Bill Brown Johnny 2017-02-12 108.26
+Bill Mary Rutan Hospital Steven 2003-10-16 798.75
+Bill Anderson-Morales Health System Allen 2012-11-17 227.63
+Bill Nanticoke Memorial Hospital Jeremiah 2002-01-24 1384.41
+Bill Mercy Hospital Logan County, Inc Patrick 2016-01-30 1142.76
+Bill Kahuku Medical Center Nichole 2011-12-30 761.75
+Bill Soto-Gonzalez Health System Chad 2013-06-02 384.36
+Bill Lopez-Wolfe Health System Kent 2003-03-16 151.16
+Bill Cox, Garner and Patterson Clinic Alyssa 2013-08-05 217.84
+Bill Guthrie Towanda Memorial Hospital Sharon 2007-10-28 346.64
+Bill Nichols, Hunter and Jones Medical Group Jennifer 2012-02-05 344.01
+Bill Herrera Medical Group Donna 2008-10-19 1224.28
+Bill Kahuku Medical Center Janet 2009-05-04 567.99
+Bill Davis Regional Medical Center Dana 2018-09-28 334.16
+Bill Nanticoke Memorial Hospital Anthony 2011-10-03 308.67
+Bill St Mary's Hospital At Amsterdam Mark 2015-09-14 153.41
+Bill Fairbanks Memorial Hospital Laura 2005-09-30 515.45
+Bill Parkland Health And Hospital System Robert 2021-10-17 1009.97
+Bill Avera Heart Hospital Of South Dakota Olivia 2002-07-22 1059.29
+Bill Castillo, Hayes and Williams Health Care Margaret 2010-04-21 1121.48
+Bill Garcia Health Care Kent 2018-01-30 843.06
+Bill Pawnee County Memorial Hospital Brandon 2006-11-14 553.38
+Bill Rady Children's Hospital - San Diego Olivia 2001-02-14 303.88
+Bill Mount Sinai Beth Israel Roy 2002-01-11 966.35
+Bill Jensen Jennifer 2006-06-19 413.96
+Bill Yuma District Hospital Alison 2021-01-02 1236.99
+Bill Edwards-Ramirez Health Care Rhonda 2008-12-09 1126.73
+Bill Edwards-Ramirez Health Care Sabrina 2006-04-12 1238.35
+Bill Thompson-Padilla Medical Group Vanessa 2002-10-21 1230.68
+Bill Knox Erik 2007-03-18 187.93
+Bill Miller, Vasquez and Hebert Medical Group Alison 2010-06-20 1178.14
+Bill Cumberland Medical Center Susan 2011-11-07 895.76
+Bill Oklahoma Heart Hospital South, Llc Michael 2006-06-02 1105.76
+Bill Keith Clinic Vanessa 2018-03-03 894.97
+Bill Mercy Medical Center-clinton Danielle 2001-09-13 925.84
+Bill Garcia Health Care Kristie 2015-07-23 997.75
+Bill Avery-Bailey Olivia 2010-03-11 1135.62
+Bill University Of Washington Medical Ctr Erik 2018-01-30 724.84
+Bill Garcia Health Care John 2010-02-12 936.48
+Bill Stephens Memorial Hospital Steven 2012-11-10 423.40
+Bill Lester, Hebert and Duran Health System Tina 2019-05-28 334.42
+Bill Bean, Cohen and Owens Health System Kristi 2003-01-17 1290.65
+Bill Ronald Reagan U C L A Medical Center George 2004-09-13 423.74
+Bill University Colo Health Memorial Hospital Central Randy 2019-03-24 147.18
+Bill Smith County Memorial Hospital Shawn 2015-07-26 1251.36
+Bill University Of Washington Medical Ctr Shane 2017-05-24 652.13
+Bill Serrano, Meyers and Miller Clinic George 2010-11-17 234.40
+Bill Hernandez, Mendoza and Carr Health Care Krystal 2020-09-30 1172.25
+Bill Cartersville Medical Center Gabrielle 2004-09-28 563.54
+Bill Martin-Jimenez Clinic Krystal 2021-04-09 127.33
+Bill Mount Sinai Beth Israel Heather 2004-09-21 229.62
+Bill Faulkner-Munoz Health Care Samantha 2015-03-14 446.65
+Bill Rivera, Jordan and Nelson Health Care Kristie 2017-05-11 1191.19
+Bill Smith County Memorial Hospital Diane 2010-01-10 883.06
+Bill Milford Regional Medical Center Barry 2008-09-03 1129.87
+Bill Stringfellow Memorial Hospital Julie 2015-07-11 1342.43
+Bill Castro, Meyer and Schroeder Health Care Jose 2001-06-07 849.05
+Bill Mckinney, Parker and Bautista Medical Group Ray 2005-05-11 786.08
+Bill Beth Israel Deaconess Hospital-milton Inc Julie 2008-01-10 481.44
+Bill Mcdonald, Dominguez and Brown Clinic Kenneth 2021-10-03 1100.98
+Bill Fairbanks Memorial Hospital Samantha 2021-03-11 373.20
+Bill Johnson Memorial Hospital Cheryl 2008-05-25 1246.40
+Bill Carilion Roanoke Memorial Hospital Alejandro 2010-01-18 945.88
+Bill Cox, Garner and Patterson Clinic Ruth 2020-03-06 595.95
+Bill Carilion Roanoke Memorial Hospital Adrienne 2006-08-04 1323.65
+Bill Davis-Schneider Health Care Jennifer 2017-05-01 1291.02
+Bill Martin-Jimenez Clinic Janet 2004-10-12 258.74
+Bill Lewis Clinic Amanda 2017-08-20 334.82
+Bill Memorial Hospital Jose 2003-08-02 976.47
+Bill Castro, Meyer and Schroeder Health Care Curtis 2005-06-08 789.38
+Bill Lallie Kemp Medical Center Janet 2011-03-31 936.45
+Bill Franklin Health Care Cheryl 2014-10-08 322.05
+Bill Hernandez, Mendoza and Carr Health Care Samantha 2007-12-21 553.60
+Bill Chavez, Johnson and Bray Health System Jennifer 2010-04-27 159.11
+Bill Franklin Health Care Barry 2013-08-24 904.78
+Bill Stephens Memorial Hospital Nichole 2020-03-17 194.70
+Bill Ibarra Health Care Kayla 2018-02-07 252.70
+Bill Mercy Hospital Logan County, Inc Jake 2016-08-15 589.51
+Bill Riverside Community Hospital Gary 2009-11-13 1270.82
+Bill Brigham City Community Hospital Victor 2008-09-30 345.22
+Bill Martin-Jimenez Clinic Ruth 2004-12-12 594.80
+Bill Roberts, Rodriguez and Randolph Health Care Gloria 2007-05-03 176.90
+Bill Brown, Wright and Hurley Clinic Antonio 2001-10-09 851.98
+Bill Thompson-Padilla Medical Group Samuel 2019-05-21 179.14
+Bill Mckenzie Health System Benjamin 2017-12-31 708.17
+Bill Hospital Metropolitano San German Michael 2003-06-01 562.54
+Bill San Gabriel Valley Medical Center Brian 2011-03-15 971.01
+Bill Thompson-Padilla Medical Group Joseph 2021-08-24 1387.98
+Bill Nichols-Hill Health Care Timothy 2002-11-15 812.10
+Bill Mcdowell-Thompson Health Care Micheal 2011-04-10 122.66
+Bill Mercy Hospital Logan County, Inc Donald 2009-02-06 941.74
+Bill Miller, Terry and Brown Clinic Amanda 2017-07-23 150.36
+Bill Castro, Meyer and Schroeder Health Care Jose 2004-05-22 998.59
+Bill Cox, Garner and Patterson Clinic Julian 2017-05-05 1194.25
+Bill Anderson-Morales Health System Jack 2019-08-16 892.71
+Bill Herrera Medical Group Jake 2013-04-08 1123.09
+Bill Monroe Hospital Ethan 2012-06-02 618.79
+Bill Torres, Gonzalez and Bush Medical Group Victor 2010-07-04 829.39
+Bill Rady Children's Hospital - San Diego Curtis 2010-05-14 225.35
+Bill Chicot Memorial Medical Center Rachel 2015-01-26 324.89
+Bill San Gabriel Valley Medical Center Randy 2005-06-21 276.71
+Bill Mercy Hospital Logan County, Inc Shannon 2005-10-12 845.65
+Bill Mary Immaculate Hospital Julian 2005-01-16 1196.76
+Bill Hospital Metropolitano San German Julian 2005-08-20 1244.43
+Bill University Colo Health Memorial Hospital Central Todd 2007-03-28 681.66
+Bill Nash, Mason and Diaz Clinic Micheal 2021-03-28 791.98
+Bill Hill, Mclean and Hodges Michelle 2005-06-19 803.56
+Bill Gay, Mitchell and Le Health System Sean 2004-01-06 1199.38
+Bill Lewis-Castro Health System Donna 2021-01-20 1283.83
+Bill Moore-Jones Medical Group Kristie 2009-02-24 1260.27
+Bill Kahuku Medical Center Wendy 2004-10-26 569.27
+Bill Northern Nevada Medical Center Donald 2008-12-21 791.48
+Bill Dupont Hospital Llc Brittany 2016-02-29 1009.40
+Bill Keith Clinic Robert 2004-05-29 943.69
+Bill Gonzalez Health System Steven 2002-06-23 1239.67
+Bill Walters, Miles and Nash Clinic Janet 2013-02-20 467.89
+Bill University Of Washington Medical Ctr David 2009-01-07 1042.05
+Bill Meyer Clinic Denise 2005-02-28 1376.48
+Bill Bean, Cohen and Owens Health System Timothy 2008-02-23 583.69
+Bill Davis-Schneider Health Care Sarah 2004-09-10 1253.33
+Bill Reynolds Medical Group Nicole 2001-03-24 882.89
+Bill Lopez-Wolfe Health System Chad 2008-04-03 508.86
+Bill Scottsdale Osborn Medical Center Micheal 2021-01-21 1065.84
+Bill Oconnor Erin 2019-11-05 938.36
+Bill Cumberland Medical Center Lauren 2020-12-25 609.77
+Bill Fairbanks Memorial Hospital Richard 2008-02-28 672.31
+Bill Hacienda Children's Hospital, Inc. Matthew 2009-04-09 945.72
+Bill Harris Health System Sarah 2004-07-03 315.07
+Bill Covenant Hospital Plainview Kelly 2010-03-13 1195.65
+Bill Sanchez, Larson and Kent Medical Group Tamara 2011-11-26 909.42
+Bill Wright Medical Group Blake 2020-12-01 1377.81
+Bill Hospital Metropolitano San German Ann 2009-06-04 275.47
+Bill University Colo Health Memorial Hospital Central Johnny 2021-10-26 1229.02
+Bill Knox Gloria 2018-11-17 559.47
+Bill Rady Children's Hospital - San Diego Alyssa 2009-08-21 1398.00
+Bill Brown Rachel 2003-07-25 707.76
+Bill Oklahoma Heart Hospital South, Llc Michael 2002-07-23 463.13
+Bill Lester, Hebert and Duran Health System Jamie 2019-01-09 880.65
+Bill Sanders, Cochran and Smith Health System Gary 2010-03-01 1182.94
+Bill Sanford Vermillion Hospital Robyn 2017-05-08 120.38
+Bill Guthrie Towanda Memorial Hospital Robyn 2012-02-24 306.11
+Bill Mcdonald, Dominguez and Brown Clinic Derek 2002-08-30 798.69
+Bill Baptist Emergency Hospital Cheryl 2010-08-20 831.56
+Bill Seattle Children's Hospital Tracy 2017-03-22 793.34
+Bill Beth Israel Deaconess Hospital-milton Inc Tracy 2004-04-26 1293.89
+Bill Carson Tahoe Regional Medical Center Edgar 2005-02-08 831.64
+Bill Pawnee County Memorial Hospital Heather 2016-11-21 733.74
+Bill Desert View Hospital Monique 2004-03-24 411.41
+Bill Beth Israel Deaconess Hospital-milton Inc Erik 2016-03-04 826.60
+Bill Wright Wendy 2013-07-22 555.24
+Bill Gonzalez Health System Lee 2015-07-07 1169.59
+Bill Hill, Mclean and Hodges Katrina 2008-01-24 541.46
+Bill Nichols, Hunter and Jones Medical Group Kyle 2019-03-29 1367.71
+Bill Moore-Jones Medical Group Blake 2014-03-05 339.16
+Bill Brigham City Community Hospital Lindsay 2006-04-30 1166.29
+Bill Barrett Medical Group Monica 2010-02-22 1363.28
+Bill The Hospitals Of Providence Transmountain Campus Jose 2002-03-05 811.64
+Bill Barrett Medical Group Bryan 2008-07-12 879.40
+Bill Chippewa County War Memorial Hospital Laura 2003-06-16 541.90
+Bill Davis Health Care Debra 2017-01-12 1062.95
+Bill Sanders, Cochran and Smith Health System Allison 2020-03-09 604.86
+Bill Bean, Cohen and Owens Health System Mitchell 2018-07-06 788.66
+Bill Buckley Health System Debbie 2014-06-28 782.19
+Bill Avery-Bailey Kathryn 2005-07-18 614.74
+Bill Mount Sinai Beth Israel Elizabeth 2012-02-12 452.97
+Bill Desert View Hospital Kimberly 2003-03-27 418.96
+Bill Oklahoma Heart Hospital South, Llc Benjamin 2007-03-08 934.15
+Bill Castillo, Hayes and Williams Health Care Lee 2010-08-21 367.06
+Bill James, Clark and Flores Health System Jeremiah 2016-06-18 796.88
+Bill Chippewa County War Memorial Hospital Ann 2010-02-07 841.45
+Bill Hill, Mclean and Hodges Julian 2017-01-01 237.31
+Bill Novant Health Forsyth Medical Center Manuel 2010-03-25 315.02
+Bill Chippewa County War Memorial Hospital Jamie 2008-07-03 1351.41
+Bill Serrano, Meyers and Miller Clinic Elizabeth 2001-05-20 175.44
+Bill Memorial Hospital Of Carbondale Spencer 2006-05-10 863.83
+Bill Santa Clara Valley Medical Center Lindsay 2004-12-10 171.47
+Bill Northwestern Memorial Hospital Pamela 2002-08-20 293.09
+Bill San Gabriel Valley Medical Center Joshua 2010-09-18 274.98
+Bill Gonzalez, Hughes and Perkins Health Care Gregory 2009-06-12 259.15
+Bill Sanchez, Larson and Kent Medical Group Derrick 2005-12-29 956.92
+Bill Nichols, Hunter and Jones Medical Group Sherry 2021-05-26 1043.75
+Bill Bullock, Ryan and Estrada Health Care Gabrielle 2005-01-02 542.57
+Bill Idaho Doctors Hospital Kayla 2018-11-04 559.00
+Bill Laredo Medical Center Anne 2013-10-01 1250.21
+Bill Inova Mount Vernon Hospital Lauren 2020-09-06 674.75
+Bill Scottsdale Osborn Medical Center Heather 2008-11-09 1283.98
+Member Julia
+Bill Parkland Health And Hospital System Kevin 2013-06-04 967.64
+Bill Carter, Navarro and Barton Medical Group Gloria 2011-03-11 161.34
+Bill Rady Children's Hospital - San Diego Warren 2021-06-14 1312.94
+Bill Ballinger Memorial Hospital Joseph 2008-10-02 470.89
+Bill South Texas Surgical Hospital Randy 2012-07-01 256.37
+Bill Middle Park Medical Center Alyssa 2005-09-01 692.94
+Bill Idaho Doctors Hospital Justin 2009-05-30 279.34
+Bill Roberts, Rodriguez and Randolph Health Care Danny 2012-11-29 1168.06
+Bill Cartersville Medical Center George 2020-02-22 587.11
+Bill Rodriguez-Haas Clinic Randy 2001-06-01 938.78
+Bill Riverside Community Hospital Monica 2003-11-23 450.69
+Bill Thomas Health System Jeremiah 2015-01-17 1298.79
+Bill Gonzalez, Hughes and Perkins Health Care Andrea 2007-01-02 612.08
+Bill Clark Memorial Hospital Alison 2021-08-22 639.03
+Bill Cisneros, Haley and Reid Michelle 2013-03-31 1355.93
+Bill Brown, Wright and Hurley Clinic Robyn 2007-11-02 1289.16
+Bill Regional West Garden County Hospital Anna 2012-04-15 861.93
+Bill Middle Park Medical Center Gabrielle 2013-03-30 562.92
+Bill Mercy Hospital Logan County, Inc Gina 2001-10-19 741.12
+Bill Martinez-Lynch Health Care Paula 2018-04-07 1358.54
+Bill Nichols-Hill Health Care John 2001-07-03 299.50
+Bill Davis, Keith and Weaver Leroy 2007-01-19 897.94
+Bill Cox, Garner and Patterson Clinic Kyle 2016-09-14 1122.40
+Bill Ronald Reagan U C L A Medical Center Shawn 2001-01-03 824.31
+Bill Inova Mount Vernon Hospital Curtis 2005-05-31 844.72
+Bill W W Hastings Indian Hospital Kyle 2012-05-27 1096.73
+Bill Brown Leroy 2007-10-03 1343.91
+Bill Harper County Community Hospital Janet 2016-01-01 657.36
+Bill Roach, Young and Oneal Health Care Maria 2018-02-22 149.51
+Bill Fillmore County Hospital Stephen 2014-07-19 876.95
+Bill Nichols-Hill Health Care Tamara 2008-11-09 1311.43
+Bill Brown, Wright and Hurley Clinic Allen 2020-08-22 960.55
+Bill Eastern New Mexico Medical Center Bobby 2011-07-11 282.22
+Bill Solis Clinic Derrick 2017-11-09 700.20
+Bill Avery-Bailey Allen 2017-06-11 153.81
+Bill Eastern New Mexico Medical Center Tammy 2019-05-25 1104.81
+Bill Milford Regional Medical Center Jose 2020-04-19 1096.21
+Bill Shawnee Mission Medical Center Jonathan 2003-07-25 469.85
+Bill Foundation Surgical Hospital Of San Antonio Tyler 2017-05-31 303.49
+Bill Memorial Hospital Timothy 2010-08-20 297.99
+Bill Guthrie Towanda Memorial Hospital Kayla 2013-10-22 136.46
+Bill Cain-Jones Health System Katrina 2001-07-26 1114.89
+Bill Thompson-Padilla Medical Group Pamela 2010-01-09 1369.57
+Bill Faulkner-Munoz Health Care Tiffany 2007-02-23 1331.56
+Bill Hospital Metropolitano San German Tiffany 2000-12-12 778.32
+Bill Robbins Medical Group Sara 2009-03-06 951.88
+Bill Davis Health Care Brian 2013-11-16 921.38
+Bill Miller, Terry and Brown Clinic James 2005-01-16 1260.97
+Bill Valley Children's Hospital Elizabeth 2000-09-04 562.70
+Bill Nocona General Hospital Tina 2017-11-06 524.55
+Bill Maxwell-Cooper Health Care Richard 2013-04-09 1017.72
+Bill Garcia Health Care Christina 2007-07-14 685.50
+Bill Martinez-Lynch Health Care Eric 2011-06-09 973.16
+Bill Bean, Cohen and Owens Health System Patricia 2015-11-10 1390.78
+Bill South Texas Surgical Hospital Jennifer 2014-06-22 159.22
+Bill Williams, Fischer and Hayes Health System Pamela 2005-08-15 860.00
+Bill Jefferson Hospital Sheryl 2020-11-27 523.98
+Bill Pawnee County Memorial Hospital Andrea 2019-09-03 1396.44
+Bill Ballinger Memorial Hospital Anna 2020-05-13 1051.01
+Bill Roach, Young and Oneal Health Care Kimberly 2019-10-04 581.12
+Bill Mary Rutan Hospital Derek 2012-07-25 115.82
+Bill Mcdowell-Thompson Health Care Donna 2020-10-31 305.07
+Bill The Hospitals Of Providence Transmountain Campus Lucas 2018-09-24 509.99
+Bill Gay, Mitchell and Le Health System Tina 2012-12-16 1210.07
+Bill Ballinger Memorial Hospital Kathryn 2003-02-12 556.94
+Bill Medstar Southern Maryland Hospital Center Erik 2019-09-07 768.24
+Bill Mcdonald, Dominguez and Brown Clinic Derek 2019-12-17 562.73
+Bill Woods-Dixon Health Care Aaron 2001-12-17 528.73
+Bill Gay, Mitchell and Le Health System Anna 2017-04-14 1046.73
+Bill Valley Children's Hospital Kimberly 2016-06-26 757.92
+Bill Cain-Jones Health System Alyssa 2007-04-16 202.97
+Bill Wright Lindsey 2006-06-01 399.45
+Bill Mary Rutan Hospital Derrick 2006-01-31 397.68
+Bill Sanford Vermillion Hospital Christopher 2014-08-23 869.92
+Bill Davis Regional Medical Center Spencer 2006-02-14 885.16
+Bill Northern Nevada Medical Center Beverly 2009-06-09 876.49
+Bill Shawnee Mission Medical Center Patrick 2020-06-21 1251.38
+Bill Castillo, Hayes and Williams Health Care Edward 2018-05-30 756.33
+Bill Monroe Hospital Rachel 2001-09-02 951.44
+Bill Brigham City Community Hospital Laura 2018-10-19 145.42
+Bill Hampton Regional Medical Center Derek 2004-07-11 1118.59
+Bill Edwards-Ramirez Health Care Rachel 2003-02-14 709.98
+Bill Knox Jeffrey 2001-01-31 1151.93
+Bill Hampton Regional Medical Center Anthony 2019-03-06 975.82
+Bill Freeman Neosho Hospital Gabrielle 2020-12-09 1274.98
+Bill W W Hastings Indian Hospital Lisa 2008-09-11 1181.02
+Bill Hill, Mclean and Hodges Margaret 2014-03-23 1081.21
+Bill Davis, Keith and Weaver Derek 2006-02-01 534.36
+Bill Bridges-Tran John 2012-03-31 1346.80
+Bill Sanchez, Larson and Kent Medical Group Dana 2010-12-02 352.16
+Bill Freeman Neosho Hospital Bobby 2002-06-12 103.79
+Bill Middle Park Medical Center Eric 2001-01-01 762.03
+Bill Bean, Cohen and Owens Health System Joe 2006-07-03 397.80
+Bill Medstar Southern Maryland Hospital Center John 2009-08-07 1107.76
+Bill Guthrie Towanda Memorial Hospital Laura 2019-09-10 1212.81
+Bill Avera Heart Hospital Of South Dakota Beverly 2006-06-09 725.87
+Bill Bean, Cohen and Owens Health System Debra 2016-02-03 899.91
+Bill Solis Clinic Donna 2002-07-14 269.62
+Bill Bullock, Ryan and Estrada Health Care Jennifer 2012-05-25 545.78
+Bill Bond-Goodman Clinic Sabrina 2003-02-20 1254.89
+Bill Bridges-Tran Olivia 2003-08-25 1124.73
+Bill Thomas Health System Ricky 2016-06-16 444.58
+Bill San Gabriel Valley Medical Center Derrick 2001-11-20 107.98
+Bill Chavez, Johnson and Bray Health System Laura 2008-02-13 790.79
+Bill Hospital Metropolitano San German Chad 2006-01-20 206.08
+Bill Pushmataha County Town Of Antlers Hospital Lee 2006-03-31 740.99
+Bill Milford Regional Medical Center Edgar 2012-09-24 819.41
+Bill Carter, Navarro and Barton Medical Group Andrew 2001-04-16 1068.69
+Bill North Hawaii Community Hospital Shane 2013-03-25 92.65
+Bill North Hawaii Community Hospital Randy 2004-06-17 630.73
+Bill Dixon-Little Lori 2012-08-21 1059.53
+Bill Firsthealth Montgomery Memorial Hosp Todd 2007-08-16 1226.91
+Bill Ibarra Health Care Nicole 2011-11-16 1222.73
+Bill Garrison-Phillips Health Care Mitchell 2005-03-04 890.90
+Bill Cartersville Medical Center Laura 2011-06-25 1189.58
+Bill Clark Memorial Hospital Diane 2003-12-18 888.67
+Bill Nelson-Howard Health System Nathan 2010-07-14 520.14
+Bill Shriners Hospitals For Children Michelle 2019-09-21 557.11
+Bill Riverside Community Hospital Sarah 2015-01-16 1337.25
+Bill Castillo, Hayes and Williams Health Care Shannon 2015-12-10 700.79
+Bill Memorial Hospital Beverly 2013-05-25 1220.67
+Bill Castro, Meyer and Schroeder Health Care Alison 2014-09-25 640.94
+Bill Walters, Miles and Nash Clinic Kristi 2004-02-26 298.20
+Bill Bowman-Miller David 2010-12-31 191.30
+Bill Nanticoke Memorial Hospital Aaron 2009-01-23 397.33
+Bill Mary Rutan Hospital Kevin 2013-07-02 1306.20
+Bill Pawnee County Memorial Hospital Pamela 2001-09-08 1036.82
+Bill Yuma District Hospital Edgar 2014-10-28 654.97
+Bill Lewis Clinic Kayla 2018-04-29 365.76
+Bill Jensen Alison 2009-12-31 1296.77
+Bill Brown Erik 2020-10-02 610.76
+Bill Reynolds, Alvarez and Morrison Health System Monique 2011-09-07 604.08
+Bill Lakeview Memorial Hospital Stephanie 2010-08-24 609.14
+Bill Laredo Medical Center Amanda 2001-07-03 709.47
+Bill Gonzalez, Hughes and Perkins Health Care Patricia 2014-06-17 106.48
+Bill Martin-Jimenez Clinic Laura 2002-09-06 1003.25
+Bill Ball-Alexander Health System Matthew 2008-09-17 914.30
+Bill Baldwin, Miller and Mckenzie Joyce 2005-01-28 407.99
+Bill Multicare Valley Hospital Mitchell 2021-01-03 301.11
+Bill Riverside Community Hospital Joyce 2019-05-07 1161.72
+Bill Davis Regional Medical Center Mary 2009-02-15 1139.91
+Bill Solis Clinic Edward 2015-05-02 497.08
+Bill Davis Regional Medical Center Gary 2021-07-29 132.47
+Bill Nichols-Hill Health Care Jake 2004-09-05 1169.41
+Bill Pawnee County Memorial Hospital Matthew 2003-01-12 517.63
+Bill Upmc Hamot Ray 2018-09-20 1311.69
+Bill Garcia Health Care Blake 2015-07-09 971.31
+Bill Baptist Emergency Hospital Stephen 2009-12-16 387.48
+Bill Fairbanks Memorial Hospital Leroy 2008-08-02 1231.54
+Bill Barrett Medical Group Erin 2012-08-20 817.05
+Bill Carson Tahoe Regional Medical Center Shane 2007-11-28 1211.01
+Bill Oconnor Katrina 2013-11-27 373.75
+Bill Hillsboro Community Hospital Aaron 2013-09-08 499.59
+Bill Baptist Emergency Hospital Alison 2010-08-28 1296.39
+Bill Barrett Medical Group Shannon 2007-03-22 824.45
+Bill Dixon-Little Shane 2021-01-30 714.68
+Bill Harris Health System Krystal 2004-12-06 200.05
+Bill Northwestern Memorial Hospital Janet 2001-03-08 330.99
+Bill Adams, Petty and Nelson Barry 2015-11-17 691.59
+Bill Wright Chad 2020-07-17 394.36
+Bill Brown, Wright and Hurley Clinic Regina 2011-03-14 1308.49
+Bill Great River Medical Center Blake 2016-12-30 1094.68
+Bill Reynolds Medical Group Manuel 2004-12-24 251.24
+Bill Hall-Jones Medical Group Alison 2020-11-01 373.06
+Bill Adams-Mejia Clinic Cynthia 2013-05-01 1262.05
+Bill Chavez, Johnson and Bray Health System Robyn 2020-02-12 1385.78
+Bill Solis Clinic Alison 2018-03-13 362.58
+Bill Nanticoke Memorial Hospital Maria 2002-11-02 324.55
+Bill Lester, Hebert and Duran Health System Amber 2019-04-27 897.09
+Bill Milford Regional Medical Center Lindsey 2016-05-01 880.90
+Bill Torres, Gonzalez and Bush Medical Group Sharon 2004-06-24 829.83
+Bill Sanders, Cochran and Smith Health System Alejandro 2014-11-24 1290.77
+Bill Lester, Hebert and Duran Health System Shawn 2011-02-11 1275.87
+Bill Banner Gateway Medical Center Molly 2016-01-15 824.59
+Bill Bowman-Miller Manuel 2001-01-27 1365.28
+Bill Miranda-Cox Medical Group Sheryl 2004-10-31 451.53
+Bill Harris Health System Crystal 2015-08-03 749.98
+Bill Monroe Hospital Susan 2006-12-25 430.05
+Bill Moore-Jones Medical Group Jennifer 2005-02-02 386.36
+Bill Mckinney, Parker and Bautista Medical Group Samantha 2017-05-17 1389.65
+Bill Barrett Medical Group Elizabeth 2009-03-05 449.89
+Bill Chippewa County War Memorial Hospital Melissa 2020-10-28 827.32
+Bill Chinle Comprehensive Health Care Facility Sarah 2005-09-09 961.65
+Bill Phs Indian Hospital At Eagle Butte Melissa 2001-09-01 1072.76
+Bill Covenant Hospital Plainview Shane 2012-07-08 159.19
+Bill Nichols, Hunter and Jones Medical Group Steven 2014-02-23 141.12
+Bill Adams, Petty and Nelson Ruth 2019-08-12 318.71
+Bill Garcia Health Care Randy 2004-08-16 1260.76
+Bill Robbins Medical Group Samantha 2005-01-21 423.48
+Bill Uchealth Yampa Valley Medical Center Brandon 2018-12-15 900.33
+Bill North Hawaii Community Hospital Bobby 2014-11-08 1316.90
+Bill Pushmataha County Town Of Antlers Hospital Gloria 2009-01-25 887.35
+Bill Chavez, Johnson and Bray Health System Michael 2005-12-18 1255.60
+Bill Hillsboro Community Hospital Shane 2002-12-17 1070.87
+Bill Franklin Health Care Susan 2008-03-15 1128.42
+Bill Thomas Health System Lee 2012-02-25 143.51
+Bill Foundation Surgical Hospital Of San Antonio Matthew 2001-05-08 1356.85
+Bill Solis Clinic Joyce 2008-04-02 396.67
+Bill Ness County Hospital District #2 George 2013-04-02 570.35
+Bill Nelson-Howard Health System Janet 2001-09-27 871.40
+Bill Ibarra Health Care Wesley 2003-12-09 303.71
+Bill Cisneros, Haley and Reid Derrick 2018-01-16 1130.72
+Bill Great River Medical Center Debbie 2021-03-23 872.35
+Member Jeremy
+Bill Yuma District Hospital Bryan 2007-04-13 729.35
+Bill Fairbanks Memorial Hospital Debra 2015-08-02 665.34
+Bill Davis Clinic Roy 2018-10-01 225.03
+Bill Valley Children's Hospital Julia 2015-09-04 330.33
+Bill Sanchez, Larson and Kent Medical Group Gloria 2017-12-17 986.47
+Bill Yuma District Hospital Gloria 2009-11-13 218.14
+Bill Adams-Ford Health System Tammy 2010-10-15 934.98
+Bill Mcdaniel, Taylor and Sosa Health Care Beverly 2003-04-28 1063.42
+Bill Hernandez, Mendoza and Carr Health Care Tyler 2005-06-28 662.33
+Bill Bridges-Tran Spencer 2008-04-13 1310.72
+Bill Chinle Comprehensive Health Care Facility Miguel 2003-02-06 1070.58
+Bill Roberts, Rodriguez and Randolph Health Care Lucas 2016-04-26 642.77
+Bill Mary Immaculate Hospital Gloria 2012-04-29 156.22
+Bill Patel-Munoz Dana 2007-10-13 745.20
+Bill Davis Health Care Teresa 2005-03-16 346.34
+Bill Piedmont Newton Hospital Heather 2002-09-11 105.75
+Bill Lester, Hebert and Duran Health System Sheryl 2001-07-13 504.55
+Bill Guthrie Towanda Memorial Hospital Lisa 2007-06-25 420.48
+Bill The Hospitals Of Providence Transmountain Campus David 2002-01-27 703.18
+Bill Rivera, Jordan and Nelson Health Care Ann 2011-08-23 1035.79
+Bill Lallie Kemp Medical Center Heather 2014-11-01 580.33
+Bill Banner Gateway Medical Center Stephen 2009-07-18 470.38
+Bill Smith County Memorial Hospital Spencer 2008-01-16 819.73
+Bill Carter, Navarro and Barton Medical Group Gabrielle 2006-03-23 465.55
+Bill Solis Clinic Sheryl 2021-03-06 474.62
+Bill Rodriguez-Haas Clinic Aaron 2012-12-08 327.53
+Bill Santa Clara Valley Medical Center Robyn 2003-09-08 222.59
+Bill The Hospitals Of Providence Transmountain Campus Ashley 2012-12-20 762.25
+Bill Community Memorial Hospital Medical Center Lindsey 2005-03-04 1318.16
+Bill San Gabriel Valley Medical Center Jeffrey 2005-09-21 1301.26
+Bill Yuma District Hospital Vanessa 2002-05-25 411.30
+Bill Clark Memorial Hospital Susan 2006-10-10 645.41
+Bill Meyer Clinic Kyle 2009-06-17 910.68
+Bill Ronald Reagan U C L A Medical Center Lindsay 2013-07-01 1400.54
+Bill Guthrie Towanda Memorial Hospital Ana 2014-10-21 587.39
+Bill University Colo Health Memorial Hospital Central Allen 2013-02-03 123.40
+Bill Miller, Terry and Brown Clinic Andrew 2003-06-09 634.37
+Bill Mary Immaculate Hospital Shari 2020-02-12 1273.14
+Bill Kansas Spine & Specialty Hospital, Llc Linda 2003-12-29 877.26
+Bill Banner Gateway Medical Center Linda 2017-03-29 679.03
+Bill Cumberland Medical Center Gregory 2015-04-17 293.52
+Bill Edwards-Ramirez Health Care Virginia 2003-01-08 894.02
+Bill Herrera Medical Group Jamie 2012-05-04 300.57
+Bill Phs Indian Hospital At Eagle Butte Adam 2008-08-20 403.33
+Bill Nocona General Hospital Allison 2002-06-23 556.06
+Bill Gay, Mitchell and Le Health System Ashley 2015-07-14 657.68
+Bill Monroe Hospital Matthew 2018-09-16 1175.62
+Bill Carter, Navarro and Barton Medical Group Chad 2016-04-04 203.66
+Bill Hughes, Morris and Johnston Health System Debra 2018-02-15 1257.97
+Bill Wright Karen 2017-04-06 996.67
+Bill Banner Gateway Medical Center Derrick 2010-05-11 143.65
+Bill Gonzalez, Hughes and Perkins Health Care Derek 2017-10-13 687.94
+Bill Roberts, Rodriguez and Randolph Health Care Jessica 2004-01-11 782.98
+Bill James, Clark and Flores Health System Adam 2002-04-07 151.20
+Bill Gay, Mitchell and Le Health System Allison 2003-06-18 244.75
+Bill Ball-Alexander Health System James 2020-01-24 1258.71
+Bill Stewart Clinic Jamie 2002-05-24 399.72
+Bill Stewart Clinic Allison 2004-04-05 1304.51
+Bill St Mary's Hospital At Amsterdam Ana 2021-07-10 1165.74
+Bill Garcia Health Care David 2021-02-16 313.12
+Bill Brigham City Community Hospital Mitchell 2020-03-09 1199.66
+Bill South Cameron Memorial Hospital Jake 2005-02-20 886.18
+Bill Phs Indian Hospital At Eagle Butte Lindsey 2015-11-26 1130.84
+Bill Hacienda Children's Hospital, Inc. Debbie 2019-03-21 1034.53
+Bill Nichols, Hunter and Jones Medical Group Lindsey 2013-12-19 236.22
+Bill Cox, Garner and Patterson Clinic Krystal 2007-09-17 471.89
+Bill Clark Memorial Hospital Nicole 2006-10-17 1295.95
+Bill Fairbanks Memorial Hospital Tina 2018-12-02 1162.42
+Bill Anderson-Morales Health System Mark 2019-08-08 736.98
+Bill Cisneros, Haley and Reid Alyssa 2011-09-22 775.72
+Member Marisa
+Bill Pushmataha County Town Of Antlers Hospital Andrea 2004-11-09 266.75
+Bill Lallie Kemp Medical Center Bobby 2005-06-05 1257.53
+Bill Bridges-Tran Patrick 2005-06-12 617.11
+Bill Ballinger Memorial Hospital Tara 2007-04-06 862.79
+Bill Hernandez, Mendoza and Carr Health Care Brittany 2008-12-21 485.53
+Bill Covenant Hospital Plainview Gabrielle 2002-12-21 631.16
+Bill The Hospitals Of Providence Transmountain Campus Janet 2008-04-18 1394.85
+Bill Community Memorial Hospital Medical Center Amy 2021-06-04 1088.09
+Bill Mercy Medical Center-clinton Jennifer 2018-03-21 1330.96
+Bill Ronald Reagan U C L A Medical Center Jamie 2013-06-15 1319.96
+Bill Dixon-Little Matthew 2009-05-12 520.09
+Bill Woods-Dixon Health Care Kyle 2016-11-03 210.84
+Bill Herrera Medical Group Allison 2004-11-26 1144.31
+Bill The Hospitals Of Providence Transmountain Campus Emma 2001-01-07 149.83
+Bill Lallie Kemp Medical Center Adrienne 2005-12-15 1356.78
+Bill Lewis-Castro Health System Robyn 2013-11-11 1400.12
+Bill Jensen Gary 2007-12-05 555.15
+Bill Edwards-Ramirez Health Care Julian 2005-06-14 204.18
+Bill The Hospitals Of Providence Transmountain Campus Kelly 2002-01-30 195.58
+Bill Idaho Doctors Hospital Robert 2003-09-27 829.38
+Bill Moore-Jones Medical Group Vanessa 2014-10-26 507.09
+Bill Cain-Jones Health System Donna 2021-07-15 267.08
+Bill Banner Gateway Medical Center Ann 2002-07-17 794.99
+Bill Lallie Kemp Medical Center Vanessa 2008-04-11 1334.35
+Bill Thomas Health System Amber 2017-06-19 150.67
+Bill Oconnor Tina 2006-09-10 1116.37
+Bill Freeman Neosho Hospital Jennifer 2017-08-29 892.24
+Bill Barrett Medical Group Katrina 2001-06-23 1309.87
+Bill Soto-Gonzalez Health System Mary 2004-05-06 452.35
+Bill Nichols, Hunter and Jones Medical Group Zachary 2003-12-29 1378.70
+Bill Estes-Sanchez Clinic Becky 2017-02-15 485.08
+Bill Smith County Memorial Hospital Gina 2016-01-09 205.23
+Bill Laredo Medical Center Michael 2019-01-08 885.92
+Bill Lopez-Wolfe Health System Allen 2008-12-05 160.43
+Bill Memorial Hospital Tamara 2017-11-22 1223.96
+Bill San Gabriel Valley Medical Center Julian 2015-08-01 555.78
+Bill Clark Memorial Hospital Antonio 2015-04-23 671.23
+Bill Jensen Victor 2008-10-07 613.82
+Bill Guam Memorial Hospital Authority Shane 2019-04-13 354.02
+Bill Ness County Hospital District #2 Lindsey 2004-09-12 779.47
+Bill Chavez, Johnson and Bray Health System Lindsey 2015-01-09 303.23
+Bill Sanford Vermillion Hospital Michele 2003-12-08 948.87
+Bill Serrano, Meyers and Miller Clinic Ray 2007-12-30 1177.70
+Bill Guthrie Towanda Memorial Hospital Victor 2010-06-06 1130.95
+Bill Bowman-Miller Steven 2007-07-26 925.70
+Bill University Of Washington Medical Ctr Amy 2010-02-09 1272.77
+Bill Cumberland Medical Center Kristi 2021-05-19 845.63
+Bill North Hawaii Community Hospital Thomas 2017-12-25 343.68
+Bill Hampton Regional Medical Center Roy 2019-01-18 435.11
+Bill St John Owasso Heather 2019-03-22 687.81
+Bill University Colo Health Memorial Hospital Central Jeffrey 2021-03-02 105.43
+Bill Fairbanks Memorial Hospital Antonio 2012-07-12 1208.27
+Bill Miranda-Cox Medical Group Allen 2007-10-13 841.13
+Bill Lopez-Wolfe Health System Kyle 2010-12-14 673.28
+Bill James, Clark and Flores Health System David 2000-12-13 888.29
+Bill Wright Medical Group Ray 2008-07-13 650.72
+Bill Oklahoma Heart Hospital South, Llc Sheryl 2004-09-18 961.77
+Bill Covenant Hospital Plainview Joe 2007-08-01 1275.79
+Bill Kansas Spine & Specialty Hospital, Llc Miguel 2020-12-19 296.25
+Bill Buckley Health System Rachel 2009-04-22 422.97
+Bill Fillmore County Hospital Kristie 2011-03-28 1165.55
+Bill Becker, Patterson and Williams Robyn 2011-12-26 1113.43
+Bill Multicare Valley Hospital David 2000-10-11 988.23
+Bill Pawnee County Memorial Hospital Jamie 2004-09-29 364.15
+Bill Riverside Community Hospital Gabrielle 2011-10-19 960.35
+Bill Bradley, Ortiz and Perry Clinic Thomas 2010-04-27 585.89
+Bill Rodriguez-Haas Clinic Julia 2008-08-10 810.74
+Bill Knox Beverly 2008-03-08 812.87
+Bill Woods-Dixon Health Care Crystal 2016-09-02 1327.94
+Bill Brown, Wright and Hurley Clinic Patricia 2013-10-16 1000.20
+Bill Great River Medical Center Jeffrey 2004-09-13 1297.29
+Bill Mcdowell-Thompson Health Care Sean 2001-06-24 1330.70
+Bill Dupont Hospital Llc Brittany 2009-04-05 917.14
+Bill Avery-Bailey Molly 2006-07-24 877.66
+Bill Mercy Medical Center-clinton Erik 2008-05-19 897.97
+Bill Mcdonald, Dominguez and Brown Clinic Janet 2014-05-10 925.07
+Bill Lewis Clinic Melissa 2006-10-24 944.74
+Bill Northern Nevada Medical Center Wendy 2011-01-07 435.76
+Bill Upmc Hamot Paula 2002-05-25 636.05
+Bill Walters, Miles and Nash Clinic Robert 2017-08-02 928.25
+Bill Brigham City Community Hospital Michael 2020-04-11 485.93
+Bill Kaiser Foundation Hospital And Rehab Center Rachel 2014-03-20 1034.35
+Bill Beth Israel Deaconess Hospital-milton Inc Brian 2019-12-09 1209.90
+Bill Nelson-Howard Health System Ana 2011-05-02 1176.55
+Bill Covenant Hospital Plainview Barry 2016-09-19 595.51
+Bill Guthrie Towanda Memorial Hospital Sara 2008-10-24 526.23
+Bill Avera Heart Hospital Of South Dakota Todd 2009-03-16 743.34
+Bill Laredo Medical Center Patrick 2015-10-06 1191.03
+Bill Riverside Community Hospital Jake 2010-04-13 433.80
+Bill Hacienda Children's Hospital, Inc. Jake 2008-12-05 573.41
+Bill Mayo Clinic Hlth System  Franciscan Med Ctr Michelle 2003-01-21 169.68
+Bill Nocona General Hospital Sheryl 2001-07-14 696.25
+Bill Bullock, Ryan and Estrada Health Care Kimberly 2017-06-06 441.86
+Bill Memorial Hospital Of Carbondale Sara 2013-06-25 1081.56
+Bill Lakeview Memorial Hospital Alejandro 2001-10-03 652.06
+Bill Roberts, Rodriguez and Randolph Health Care Karen 2009-09-18 113.43
+Bill Clements Health System Bobby 2016-05-30 810.47
+Bill Brown, Wright and Hurley Clinic Kristi 2011-06-15 538.73
+Bill Nanticoke Memorial Hospital Lauren 2020-11-21 981.06
+Bill Sanchez, Larson and Kent Medical Group Kenneth 2007-02-02 205.87
+Bill Kansas Spine & Specialty Hospital, Llc Jose 2011-09-30 1033.94
+Bill Clements Health System Michelle 2008-11-22 810.60
+Bill Mary Rutan Hospital Maria 2003-11-09 201.46
+Bill Lewis Clinic Sharon 2003-08-08 368.91
+Bill St John Owasso Monica 2006-12-06 1187.88
+Bill Davis Clinic George 2021-05-08 1320.92
+Bill Carter, Navarro and Barton Medical Group Kevin 2004-09-03 1281.82
+Bill Northwestern Memorial Hospital Anthony 2020-10-24 1312.08
+Bill Bullock, Ryan and Estrada Health Care Anna 2015-09-05 730.18
+Bill Shawnee Mission Medical Center Jose 2002-09-20 324.79
+Bill Kansas Spine & Specialty Hospital, Llc Jamie 2003-08-31 234.85
+Bill Phs Indian Hospital At Eagle Butte Ruth 2002-12-13 948.64
+Bill Franklin Health Care Gabrielle 2010-12-15 1371.43
+Bill Miller, Terry and Brown Clinic Joseph 2007-11-05 356.43
+Bill Kaiser Foundation Hospital And Rehab Center Jamie 2017-12-10 728.01
+Bill Hillsboro Community Hospital Miranda 2016-04-10 1007.75
+Bill Bowman-Miller Benjamin 2014-03-17 231.00
+Bill Serrano, Meyers and Miller Clinic Thomas 2001-01-08 1047.84
+Bill Ball-Alexander Health System Derek 2008-05-20 1062.57
+Bill Adams, Petty and Nelson Timothy 2020-01-17 233.28
+Bill Freeman Neosho Hospital Timothy 2021-08-29 1199.75
+Bill Thompson-Padilla Medical Group David 2006-07-13 319.16
+Bill Carson Tahoe Regional Medical Center Maria 2016-05-31 343.97
+Bill Garrison-Phillips Health Care Shari 2020-05-12 439.39
+Bill Valley Children's Hospital Micheal 2008-06-14 1164.50
+Bill Multicare Valley Hospital Allen 2006-12-13 800.21
+Bill Buckley Health System Rachel 2007-03-16 103.62
+Bill Banner Gateway Medical Center Tina 2000-10-23 351.16
+Bill St John Owasso Antonio 2012-12-27 1048.53
+Bill Regional West Garden County Hospital Katrina 2005-06-06 1220.32
+Bill Dupont Hospital Llc Tina 2001-01-19 1095.40
+Bill Ness County Hospital District #2 Amber 2000-11-07 650.24
+Bill Bean, Cohen and Owens Health System Beverly 2017-08-18 666.92
+Bill Memorial Hermann Texas Medical Center Randy 2009-01-14 1091.31
+Bill Ibarra Health Care Gina 2008-01-21 394.98
+Bill Bullock, Ryan and Estrada Health Care Matthew 2018-01-18 978.20
+Bill Jefferson Hospital Adrienne 2016-12-16 1105.03
+Bill Davis, Keith and Weaver Sara 2013-10-04 407.67
+Bill University Of Washington Medical Ctr Blake 2003-02-27 977.29
+Bill Dixon-Little Micheal 2020-05-10 374.49
+Bill Bullock, Ryan and Estrada Health Care Dana 2010-02-27 196.11
+Bill Memorial Hospital Joann 2013-10-07 554.42
+Bill Riverside Community Hospital Ryan 2019-08-22 422.06
+Bill Wright Medical Group Patrick 2017-08-22 820.19
+Bill University Of Washington Medical Ctr Lindsay 2002-12-22 1388.55
+Bill Gonzalez, Hughes and Perkins Health Care Donald 2009-06-17 943.99
+Bill Nocona General Hospital Steven 2011-11-26 288.13
+Bill Hospital Metropolitano San German Shannon 2003-03-22 400.28
+Bill Jones, Randolph and Wallace Clinic Becky 2011-06-12 734.77
+Bill Gonzalez, Hughes and Perkins Health Care Samantha 2009-10-19 1196.54
+Bill Stringfellow Memorial Hospital Jake 2004-05-14 162.89
+Bill Nichols-Hill Health Care Allen 2008-02-20 557.70
+Bill Mcdowell-Thompson Health Care Christopher 2013-08-28 382.16
+Bill Wright Medical Group Eric 2009-02-13 796.17
+Bill Sanchez, Larson and Kent Medical Group Gloria 2015-04-24 1152.22
+Bill University Colo Health Memorial Hospital Central Tracy 2015-02-12 1382.34
+Bill Edwards-Ramirez Health Care Samantha 2016-03-25 373.28
+Bill Lewis Clinic Ryan 2009-03-20 105.30
+Bill Riverside Community Hospital Anna 2014-08-22 1312.50
+Bill Buckley Health System Shari 2008-08-15 1270.70
+Bill Mary Rutan Hospital Brandon 2021-03-27 826.12
+Bill Yuma District Hospital Danny 2004-07-18 1192.38
+Bill Reynolds, Alvarez and Morrison Health System Benjamin 2002-07-27 1079.45
+Bill Lewis Clinic Derrick 2009-05-29 1029.20
+Bill Cumberland Medical Center Danny 2001-10-24 353.75
+Bill Inova Mount Vernon Hospital Anthony 2019-07-17 1399.49
+Bill Ness County Hospital District #2 Joyce 2012-06-12 889.07
+Bill Carter, Navarro and Barton Medical Group Jamie 2014-11-25 967.78
+Bill Union Medical Center Robyn 2011-01-16 1156.16
+Bill San Gabriel Valley Medical Center Julie 2007-12-27 1107.22
+Bill Rivera, Jordan and Nelson Health Care Edward 2014-04-21 1358.57
+Bill Middle Park Medical Center Amanda 2014-02-19 699.10
+Bill Baldwin, Miller and Mckenzie Cheryl 2015-04-08 276.23
+Bill Jackson-Benson Health Care Joe 2014-03-16 987.07
+Bill Hacienda Children's Hospital, Inc. Brian 2010-02-19 189.23
+Bill Regional West Garden County Hospital Andrew 2018-09-15 789.60
+Bill Walters, Miles and Nash Clinic Ricky 2001-06-26 520.65
+Bill Williams, Fischer and Hayes Health System Brian 2015-07-29 633.50
+Bill Dupont Hospital Llc Victor 2013-05-05 330.51
+Bill Mcdaniel, Taylor and Sosa Health Care Antonio 2007-08-24 811.53
+Bill Patel-Munoz Sheryl 2015-07-19 757.34
+Bill Mary Rutan Hospital Margaret 2019-09-24 1257.60
+Bill Mcdaniel, Taylor and Sosa Health Care Ana 2001-12-28 1151.73
+Bill Bradley, Ortiz and Perry Clinic Derek 2012-08-13 717.80
+Bill Garcia Health Care Sheryl 2020-01-10 126.91
+Bill Jackson-Benson Health Care Joshua 2003-04-01 1340.00
+Bill Woods-Dixon Health Care Pamela 2012-03-23 643.58
+Bill Phs Indian Hospital At Eagle Butte Zachary 2008-12-20 1097.20
+Bill Clark Memorial Hospital Patrick 2011-03-18 558.71
+Bill Sanford Vermillion Hospital Benjamin 2005-05-27 1289.26
+Bill Memorial Hermann Texas Medical Center Anthony 2011-08-17 1125.69
+Bill Jefferson Hospital Amy 2017-10-08 882.95
+Bill Robbins Medical Group Krystal 2009-12-09 932.33
+Bill Milford Regional Medical Center Patricia 2019-04-04 928.21
+Bill Thompson-Padilla Medical Group Amy 2000-10-08 219.12
+Bill Reynolds, Alvarez and Morrison Health System Antonio 2017-04-10 401.25
+Bill Avera Heart Hospital Of South Dakota Nathan 2019-05-11 737.21
+Bill Fillmore County Hospital Grant 2002-10-05 1169.91
+Bill St Mary's Hospital At Amsterdam Tracy 2008-12-29 1116.51
+Bill Herrera Medical Group Janet 2004-03-04 1093.72
+Bill Adams-Mejia Clinic Kayla 2014-09-03 834.40
+Bill Barrett Medical Group Tyler 2014-02-04 419.14
+Bill Desert View Hospital Mary 2014-03-25 174.98
+Bill Lester, Hebert and Duran Health System Janet 2009-08-14 198.23
+Bill Guam Memorial Hospital Authority Jake 2021-06-30 566.21
+Bill Carson Tahoe Regional Medical Center Sabrina 2005-06-30 815.29
+Bill Chinle Comprehensive Health Care Facility Rachel 2018-03-04 343.84
+Bill St John Owasso Edward 2003-10-27 569.73
+Bill Piedmont Newton Hospital Katrina 2014-05-17 520.92
+Bill Serrano, Meyers and Miller Clinic Adrienne 2015-09-06 1122.33
+Bill Garrison-Phillips Health Care Kelly 2008-03-22 867.24
+Bill Parkland Health And Hospital System Laura 2005-09-20 896.37
+Bill Guam Memorial Hospital Authority Pamela 2020-05-15 925.13
+Bill Mckenzie Health System Alison 2004-12-20 1231.23
+Bill Knight-Butler Medical Group Megan 2007-05-28 967.03
+Bill Woods-Dixon Health Care Jessica 2001-10-16 646.80
+Bill Nichols, Hunter and Jones Medical Group Dennis 2006-03-19 360.16
+Bill Banner Gateway Medical Center Johnny 2011-12-07 774.60
+Bill Anderson-Morales Health System Alejandro 2001-05-21 1118.01
+Bill Cox, Garner and Patterson Clinic Sheryl 2014-12-16 904.52
+Bill Gay, Mitchell and Le Health System Kayla 2013-03-17 1241.74
+Bill South Texas Surgical Hospital Julian 2000-11-02 165.46
+Bill Ibarra Health Care Anthony 2005-09-22 506.87
+Bill Robbins Medical Group Amber 2012-12-04 1072.18
+Bill Castro, Meyer and Schroeder Health Care Anthony 2009-10-02 152.87
+Bill Ibarra Health Care Virginia 2002-01-04 657.53
+Bill Chippewa County War Memorial Hospital Katrina 2015-11-14 752.90
+Bill St Mary's Hospital At Amsterdam Christopher 2009-04-17 1395.63
+Bill Foundation Surgical Hospital Of San Antonio Pamela 2001-05-15 803.85
+Bill Harper County Community Hospital Robert 2001-01-11 128.04
+Bill Clark Memorial Hospital Maria 2002-08-12 1271.93
+Bill Ronald Reagan U C L A Medical Center Shannon 2008-08-05 843.92
+Bill Davis-Schneider Health Care Michelle 2018-12-15 715.75
+Bill South Cameron Memorial Hospital Amy 2013-07-25 1198.84
+Bill Smith County Memorial Hospital Robyn 2008-10-16 1341.26
+Bill Ronald Reagan U C L A Medical Center Micheal 2008-07-05 970.60
+Bill Regional West Garden County Hospital Regina 2010-04-10 778.28
+Bill Davis Regional Medical Center Brandon 2004-01-28 844.63
+Bill Nelson-Howard Health System Kayla 2019-05-15 228.23
+Bill Thompson-Padilla Medical Group Robert 2005-06-07 147.03
+Bill Dupont Hospital Llc Brian 2011-10-23 856.04
+Bill Memorial Hospital Of Carbondale Kevin 2016-11-06 1132.58
+Bill Riverside Community Hospital Ruth 2015-07-16 838.93
+Bill Ibarra Health Care Christina 2018-01-11 723.06
+Bill Becker, Patterson and Williams Kevin 2006-09-28 1161.93
+Bill Great River Medical Center Thomas 2019-09-25 422.66
+Bill Bullock, Ryan and Estrada Health Care Joyce 2015-06-25 91.15
+Bill Mary Immaculate Hospital Sara 2009-04-18 241.91
+Bill Monroe Hospital Michael 2015-10-30 1313.63
+Bill Hampton Regional Medical Center Grant 2008-07-14 155.50
+Bill Cain-Jones Health System Miranda 2009-05-08 343.83
+Bill Shawnee Mission Medical Center Erik 2013-07-26 1183.17
+Bill Thomas Health System Tina 2005-12-04 1320.21
+Bill Gonzalez Health System John 2013-11-20 567.51
+Bill Brigham City Community Hospital Kevin 2015-03-02 1175.56
+Bill Bullock, Ryan and Estrada Health Care Todd 2008-01-11 428.20
+Bill Fairbanks Memorial Hospital Jamie 2015-06-10 754.59
+Bill Davis, Keith and Weaver Antonio 2014-01-22 1027.02
+Bill Nichols, Hunter and Jones Medical Group Brenda 2015-08-04 1132.23
+Bill Rivera, Jordan and Nelson Health Care Sharon 2001-05-11 1247.97
+Bill Nichols, Hunter and Jones Medical Group Lauren 2007-03-12 235.45
+Bill Hampton Regional Medical Center Victoria 2002-01-05 839.99
+Bill Miller Health Care Sara 2021-07-01 510.43
+Bill Chicot Memorial Medical Center Regina 2005-09-22 1119.87
+Bill Santa Clara Valley Medical Center Lisa 2013-04-08 617.74
+Bill Freeman Neosho Hospital Debbie 2005-07-27 432.68
+Bill Mercy Medical Center-clinton Edward 2011-09-29 1307.01
+Bill Cartersville Medical Center Matthew 2019-08-21 906.33
+Bill Reynolds, Alvarez and Morrison Health System Cynthia 2007-03-25 487.96
+Bill Faulkner-Munoz Health Care Blake 2007-06-04 508.73
+Bill Parkland Health And Hospital System Michael 2010-04-14 106.08
+Bill Kaiser Foundation Hospital And Rehab Center Miguel 2017-02-24 976.63
+Bill Fillmore County Hospital Donald 2020-09-09 233.80
+Bill Miranda-Cox Medical Group Jamie 2003-10-29 1190.03
+Bill Stewart Clinic Kelly 2015-07-11 216.82
+Bill Reynolds Medical Group Bobby 2005-07-21 211.17
+Bill Knight-Butler Medical Group Ashley 2011-10-08 333.91
+Bill Brown, Wright and Hurley Clinic Sean 2010-02-25 341.10
+Bill Adams, Petty and Nelson Gregory 2012-01-19 932.96
+Bill Becker, Patterson and Williams Diane 2007-11-07 153.35
+Bill Thomas Health System Maria 2018-03-21 972.27
+Bill Roberts, Rodriguez and Randolph Health Care Gloria 2001-11-12 1400.86
+Bill Gonzalez, Hughes and Perkins Health Care Alejandro 2009-03-05 1330.73
+Bill Union Medical Center Adrienne 2001-12-21 898.04
+Bill Hamilton Hospital Debbie 2020-09-27 967.61
+Bill Robbins Medical Group Allison 2002-11-16 685.58
+Bill Avery-Bailey April 2013-02-19 476.50
+Bill Martinez-Lynch Health Care Molly 2010-07-10 592.50
+Bill Walters, Miles and Nash Clinic Aaron 2008-02-26 1132.20
+Bill Hall-Jones Medical Group Monica 2013-05-13 1273.70
+Bill Covenant Hospital Plainview Paula 2015-05-01 453.83
+Bill Reynolds, Alvarez and Morrison Health System Janet 2014-03-24 151.75
+Bill Martin-Jimenez Clinic Matthew 2004-02-02 353.36
+Bill Meyer Clinic Gloria 2012-05-15 128.48
+Bill Keith Clinic Allison 2011-05-02 92.11
+Bill Miranda-Cox Medical Group Sharon 2021-04-02 1029.66
+Bill Thomas Health System Marisa 2010-07-13 977.97
+Bill Faulkner-Munoz Health Care Tyler 2006-11-15 858.94
+Bill Bean, Cohen and Owens Health System Shawn 2008-02-12 519.75
+Bill University Colo Health Memorial Hospital Central Julie 2010-09-27 778.90
+Bill Castillo, Hayes and Williams Health Care Andrew 2005-12-27 338.12
+Bill Johnson Memorial Hospital Nicole 2006-04-14 1260.04
+Bill Meyer Clinic Kristie 2015-04-14 999.20
+Bill Miranda-Cox Medical Group Megan 2011-08-19 965.33
+Bill Mary Rutan Hospital Lindsey 2012-02-28 381.34
+Bill Davis, Keith and Weaver Diane 2016-10-29 778.08
+Bill Multicare Valley Hospital Jeffrey 2014-05-16 1184.77
+Bill Jones, Randolph and Wallace Clinic Gary 2010-08-04 1085.41
+Bill Firsthealth Montgomery Memorial Hosp Anna 2001-06-18 750.29
+Bill Nichols, Hunter and Jones Medical Group Nicole 2003-12-28 473.24
+Bill Davis Health Care Matthew 2001-03-02 162.10
+Bill Ibarra Health Care Benjamin 2019-11-02 1058.74
+Bill Avery-Bailey Shawn 2011-05-05 1372.06
+Bill Adams-Ford Health System Mitchell 2004-09-30 1021.23
+Bill Hall-Jones Medical Group Ruth 2009-02-22 635.41
+Bill Castillo, Hayes and Williams Health Care Johnny 2016-08-19 1245.31
+Bill Harper County Community Hospital Robyn 2010-04-23 685.95
+Bill Mcdaniel, Taylor and Sosa Health Care Sean 2003-03-09 898.00
+Bill Regional West Garden County Hospital Sheryl 2013-10-20 313.35
+Bill Hernandez, Mendoza and Carr Health Care Brian 2008-12-26 718.12
+Bill Walters, Miles and Nash Clinic Miguel 2009-11-10 1236.51
+Bill Keith Clinic Antonio 2006-12-08 1061.32
+Bill Faulkner-Munoz Health Care Antonio 2008-06-11 429.95
+Bill Bridges-Tran Lauren 2011-09-07 1126.30
+Bill Cartersville Medical Center Walter 2011-02-11 462.65
+Bill Medstar Southern Maryland Hospital Center Sharon 2019-05-05 795.18
+Bill Foundation Surgical Hospital Of San Antonio Monica 2014-01-01 466.82
+Bill Jensen Emily 2014-08-30 808.93
+Bill Solis Clinic Daniel 2001-10-23 256.85
+Bill Multicare Valley Hospital Adrienne 2015-04-10 1116.91
+Bill Williams, Fischer and Hayes Health System Monica 2002-03-18 1238.05
+Bill Mount Sinai Beth Israel Aaron 2018-05-09 1367.08
+Bill Bean, Cohen and Owens Health System Kristi 2012-10-01 922.42
+Bill Mcdaniel, Taylor and Sosa Health Care Tyler 2004-12-27 1217.03
+Bill San Gabriel Valley Medical Center Sara 2016-06-08 494.92
+Bill Bridges-Tran Zachary 2002-03-11 1127.66
+Bill Phs Indian Hospital At Eagle Butte Kevin 2016-07-17 903.77
+Bill Mercy Medical Center-clinton Stephen 2005-07-19 1088.05
+Bill Firsthealth Montgomery Memorial Hosp Karen 2004-05-04 315.96
+Bill Davis Health Care Dana 2005-10-04 993.63
+Bill Rivera, Jordan and Nelson Health Care Kelly 2016-12-04 219.93
+Bill Nichols-Hill Health Care Beverly 2019-12-03 375.31
+Bill Memorial Hospital Of Carbondale Dana 2017-10-12 1155.71
+Bill Harper County Community Hospital Donald 2004-02-28 213.25
+Bill Woods-Dixon Health Care Vanessa 2004-09-14 267.06
+Bill Upmc Hamot Debra 2001-07-27 620.64
+Bill Cisneros, Haley and Reid Ethan 2006-06-16 208.49
+Bill Idaho Doctors Hospital Tyler 2012-11-24 361.73
+Bill Knox Rachel 2016-06-17 1039.66
+Bill Gay, Mitchell and Le Health System Sara 2013-09-21 472.73
+Bill Davis Regional Medical Center Sharon 2017-02-15 960.31
+Bill Banner Gateway Medical Center Andrew 2003-09-18 644.98
+Bill Nichols, Hunter and Jones Medical Group Debbie 2014-06-19 720.59
+Bill Rodriguez-Haas Clinic Barry 2011-04-11 784.97
+Bill Gay, Mitchell and Le Health System Regina 2003-08-23 1193.19
+Bill Franklin Health Care Derrick 2018-01-23 1221.09
+Bill Chinle Comprehensive Health Care Facility Julian 2000-10-18 1282.22
+Bill Ibarra Health Care Gina 2019-01-27 981.02
+Bill Ibarra Health Care Crystal 2007-05-24 608.92
+Bill Inova Mount Vernon Hospital Bryan 2009-12-13 1045.72
+Bill Kahuku Medical Center Zachary 2006-03-05 401.26
+Bill Kahuku Medical Center David 2017-01-31 197.56
+Bill Bullock, Ryan and Estrada Health Care Zachary 2006-04-08 1112.99
+Bill Middle Park Medical Center Pamela 2012-09-16 446.18
+Bill Freeman Neosho Hospital Steven 2000-12-10 1386.27
+Bill Cox, Garner and Patterson Clinic Sara 2014-01-29 103.33
+Bill Hillsboro Community Hospital Tammy 2004-11-24 1089.50
+Bill Reynolds, Alvarez and Morrison Health System Stephanie 2015-12-17 300.41
+Bill Mcdowell-Thompson Health Care Derek 2015-11-23 1360.97
+Bill Rivera, Jordan and Nelson Health Care Sharon 2004-05-17 978.61
+Bill Chicot Memorial Medical Center Dana 2001-05-05 1393.44
+Bill Union Medical Center Shane 2011-12-24 482.69
+Bill Lallie Kemp Medical Center Diane 2021-01-05 970.94
+Bill Wright Manuel 2012-10-30 1165.34
+Bill Edwards-Ramirez Health Care Shari 2008-07-15 1278.76
+Bill Ibarra Health Care Katrina 2008-04-14 557.75
+Bill Shriners Hospitals For Children Lauren 2007-06-20 240.70
+Bill Mercy Hospital Logan County, Inc Tammy 2019-03-17 1134.80
+Bill South Texas Surgical Hospital Gabrielle 2005-02-13 1227.54
+Bill Stewart Clinic Aaron 2004-03-02 196.78
+Bill Wright Medical Group Bobby 2003-10-24 1328.23
+Bill Hacienda Children's Hospital, Inc. George 2013-03-07 259.80
+Bill Dupont Hospital Llc Micheal 2007-02-03 240.33
+Bill Mcdaniel, Taylor and Sosa Health Care Gary 2009-07-23 1268.57
+Bill Uchealth Yampa Valley Medical Center Micheal 2002-09-30 1368.88
+Bill Adams-Mejia Clinic James 2004-11-03 863.36
+Bill Mcdaniel, Taylor and Sosa Health Care Ricky 2016-01-01 169.80
+Bill Chavez, Johnson and Bray Health System Patrick 2021-04-15 355.48
+Bill Adams, Petty and Nelson Beverly 2012-07-20 916.28
+Bill Mcdowell-Thompson Health Care Debbie 2015-12-02 618.58
+Bill Brown Rachel 2015-04-29 922.95
+Bill Oklahoma Heart Hospital South, Llc Adam 2017-09-02 1237.34
+Bill Brigham City Community Hospital Ana 2007-07-06 661.32
+Bill Walters, Miles and Nash Clinic Cynthia 2017-12-01 645.85
+Bill Estes-Sanchez Clinic Kristie 2017-10-06 868.53
+Bill Ness County Hospital District #2 Alison 2011-11-07 670.18
+Bill Woods-Dixon Health Care Jeremy 2009-01-19 1179.55
+Bill Garcia Health Care Tammy 2017-08-12 105.13
+Bill Walters, Miles and Nash Clinic Mark 2002-01-24 549.86
+Bill Upmc Hamot Miguel 2020-07-21 1397.10
+Bill Monroe Hospital Sara 2018-02-17 807.40
+Bill Gonzalez Health System Tyler 2017-09-08 910.63
+Bill Patel-Munoz Stephen 2006-05-25 643.59
+Bill Moore-Jones Medical Group Robert 2020-02-19 327.86
+Bill Adams-Mejia Clinic Emma 2009-03-20 587.11
+Bill Castro, Meyer and Schroeder Health Care Vanessa 2020-10-14 994.01
+Bill Northern Nevada Medical Center Dana 2002-01-12 1083.77
+Bill Solis Clinic Denise 2013-02-04 350.06
+Bill Saint Joseph Mount Sterling Bryan 2019-11-15 1377.98
+Bill Miller, Terry and Brown Clinic Robert 2007-10-26 403.92
+Bill South Cameron Memorial Hospital Derek 2021-10-08 1239.87
+Bill Buckley Health System Curtis 2018-02-07 834.93
+Bill Hospital Metropolitano San German Julian 2006-09-04 1195.00
+Bill Jones, Randolph and Wallace Clinic Patrick 2016-08-20 204.21
+Bill Brown Jeremiah 2016-05-30 259.71
+Bill Desert View Hospital Erik 2011-12-15 1347.90
+Bill Miller Health Care Derrick 2006-01-15 1122.17
+Bill Fairbanks Memorial Hospital Johnny 2012-02-06 777.82
+Bill Mary Immaculate Hospital Shane 2020-06-25 955.14
+Bill St Mary's Hospital At Amsterdam Steven 2000-12-05 756.02
+Bill Clark Memorial Hospital Robyn 2014-09-02 114.65
+Bill Thomas Health System Zachary 2019-02-07 953.71
+Bill Davis Regional Medical Center Kent 2018-12-22 516.88
+Bill Rodriguez-Haas Clinic Diane 2001-05-21 834.20
+Bill Shriners Hospitals For Children Jeremy 2010-05-20 1245.92
+Bill South Texas Surgical Hospital Gerald 2012-10-19 417.64
+Bill Jefferson Hospital Donald 2020-02-14 1092.97
+Bill Johnson Memorial Hospital Dana 2013-04-02 1081.59
+Bill Lopez-Wolfe Health System Kimberly 2007-11-20 664.84
+Bill Nash, Mason and Diaz Clinic Justin 2017-05-08 447.84
+Bill Woods-Dixon Health Care Sabrina 2016-08-09 1336.95
+Bill Novant Health Forsyth Medical Center Julie 2011-02-26 1157.51
+Bill Pawnee County Memorial Hospital Andrew 2018-05-11 668.72
+Bill Middle Park Medical Center Sean 2020-08-29 1325.49
+Bill Miller Health Care Blake 2013-10-17 99.19
+Bill Cartersville Medical Center Paula 2015-10-14 993.59
+Bill Hillsboro Community Hospital Joseph 2008-05-08 266.03
+Bill Wright Medical Group Maria 2010-05-20 502.81
+Bill Foundation Surgical Hospital Of San Antonio Pamela 2019-12-18 1312.86
+Bill Clark Memorial Hospital Kristie 2006-10-18 1187.38
+Bill Walters, Miles and Nash Clinic Mark 2006-09-08 948.63
+Bill Johnson Memorial Hospital Kyle 2012-08-01 829.90
+Bill Nanticoke Memorial Hospital Bryan 2000-12-13 793.36
+Bill Lopez-Wolfe Health System Allison 2009-01-08 982.81
+Bill North Hawaii Community Hospital Sharon 2015-03-29 1260.54
+Bill Baldwin, Miller and Mckenzie Patrick 2008-07-06 669.57
+Bill Mcdowell-Thompson Health Care Tim 2020-05-09 652.39
+Bill Mayo Clinic Hlth System  Franciscan Med Ctr Samantha 2019-06-23 140.64
+Bill James, Clark and Flores Health System Pamela 2015-10-04 1228.63
+Bill Laredo Medical Center Ashley 2008-07-15 631.28
+Bill Baldwin, Miller and Mckenzie Beverly 2021-07-25 311.05
+Bill Mcdaniel, Taylor and Sosa Health Care Kristie 2013-12-15 938.95
+Bill Hamilton Hospital Julian 2020-02-23 717.84
+Bill Covenant Hospital Plainview Emily 2014-09-18 1128.06
+Bill Yuma District Hospital Barry 2021-08-13 695.84
+Bill Martin-Jimenez Clinic Donna 2008-02-01 1173.65
+Bill Cartersville Medical Center Anne 2021-01-29 1384.46
+Bill Miranda-Cox Medical Group Shane 2011-10-07 1120.23
+Bill Davis Regional Medical Center Joseph 2008-02-18 1331.92
+Bill Seattle Children's Hospital Michael 2014-07-26 460.57
+Bill Shawnee Mission Medical Center Alison 2021-09-26 118.87
+Bill Nanticoke Memorial Hospital Mary 2013-11-13 1325.26
+Bill Stephens Memorial Hospital Alison 2001-02-26 1050.16
+Bill Stringfellow Memorial Hospital Richard 2011-09-05 407.47
+Bill North Hawaii Community Hospital Danny 2016-10-08 610.94
+Bill Kahuku Medical Center Allison 2011-03-02 1218.20
+Bill Torres, Gonzalez and Bush Medical Group Andrea 2021-01-20 530.84
+Bill W W Hastings Indian Hospital Zachary 2007-10-13 315.94
+Bill Memorial Hospital Of Carbondale Sherry 2010-03-19 494.51
+Bill Becker, Patterson and Williams Jill 2017-04-20 464.43
+Bill Bean, Cohen and Owens Health System Lisa 2014-03-16 939.49
+Bill Kaiser Foundation Hospital And Rehab Center Bobby 2012-04-23 989.53
+Bill Multicare Valley Hospital Erik 2008-02-17 1258.73
+Bill Davis Health Care Derrick 2001-02-18 905.22
+Bill James, Clark and Flores Health System Andrew 2020-09-04 295.88
+Bill South Texas Surgical Hospital Roy 2012-12-31 1250.63
+Bill Reynolds Medical Group Joyce 2001-07-29 1000.40
+Bill Davis-Schneider Health Care Patrick 2014-05-14 1128.27
+Bill Baldwin, Miller and Mckenzie Tim 2003-08-20 1055.59
+Bill Sanchez, Larson and Kent Medical Group Jonathan 2009-07-08 1141.25
+Bill Buckley Health System Kenneth 2012-02-04 322.41
+Bill Beth Israel Deaconess Hospital-milton Inc Thomas 2000-11-28 384.69
+Bill Pushmataha County Town Of Antlers Hospital George 2016-07-06 343.76
+Bill Nanticoke Memorial Hospital Roy 2003-03-25 1208.89
+Bill Kaiser Foundation Hospital And Rehab Center Tamara 2004-02-08 917.26
+Bill Chinle Comprehensive Health Care Facility Andrew 2018-08-04 466.01
+Bill Oklahoma Heart Hospital South, Llc Grant 2020-07-29 211.75
+Bill North Hawaii Community Hospital Warren 2006-04-24 398.61
+Bill University Colo Health Memorial Hospital Central Rachel 2003-06-29 965.48
+Bill Shawnee Mission Medical Center Monica 2018-11-26 555.31
+Bill Sanford Vermillion Hospital Shane 2003-03-09 1025.43
+Bill Gay, Mitchell and Le Health System Anna 2021-01-06 1039.39
+Bill Lakeview Memorial Hospital Sheryl 2010-02-19 461.44
+Bill Miller Health Care Mary 2014-06-12 1020.83
+Bill Nocona General Hospital Diane 2006-09-20 594.22
+Bill Dupont Hospital Llc Micheal 2021-09-09 1395.96
+Bill Sanford Vermillion Hospital Curtis 2000-10-02 669.30
+Bill Meyer Clinic Thomas 2008-03-10 1010.61
+Bill Harris Health System Olivia 2019-07-29 670.49
+Bill Avera Heart Hospital Of South Dakota Jose 2021-06-02 407.01
+Bill Phs Indian Hospital At Eagle Butte Gloria 2009-01-18 626.58
+Bill University Of Washington Medical Ctr Kristi 2004-04-21 139.64
+Bill Desert View Hospital Jeffrey 2015-05-28 1131.81
+Bill Phs Indian Hospital At Eagle Butte Shannon 2010-09-06 924.26
+Bill Williams, Fischer and Hayes Health System Johnny 2013-03-22 1287.80
+Bill Thompson-Padilla Medical Group Bryan 2008-01-27 1250.93
+Bill Pawnee County Memorial Hospital Tiffany 2018-06-17 1206.91
+Bill Seattle Children's Hospital John 2001-04-01 161.12
+Bill Davis Health Care Jennifer 2017-10-02 322.02
+Bill Cain-Jones Health System Susan 2000-10-10 466.97
+Bill Ronald Reagan U C L A Medical Center Ruth 2018-08-18 1044.44
+Bill Hillsboro Community Hospital Gabrielle 2011-04-14 1255.45
+Bill Bradley, Ortiz and Perry Clinic Mary 2020-09-08 1102.21
+Bill Hernandez, Mendoza and Carr Health Care Maria 2019-01-21 1096.47
+Bill Bond-Goodman Clinic Tammy 2015-02-14 239.24
+Bill San Gabriel Valley Medical Center Antonio 2007-08-23 716.70
+Bill Faulkner-Munoz Health Care Heather 2010-05-05 243.81
+Bill Stewart Clinic Kent 2013-02-26 1112.29
+Bill Mercy Medical Center-clinton Kelly 2007-07-27 758.39
+Bill Clements Health System George 2015-05-12 212.16
+Bill Davis Regional Medical Center Allen 2015-04-25 735.59
+Bill Chavez, Johnson and Bray Health System Christopher 2017-10-20 217.88
+Bill Lewis-Castro Health System Ana 2003-07-18 419.73
+Bill Clements Health System Nathaniel 2006-03-07 177.86
+Bill Cain-Jones Health System Randy 2012-05-27 1251.91
+Bill Idaho Doctors Hospital Karen 2017-12-22 359.35
+Bill University Of Washington Medical Ctr Lindsey 2016-01-28 619.33
+Bill Jensen Grant 2001-08-07 545.49
+Bill Foundation Surgical Hospital Of San Antonio Cheryl 2004-07-29 1173.27
+Bill South Texas Surgical Hospital Alison 2007-06-06 1005.46
+Bill Davis Regional Medical Center Jack 2015-07-12 1369.04
+Bill Fillmore County Hospital Shannon 2011-07-26 373.73
+Bill The Hospitals Of Providence Transmountain Campus Becky 2001-01-25 1371.83
+Bill Soto-Gonzalez Health System Susan 2011-05-31 776.06
+Bill Great River Medical Center Teresa 2003-03-03 632.12
+Bill Johnson Memorial Hospital Allison 2013-10-30 1273.68
+Bill Beth Israel Deaconess Hospital-milton Inc Molly 2019-02-05 391.39
+Bill Roberts, Rodriguez and Randolph Health Care Margaret 2002-02-06 414.96
+Bill Piedmont Newton Hospital Amy 2007-10-11 313.63
+Bill Mary Immaculate Hospital Jeffrey 2004-07-04 439.84
+Bill Brown Rachel 2017-10-31 1283.69
+Bill Soto-Gonzalez Health System Tyler 2003-07-18 1342.45
+Bill Harris Health System Brian 2000-11-06 808.95
+Bill Rodriguez-Haas Clinic Kristie 2020-05-16 392.63
+Bill Foundation Surgical Hospital Of San Antonio Brittany 2006-11-21 675.61
+Bill Lewis-Castro Health System Allen 2016-07-31 521.73
+Bill Carson Tahoe Regional Medical Center Timothy 2003-09-05 1298.55
+Bill Sanford Vermillion Hospital Jeremiah 2019-03-08 924.04
+Bill Chicot Memorial Medical Center Krystal 2002-11-05 525.21
+Bill Uchealth Yampa Valley Medical Center Brandon 2011-12-10 1169.41
+Bill Harper County Community Hospital Marisa 2020-08-12 191.18
+Bill Firsthealth Montgomery Memorial Hosp Alison 2017-08-04 572.60
+Bill Gay, Mitchell and Le Health System Lauren 2011-06-15 233.36
+Bill Ball-Alexander Health System Matthew 2003-02-11 858.48
+Bill Hospital Metropolitano San German Danny 2019-09-07 1224.58
+Bill Walters, Miles and Nash Clinic Todd 2018-07-08 281.06
+Bill Sanford Vermillion Hospital Kyle 2011-03-19 1069.10
+Bill South Texas Surgical Hospital Derrick 2019-02-15 1382.28
+Bill Mcdaniel, Taylor and Sosa Health Care Crystal 2019-08-24 376.96
+Bill Parkland Health And Hospital System Tara 2009-12-05 878.61
+Bill Northern Nevada Medical Center Joe 2011-01-27 1196.18
+Bill Nichols, Hunter and Jones Medical Group Alejandro 2018-07-22 531.75
+Bill Stringfellow Memorial Hospital Julie 2008-09-26 387.24
+Bill Ballinger Memorial Hospital Nichole 2002-06-28 1286.00
+Bill Roberts, Rodriguez and Randolph Health Care Adrienne 2006-05-23 1273.50
+Bill Monroe Hospital Erin 2004-08-07 241.85
+Bill Keith Clinic Aaron 2001-12-19 769.12
+Bill Piedmont Newton Hospital Derek 2017-02-10 811.31
+Bill Sanford Vermillion Hospital Todd 2016-06-09 724.24
+Bill Estes-Sanchez Clinic Dana 2001-07-03 1008.99
+Bill Davis Health Care Stacy 2009-02-07 335.67
+Bill Gay, Mitchell and Le Health System Jonathan 2007-06-27 1116.62
+Bill Edwards-Ramirez Health Care Lisa 2006-07-08 743.83
+Bill Franklin Health Care Derrick 2004-12-22 726.28
+Bill Davis, Keith and Weaver Brian 2001-04-15 1186.66
+Bill Davis Clinic Johnny 2014-10-16 774.93
+Bill Franklin Health Care Allen 2016-11-18 699.27
+Bill Parkland Health And Hospital System Danny 2019-01-04 414.75
+Bill Hillsboro Community Hospital Lauren 2008-12-01 1141.30
+Bill Miller Health Care Stephen 2013-10-01 1323.30
+Bill Northern Nevada Medical Center Jamie 2003-11-07 304.52
+Bill Castillo, Hayes and Williams Health Care Linda 2004-11-28 765.57
+Bill Cain-Jones Health System John 2016-04-05 1196.66
+Bill Cain-Jones Health System Kent 2016-05-14 1145.85
+Bill Garrison-Phillips Health Care Pamela 2006-11-09 476.78
+Bill Eastern New Mexico Medical Center Shannon 2007-02-04 553.40
+Bill University Of Washington Medical Ctr Gloria 2012-11-10 447.48
+Bill Miranda-Cox Medical Group Jack 2005-02-12 982.69
+Bill Regional West Garden County Hospital Victoria 2012-02-06 1350.96
+Bill Chavez, Johnson and Bray Health System Jeremy 2018-03-18 553.70
+Bill Memorial Hermann Texas Medical Center Amanda 2008-02-05 672.59
+Bill Garrison-Phillips Health Care Gerald 2013-10-20 660.69
+Bill St John Owasso Michael 2011-11-24 882.51
+Bill Novant Health Forsyth Medical Center Laura 2017-11-13 583.37
+Bill Rodriguez-Haas Clinic Gina 2016-11-21 527.76
+Bill Scottsdale Osborn Medical Center Chad 2011-08-29 680.34
+Bill Castillo, Hayes and Williams Health Care Erik 2017-02-19 686.72
+Bill Memorial Hospital Johnny 2019-05-22 1046.40
+Bill Desert View Hospital Gina 2021-02-22 332.51
+Bill Upmc Hamot Barry 2019-09-17 1305.30
+Bill Banner Gateway Medical Center Krystal 2003-03-25 1195.08
+Bill Hacienda Children's Hospital, Inc. Sheryl 2018-01-05 704.98
+Bill Lopez-Wolfe Health System Chad 2017-10-25 1166.92
+Bill Desert View Hospital Ethan 2009-05-25 900.65
+Bill Lester, Hebert and Duran Health System Joann 2018-04-08 1251.08
+Bill Estes-Sanchez Clinic Becky 2019-01-19 782.40
+Bill Nocona General Hospital Jose 2001-07-02 842.31
+Bill Sanchez, Larson and Kent Medical Group Melissa 2002-03-26 672.51
+Bill Lester, Hebert and Duran Health System Robert 2014-03-19 953.38
+Bill Mcdaniel, Taylor and Sosa Health Care Miguel 2001-04-10 1358.30
+Bill Bond-Goodman Clinic Anthony 2010-12-07 703.72
+Bill Woods-Dixon Health Care Sean 2017-04-24 720.67
+Bill Sanchez, Larson and Kent Medical Group Karen 2004-01-19 581.17
+Bill Serrano, Meyers and Miller Clinic Derrick 2008-10-29 345.93
+Bill Miller, Vasquez and Hebert Medical Group Emma 2010-05-23 794.47
+Bill Stringfellow Memorial Hospital Gregory 2003-04-25 145.12
+Bill Rodriguez-Haas Clinic Ruth 2002-02-08 1352.44
+Bill Stringfellow Memorial Hospital Crystal 2006-01-01 133.35
+Bill Jefferson Hospital Sean 2009-09-04 1385.94
+Bill Stewart Clinic Mary 2007-06-27 928.90
+Bill Nichols, Hunter and Jones Medical Group Tracy 2016-02-10 692.95
+Bill Maxwell-Cooper Health Care Monica 2014-10-09 686.47
+Bill Avery-Bailey Ana 2020-12-19 255.14
+Bill Hampton Regional Medical Center Anna 2015-03-04 1160.76
+Bill Adams, Petty and Nelson Micheal 2001-10-11 1038.37
+Bill Castro, Meyer and Schroeder Health Care Leroy 2010-09-30 1131.26
+Bill Moore-Jones Medical Group David 2009-04-07 1174.67
+Bill Hacienda Children's Hospital, Inc. Ana 2017-12-18 1284.23
+Bill Patel-Munoz Chad 2001-02-03 272.97
+Bill Beth Israel Deaconess Hospital-milton Inc Edward 2000-09-20 143.34
+Bill Kahuku Medical Center Cynthia 2008-07-09 686.65
+Bill Harris Health System Kayla 2021-06-26 163.77
+Bill Thompson-Padilla Medical Group Donna 2003-11-08 389.64
+Bill Chinle Comprehensive Health Care Facility Johnny 2015-05-03 1344.90
+Bill Avera Heart Hospital Of South Dakota Barry 2016-10-13 749.92
+Bill Fairbanks Memorial Hospital Kayla 2019-09-11 267.93
+Bill Santa Clara Valley Medical Center Debbie 2003-12-02 575.83
+Bill Jackson-Benson Health Care Stephen 2011-05-03 1227.26
+Bill Mercy Medical Center-clinton Aaron 2009-12-25 432.23
+Bill Nichols-Hill Health Care Kevin 2013-09-01 239.85
+Bill Davis, Keith and Weaver Richard 2004-03-25 1184.37
+Bill Upmc Hamot Kathryn 2006-07-31 277.69
+Bill Knox Jamie 2016-07-29 346.82
+Bill Maxwell-Cooper Health Care Allison 2014-11-08 983.02
+Bill Dixon-Little Donna 2010-04-28 473.93
+Bill Castillo, Hayes and Williams Health Care Regina 2020-04-26 1350.07
+Bill Avery-Bailey Joyce 2014-07-30 474.57
+Bill Moore-Jones Medical Group Katrina 2012-05-26 1393.65
+Bill Hospital Metropolitano San German Kevin 2019-07-10 516.51
+Bill Oklahoma Heart Hospital South, Llc Monica 2010-11-19 1358.13
+Bill Becker, Patterson and Williams Vanessa 2007-02-12 634.41
+Bill Herrera Medical Group Blake 2005-07-24 1303.51
+Bill Knox Monica 2016-03-26 524.73
+Bill Stephens Memorial Hospital Pamela 2017-09-05 1297.94
+Bill Kaiser Foundation Hospital And Rehab Center Robert 2001-11-25 320.31
+Bill Thompson-Padilla Medical Group Janet 2012-02-23 444.64
+Bill Banner Gateway Medical Center Kathryn 2011-06-06 1381.52
+Bill Brown Manuel 2003-04-20 503.63
+Bill Clements Health System Ann 2011-12-10 322.51
+Bill Robbins Medical Group Allen 2020-06-28 1163.61
+Bill Jackson-Benson Health Care Benjamin 2018-03-09 884.08
+Bill Bond-Goodman Clinic Shari 2015-07-01 1060.63
+Bill Bowman-Miller Tamara 2021-10-02 179.18
+Bill Avery-Bailey Kerri 2013-01-13 415.75
+Bill Oconnor Krystal 2014-05-08 605.70
+Bill Torres, Gonzalez and Bush Medical Group Donald 2008-05-23 466.23
+Bill Jones, Randolph and Wallace Clinic Antonio 2004-08-13 1233.72
+Bill Stringfellow Memorial Hospital Jimmy 2021-06-18 1244.53
+Bill Pushmataha County Town Of Antlers Hospital Daniel 2011-11-23 212.88
+Bill Reynolds Medical Group Alison 2006-08-23 862.47
+Bill Ballinger Memorial Hospital Sheryl 2011-05-25 1294.19
+Bill Walters, Miles and Nash Clinic Ashley 2010-05-08 1174.80
+Bill Adams-Mejia Clinic Wendy 2009-06-12 448.65
+Bill Keith Clinic Lauren 2002-05-28 163.71
+Bill Idaho Doctors Hospital Derek 2007-08-21 1399.41
+Bill Faulkner-Munoz Health Care Kayla 2004-04-17 743.72
+Bill Nichols-Hill Health Care Karen 2010-04-26 1365.61
+Bill University Of Washington Medical Ctr Patrick 2018-10-09 662.92
+Bill Ronald Reagan U C L A Medical Center Michelle 2012-03-19 1101.69
+Bill Knight-Butler Medical Group Steven 2013-03-16 406.95
+Bill Meyer Clinic Jennifer 2015-10-08 1230.07
+Bill Buckley Health System Tamara 2012-11-25 1163.47
+Bill Ronald Reagan U C L A Medical Center Heather 2020-07-30 168.15
+Bill Stewart Clinic Lori 2011-12-18 1225.77
+Bill Davis Health Care Derek 2007-10-01 1187.35
+Bill Lopez-Wolfe Health System Bobby 2015-11-04 913.32
+Bill Reynolds, Alvarez and Morrison Health System Edward 2005-11-22 1230.74
+Bill Guthrie Towanda Memorial Hospital Katrina 2012-01-05 879.56
+Bill Walters, Miles and Nash Clinic Stephen 2002-07-06 959.29
+Bill Riverside Community Hospital Stephen 2011-02-20 952.05
+Bill Serrano, Meyers and Miller Clinic Julian 2018-08-03 106.10
+Bill Upmc Hamot Beverly 2000-10-02 209.96
+Bill Lewis Clinic Tamara 2005-06-21 566.91
+Bill Parkland Health And Hospital System Nichole 2004-02-11 578.41
+Bill Chicot Memorial Medical Center Lindsay 2011-08-28 397.01
+Bill Beth Israel Deaconess Hospital-milton Inc Donna 2016-01-02 93.54
+Bill Wright Medical Group Spencer 2004-02-08 867.30
+Bill Becker, Patterson and Williams Jill 2016-12-08 490.24
+Bill Ronald Reagan U C L A Medical Center Adrienne 2002-06-16 1245.27
+Bill Phs Indian Hospital At Eagle Butte Daniel 2001-09-19 1082.51
+Bill Martin-Jimenez Clinic Antonio 2000-09-21 790.85
+Bill Mercy Medical Center-clinton Timothy 2011-03-04 1074.03
+Bill Miller, Vasquez and Hebert Medical Group Mark 2001-05-05 1367.68
+Bill Patel-Munoz Wesley 2008-09-12 843.35
+Bill Cartersville Medical Center Sheryl 2002-11-19 181.56
+Bill Lopez-Wolfe Health System Walter 2004-06-11 1250.31
+Bill Kansas Spine & Specialty Hospital, Llc Mark 2004-02-07 1192.34
+Bill Nocona General Hospital Ashley 2011-09-16 650.41
+Bill Garrison-Phillips Health Care Darryl 2018-03-27 620.93
+Bill Davis Regional Medical Center Teresa 2020-07-28 338.71
+Bill Hill, Mclean and Hodges Aaron 2018-08-06 905.07
+Bill Phs Indian Hospital At Eagle Butte Stephen 2016-08-18 675.55
+Bill Nanticoke Memorial Hospital Johnny 2009-01-03 442.78
+Bill Cisneros, Haley and Reid Debra 2019-06-19 665.93
+Bill Valley Children's Hospital Samantha 2010-05-05 861.10
+Bill Pawnee County Memorial Hospital Rachel 2014-04-15 605.73
+Bill Middle Park Medical Center Maria 2007-08-20 567.87
+Bill Davis, Keith and Weaver Kyle 2017-07-07 731.99
+Bill Adams-Mejia Clinic Jake 2007-03-20 1072.50
+Bill Laredo Medical Center Michelle 2001-07-10 1288.04
+Bill Roach, Young and Oneal Health Care Monica 2015-06-11 176.92
+Bill Harper County Community Hospital Zachary 2017-10-20 297.49
+Bill Carter, Navarro and Barton Medical Group Antonio 2012-10-15 823.81
+Bill Chicot Memorial Medical Center Ricky 2013-09-06 448.38
+Bill Kahuku Medical Center Brittany 2016-06-04 1170.27
+Bill Adams, Petty and Nelson Lauren 2001-01-07 673.34
+Bill Idaho Doctors Hospital Joyce 2018-03-17 857.60
+Bill Lewis Clinic Warren 2013-06-22 730.48
+Bill Clark Memorial Hospital Chad 2006-10-28 171.95
+Bill Edwards-Ramirez Health Care Sharon 2020-10-23 705.71
+Bill Chinle Comprehensive Health Care Facility Janet 2010-07-27 1291.34
+Bill Roberts, Rodriguez and Randolph Health Care Kristie 2011-08-03 239.04
+Bill Gonzalez, Hughes and Perkins Health Care Danny 2006-01-17 1018.70
+Bill Johnson Memorial Hospital Lauren 2014-11-26 797.73
+Bill St Mary's Hospital At Amsterdam Roy 2018-04-07 699.88
+Bill Cox, Garner and Patterson Clinic Gloria 2021-08-15 447.95
+Bill Avery-Bailey Derrick 2018-09-07 780.34
+Bill Woods-Dixon Health Care Stephanie 2021-03-17 919.70
+Bill Eastern New Mexico Medical Center Thomas 2004-10-06 990.73
+Bill Knight-Butler Medical Group Linda 2020-10-18 588.57
+Bill Torres, Gonzalez and Bush Medical Group Brett 2007-10-31 148.67
+Bill Mcdowell-Thompson Health Care Joe 2021-08-01 1282.82
+Bill Nanticoke Memorial Hospital Joe 2014-05-23 1294.49
+Bill Mcdowell-Thompson Health Care Cheryl 2013-03-28 1022.09
+Bill Avery-Bailey Chad 2002-10-01 275.44
+Bill Adams, Petty and Nelson Edward 2020-12-09 760.20
+Bill Nanticoke Memorial Hospital Allison 2013-07-19 1247.56
+Bill Miller, Terry and Brown Clinic Allison 2008-12-29 449.84
+Bill Mercy Hospital Logan County, Inc Katrina 2019-10-08 664.07
+Bill Nash, Mason and Diaz Clinic Ruth 2007-04-29 1381.10
+Bill Beth Israel Deaconess Hospital-milton Inc Heather 2011-09-03 144.21

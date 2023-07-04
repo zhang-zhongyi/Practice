@@ -1,0 +1,206 @@
+You are inside question view of Trade Matching Engine
+
+3h 54m left
+
+Skip to main content
+ALL
+1
+1. Trade Matching Engine
+Trade Matching Engine Problem
+Background
+You're an employee of a major stock exchange and the initial public offering (IPO) of the Ávant Company is about to begin at 9:30am today (it's currently 5:30am). However, when attempting to setup the new company for trading it was noticed that the system only accepts ASCII characters.
+
+Redoing the entire matching engine of the exchange to handle the odd characters of the company name before trading begins today isn't possible and delaying the IPO will harm the reputation of the exchange. You've been tasked with writing a matching engine from scratch that will run the order book for this one stock (hence avoiding using the name in code).
+
+The clock's ticking and you have 4 hours (240 minutes) before the code you write is used to start processing orders from all over the world! What could go wrong?
+
+Order Matching Engine Specs
+The "order book" is composed of any unfulfilled limit orders, and dictates the market price at any given moment
+Market orders:
+Are executed against any matching orders in the order book, regardless of price
+Are executed starting with the best price available (lower prices first for buys, higher prices first for sells)
+Can be filled via multiple orders on the order book
+Can be partially filled, but any portion that isn't filled should be canceled
+Limit orders:
+Are only executed against matching orders that are equal or better than their target price
+For example, a limit order to buy at $5.00 will execute against a sell order at $4.50 (trading at $4.50), but not a sell order at $5.50
+Are executed starting with the best price available (lower prices first for buys, higher prices first for sells)
+Can be filled via multiple orders on the order book
+Can be partially filled, but remain on the order book until they are completely filled
+In the event of multiple orders on the order book with the same price, priority goes to orders that were placed earlier
+Constraints
+There will be no more than 20000 orders during the day
+Orders will have unique, strictly increasing timestamps
+Input Format
+A line with a single integer (1 <= N <= 20000) representing the number of orders (additional lines you will receive)
+Chronologically sorted (earlier orders first) list of orders with one line representing each order (see below for examples)
+Elements of a line are as follows and will each be separated by a single space:
+TIME: HH:MM:SS (between 09:30:00 and 16:00:00)
+CLIENT_ID: non-negative integer representing the ID of the entity placing the order
+DIRECTION: single character representing buy or sell
+b: buy order
+s: sell order
+SIZE: positive integer representing number of shares, e.g. 100
+TYPE: single character representing the trade type
+m: market order
+l: limit order
+PRICE: non-negative float value (specified to two decimal places) representing target price for limit orders, -1.00 will be provided for market orders
+Output Format
+A list of trades done in a given day (one per line), in the order the trades occurred. Note that it is possible for a single order to trigger multiple trades at the same time, as a large order may be partially or completely filled by multiple smaller orders. For trades occurring at the same time:
+Print out the trades in order from best to worst price (i.e. the order of preference to be executed).
+If multiple trades occur at the same time and the same price, sort by the lesser of the two order times involved in each trade.
+For example if there is a buy order by client 1 at 9:31:00 for $5.00, another buy order by client 2 at 9:32:00 for $5.00, and then a sell order from client 3 that causes both buy orders to be filled at 9:35:00, the trade with client 1 should be printed before the trade with client 2.
+Elements of the output lines are as follows and should be separated by a single space
+TIME: HH:MM:SS, time that the trade occurred
+BUY_CLIENT_ID: integer, client id of the buyer
+SELL_CLIENT_ID: integer, client id of the seller
+PRICE: float, price the trade is executed at (specified to two decimal places)
+SIZE: integer, number of shares traded
+Samples
+Example #0
+Sample Input
+5
+09:30:00 1 b 100 l 9.99
+09:31:00 2 b 1000 l 9.95
+09:32:00 3 s 100 l 10.01
+09:33:00 4 s 1000 l 10.05
+09:41:00 5 b 200 m -1.00
+Sample Output
+09:41:00 5 3 10.01 100
+09:41:00 5 4 10.05 100
+Example #1
+Sample Input
+4
+10:05:00 1 b 100 m -1.00
+10:05:01 2 s 50 m -1.00
+10:10:07 3 s 200 l 10.01
+10:15:10 4 b 100 m -1.00
+Sample Output
+10:15:10 4 3 10.01 100
+Example #2
+Sample Input
+5
+09:30:00 1 b 100 l 9.99
+09:31:00 2 b 1000 l 9.95
+09:32:00 3 s 100 l 10.01
+09:33:00 4 s 1000 l 9.99
+09:41:00 5 b 200 m -1.00
+Sample Output
+09:33:00 1 4 9.99 100
+09:41:00 5 4 9.99 200
+Example #3
+Sample Input
+5
+14:00:00 1 s 100 l 10.00
+14:00:30 2 s 100 l 10.00
+14:01:00 3 s 100 l 9.00
+14:01:30 4 s 100 l 9.00
+15:00:00 5 b 500 m -1.00
+Sample Output
+15:00:00 5 3 9.00 100
+15:00:00 5 4 9.00 100
+15:00:00 5 1 10.00 100
+15:00:00 5 2 10.00 100
+Tips
+Input will be fed to your program's STDIN and output will be expected in STDOUT.
+32-bit integers should be sufficient (huge numbers will not be passed for e.g. number of shares).
+Please consider readability, clarity, and testability when writing your code and ensure it's well commented. Yes, we do look at your code.
+What language should I use?
+We are currently only accepting answers in Python 2/3 or C++, with a preference for Python 3 or C++ depending on what we have asked for you to code in.  
+Please note - HackerRank's Python environment only includes the Python Standard Library. We have nothing against pandas, numpy, and the like, but currently HackerRank does not support external modules.
+Language
+Python 3
+
+Autocomplete Disabled
+
+
+
+
+More
+110111213141516171819
+print("helloworld")
+Line: 19 Col: 18
+
+Test Results
+
+Custom Input
+No test case passed.
+Use print or log statements to debug why your hidden test cases are failing. Hidden test cases  are used to evaluate if your code can handle different scenarios, including corner cases.
+
+Test case 0
+
+Test case 1
+
+Test case 2
+
+Test case 3
+
+Test case 4
+
+Test case 5
+
+Test case 6
+
+Test case 7
+
+Test case 8
+
+Test case 9
+
+Test case 10
+
+Test case 11
+
+Test case 12
+
+Test case 13
+
+Test case 14
+
+Test case 15
+
+Test case 16
+
+Test case 17
+
+Test case 18
+
+Test case 19
+
+Test case 20
+
+Test case 21
+
+Test case 22
+
+Test case 23
+
+Test case 24
+
+Test case 25
+
+Test case 26
+Input (stdin)
+
+Run as Custom Input
+|
+Download
+5
+09:30:00 1 b 100 l 9.99
+09:31:00 2 b 1000 l 9.95
+09:32:00 3 s 100 l 10.01
+09:33:00 4 s 1000 l 10.05
+09:41:00 5 b 200 m -1.00
+Your Output (stdout)
+helloworld
+Expected Output
+
+Download
+09:41:00 5 3 10.01 100
+09:41:00 5 4 10.05 100
+
+Run Code
+
+Run Tests
+
+Submit
